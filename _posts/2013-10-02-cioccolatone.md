@@ -3,7 +3,7 @@ layout: post
 title: CIOCCOLATONE
 description: "Mmmmm cioccolato..."
 modified: 2013-10-13
-tags: [cioccolato]
+tags: [cioccolato, dolci]
 image:
   feature: chocolate.jpg
   credit: George Hodan
