@@ -72,7 +72,7 @@ Oggi ho fatto il Cioccolatone. È una torta al cioccolato molto cioccolatosa e f
 	</font> Preparazione
 </h3>
 
-![Smithsonian Image]({{ site.url }}/images/3953273590_704e3899d5_m.jpg)
+![Smithsonian Image]({{ site.baseurl }}/images/3953273590_704e3899d5_m.jpg)
 {: .pull-right}
 
 Versare la panna acida nella planetaria o in una coppa per frullare poi il tutto. Usate come misurino sempre il bicchiere della della panna acida, quindi aggiungere il resto degli ingredienti. Alla fine aggiungere lo zucchero vanigliato, il lievito le uova ed il sale. Imburrate ed infarinate la forma di Plumcake, poi versateci dentro l'impasto ed infornate a 180°C (forno statico) per un ora. Per farla più cioccolatosa, quando si è raffreddata potete metterci una bella glassa al cioccolato...

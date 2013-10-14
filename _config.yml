@@ -2,7 +2,7 @@ title:            frangipani
 description:      Ricette naturali golose e facili da rifare.
 disqus_shortname: 
 #Comment out url when working locally to resolve base urls correctly
-url:              http://erirai.github.com/frangipani
+baseurl:              http://erirai.github.com/frangipani
 
 # Owner/author information
 owner:

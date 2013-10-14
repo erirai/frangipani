@@ -7,7 +7,18 @@ task :deploy do
   message = "Build site at #{Time.now.utc}"
   status = system("git commit -m \"#{message}\"")
   puts status ? "Success" : "Failed"
+  puts "\n## Pulling latest from remote"
+  status = system("git pull origin gh-pages")
+  puts status ? "Success" : "Failed"
+  message = "Merge #{Time.now.utc}"
+  status = system("git commit -a -m \"#{message}\"")
   puts "\n## Pushing commits to remote"
   status = system("git push origin gh-pages")
   puts status ? "Success" : "Failed"
+end
+
+desc "Work _site/"
+task :work do
+  puts "\n## working locally..."
+  system("jekyll serve --watch --baseurl=")
 end

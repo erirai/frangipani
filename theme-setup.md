@@ -123,7 +123,7 @@ hpstr-jekyll-theme/
 
 ### _config.yml
 
-Most of the variables found here are used in the .html files found in `_includes` if you need to add or remove anything. A good place to start would be to add the `title`, `description`, and `url` for your site. Links are absolute and prefixed with `{{ "{{ site.url " }}}}` in the various `_includes` and `_layouts`, so remember to comment out `url`[^1] when working locally to avoid broken links.
+Most of the variables found here are used in the .html files found in `_includes` if you need to add or remove anything. A good place to start would be to add the `title`, `description`, and `url` for your site. Links are absolute and prefixed with `{{ "{{ site.baseurl " }}}}` in the various `_includes` and `_layouts`, so remember to comment out `url`[^1] when working locally to avoid broken links.
 
 #### Disqus Comments
 
@@ -204,7 +204,7 @@ Post and page thumbnails work the same way. These are used by [Open Graph](https
 
 Here's an example of what a tweet to your site could look like if you activate Twitter Cards and include all the metas in your post's YAML.
 
-![Twitter Card summary large image screenshot]({{ site.url }}/images/twitter-card-summary-large-image.jpg)
+![Twitter Card summary large image screenshot]({{ site.baseurl }}/images/twitter-card-summary-large-image.jpg)
 
 #### Videos
 
@@ -222,7 +222,7 @@ Twitter cards make it possible to attach images and post summaries to Tweets tha
 
 #### Link Post Type
 
-Link blog like a champ by adding `link: http://url-you-want-linked` to a post's YAML front matter. Arrow glyph links to the post's permalink and the the `post-title` links to the source URL. Here's an [example of a link post]({{ site.url }}/sample-link-post/) if you need a visual.
+Link blog like a champ by adding `link: http://url-you-want-linked` to a post's YAML front matter. Arrow glyph links to the post's permalink and the the `post-title` links to the source URL. Here's an [example of a link post]({{ site.baseurl }}/sample-link-post/) if you need a visual.
 
 ---
 
@@ -248,7 +248,7 @@ Having a problem getting something to work or want to know why I setup something
 
 ## License
 
-This theme is free and open source software, distributed under the [GNU General Public License]({{ site.url }}/LICENSE) version 2 or later. So feel free to use this Jekyll theme on your site without linking back to me or including a disclaimer. 
+This theme is free and open source software, distributed under the [GNU General Public License]({{ site.baseurl }}/LICENSE) version 2 or later. So feel free to use this Jekyll theme on your site without linking back to me or including a disclaimer. 
 
 ---
 
