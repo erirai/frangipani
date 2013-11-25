@@ -97,8 +97,6 @@ Dolcetto o scherzetto? Mi piace troppo Halloween, peccato che qui in Svizzera no
   </font> Preparazione
 </h3>
 
-
-
 Accendete il forno a 180°C e preparate le formine per i Muffin. Mettete la farina, il bicarbonato ed il cacao in una ciotola e setacciatela. In un altra ciotola mescolate con il mixer il burro e lo zucchero finché risulterà spumoso. Aggiungete l'uovo e la metà del miscuglio di farina, poi il siero di burro, lo zucchero vanigliato ed il colorante rosso. Dopo aver mescolato il tutto per un po' aggiungete il resto del miscuglio di farina e mettete l'impasto nelle formine.
 ![Smithsonian Image]({{ site.baseurl }}/images/halloween-crudi.jpg)
 {: .pull-right}

@@ -60,8 +60,6 @@ Volevo fare qualcosa con la quinoa e ho pasticciato un po' in cucina... Sono ver
 	</font> Preparazione
 </h3>
 
-
-
 Sciacquate la quinoa sotto l'acqua fredda, dopo mettete la quinoa in una pentola con il doppio dell'acqua, aggiungete del sale e fatela cucinare come indicato sulla confezione (più o meno per 15min). Quando è pronta scolate l'acqua in eccesso e mettete da parte.
 
 Lavate e grattugiate le zucchine in una ciotla. Tagliate un pezzettino di zenzero, lavatelo, pelatelo e poi grattugiatelo ed aggiungetelo alle zucchine. Mi raccomando, lo zenzero ha un gusto molto forte, quindi ne basta pochissimo... poi dipende come vi piace! Aggiungete il parmiggiano grattugiato e l'uovo. Aggiustate di sale e pepe e aggiungete la qiunoa. Impastate velocemente il tutto finché risulterà compatto. Prendete delle formine piccole da muffin e adagiatele su di una teglia. Riempite le formine con l'impasto e schiacciate bene
