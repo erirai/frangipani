@@ -10,6 +10,8 @@ comments: true
 share: true
 ---
 
+> Grazie Madrina per questa ricetta!
+
 Oggi ho fatto i primi biscotti di Natale :-) Secondo me sono i più facili da fare, hanno un leggero gusto di limone e sono buonissimi! Nei prossimi giorni ne farò altri...
 
 
