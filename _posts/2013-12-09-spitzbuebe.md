@@ -10,6 +10,8 @@ comments: true
 share: true
 ---
 
+> Grazie Madrina per questa ricetta!
+
 Ecco la seconda parte dei biscotti di natale... oggi ne ho fatti tre tipi. Questi sono i più buoni in assoluto! Me ne potrei mangiare a non finire, mmmmmm. Poi sono fatti con la pasta frolla, quindi...
 
 
