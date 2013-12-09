@@ -41,6 +41,10 @@ Volevo iniziare il mio Blog condividendo con voi la mia torta preferita... È LA
         <td>zucchero vanigliato</td>
       </tr>
       <tr>
+        <td>2</td>
+        <td>uova</td>
+      </tr>
+      <tr>
         <td>1 pizzico</td>
         <td>sale</td>
       </tr>
