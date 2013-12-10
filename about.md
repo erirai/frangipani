@@ -4,28 +4,18 @@ permalink: /about/
 title: Su di me
 image:
   feature: sudime-header.jpg
-  credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 share: true
 ---
 
-They say three times the charm, so here is another free responsive Jekyll theme for you. I've learned a ton since open sourcing my first two themes [on Github](http://github.com/mmistakes), and wanted to try a few new things this time around. If you've used my previous themes most of this should be familiar territory...
+Secondo me è molto interessante sapere chi si nasconde dietro un blog... per questo volevo condividere con voi i momenti più importanti della mia vita, almeno quelli che ho vissuto fin ora!
 
-## What HPSTR brings to the table:
-
-* Responsive templates for post, page, and post index `_layouts`. Looks great on mobile, tablet, and desktop devices.
-* Gracefully degrads in older browsers. Compatible with Internet Explorer 8+ and all modern browsers.  
-* Modern and minimal design.
-* Sweet animated menu.
-* Readable typography to make your words shine.
-* Support for large images to call out your favorite posts.
-* Comments powered by [Disqus](http://disqus.com) if you choose to enable.
-* Simple and clear permalink structure[^1].
-* [Open Graph](https://developers.facebook.com/docs/opengraph/) and [Twitter Cards](https://dev.twitter.com/docs/cards) support for a better social sharing experience.
-* Simple [custom 404 page]({{ site.baseurl }}/404.html) to get you started.
-* Stylesheets for Pygments and Coderay [syntax highlighting]({{ site.baseurl }}/code-highlighting-post/) to make your code examples look snazzy
-* [Grunt](http://gruntjs.com) build script for easy theme development
-
-<div markdown="0"><a href="{{ site.baseurl }}/theme-setup" class="btn btn-info">Install the Theme</a></div>
-
-[^1]: Example: *domain.com/category-name/post-title*
+* Sono nata (1987) e cresciuta in Svizzera, dove ancora oggi vivo. Sono figlia di emigrati siciliani e ho due sorelle più piccole.
+* Dopo aver finito le scuole obbligatorie, nel 2002 sono andata al ginnasio.
+* Nel 2005 finalmente mio marito ed io ci siamo fidanzati.
+* Finito il ginnasio, ne avevo abbastanza di studiare e sono andata a lavorare per un anno. Nel 2008 decisi di fare un diploma in economia.
+* Dopo aver ricevuto il dipoloma nel 2010 mi hanno dato l'opporutnità di poter lavorare come Workforce Management Specialist. Era un bel lavoro, molto complesso, interessantissimo! 
+* Nel 2010 mio marito mi chiese di sposarlo, naturalmente ho detto di si e nel 2011 ci siamo sposati! È stato un matrimonio meraviglioso, divertentissimo proprio come lo volevamo noi.
+* Esattamente al nostro primo anniversario di matrimonio abbiamo saputo di aspettare un bambino.
+* In primavera del 2013 è nata nostra figlia, una bellissima e dolcissima bimba.
+* Ora sono mamma e moglie a tempo pieno e posso godermi ogni attimo con nostra figlia. Ringrazio ogni giorno mio marito che ci permette di poterlo fare... 
+* Finalmente ora ho più tempo per dedicarmi alla mia passione per la cucina, ma soprattutto per i dolci. Volevo condividere le mie ricette con altre persone, quindi mio marito esaudì il mio desiderio, mettendomi a disposizione questo blog!
