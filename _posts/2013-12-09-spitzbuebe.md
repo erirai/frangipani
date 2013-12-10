@@ -10,7 +10,7 @@ comments: true
 share: true
 ---
 
-![Smithsonian Image]({{ site.baseurl }}/images/stelle-natale.jpg)
+![Smithsonian Image]({{ site.baseurl }}/images/stelle-natale-special.jpg)
 {: .pull-right}
 > Grazie Madrina per questa ricetta!
 
