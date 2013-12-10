@@ -5,7 +5,7 @@ description: "Cookies perfetti da poter portare ovunque"
 modified: 2013-11-25
 tags: [cioccolato, biscotti, cookies]
 image:
-  feature: cookies-cioccolato-header.jpg
+  feature: cookiescioccolato-header.jpg
   credit: Anna Langova 
   creditlink: http://www.publicdomainpictures.net/view-image.php?image=609&picture=cookies&large=1
 comments: true
@@ -61,10 +61,10 @@ Mio marito per domani voleva dei dolcetti da potersi portare per un viaggetto in
 </h3>
 
 Mettete il burro e lo zucchero in una coppa e mescolate con un cucchiaio, finché i due ingredienti si saranno amalgamati bene. Poi mettete il tuorlo d'uovo e lo zucchero vanigliato e mescolate ancora. Aggiungete la farina setacciata ed un pizzico di sale e continuate a mescolare. Per ultimo aggiungete il cioccolato a pezzetti e impastate velocemente con le mani. Prendete una cucchiaiata d'impasto, fate una pallina, mettetela sulla teglia e schiacciatela un po'.
-![Smithsonian Image]({{ site.baseurl }}/images/cookies-cioccolato-crudi.jpg)
+![Smithsonian Image]({{ site.baseurl }}/images/cookiescioccolato-crudi.jpg)
 {: .pull-right}
 Infornate i cookies nel forno preriscaldato a 190°C per 12-15min. Dopo sfornateli e fateli raffreddare.
-![Smithsonian Image]({{ site.baseurl }}/images/cookies-cioccolato-cotti.jpg)
+![Smithsonian Image]({{ site.baseurl }}/images/cookiescioccolato-cotti.jpg)
 {: .pull-right}
 
 

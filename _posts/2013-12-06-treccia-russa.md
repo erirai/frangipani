@@ -10,6 +10,8 @@ comments: true
 share: true
 ---
 
+![Smithsonian Image]({{ site.baseurl }}/images/stelle-natale.jpg)
+{: .pull-right}
 Il 6 dicembre qui in Svizzera Santa Claus viene a casa dei bambini per portargli un sacchettino con le noccioline, mandarini e cioccolato... ma solo ai bambini buoni! Per i bambini cattivi viene Schmutzli (una specie di uomo nero)! Per questa occasione il nonno si è travestito per fare una sorpresa a nostra figlia... e per non restare a stomaco vuoto ho preparato la treccia russa...
 
 

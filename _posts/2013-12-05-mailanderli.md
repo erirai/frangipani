@@ -10,6 +10,8 @@ comments: true
 share: true
 ---
 
+![Smithsonian Image]({{ site.baseurl }}/images/stelle-natale.jpg)
+{: .pull-right}
 > Grazie Madrina per questa ricetta!
 
 Oggi ho fatto i primi biscotti di Natale :-) Secondo me sono i più facili da fare, hanno un leggero gusto di limone e sono buonissimi! Nei prossimi giorni ne farò altri...
@@ -74,7 +76,7 @@ Prima d'infornare i Mailänderli, prendete il tuorlo che avevate messo da parte,
 Infornate i Mailänderli nel forno preriscaldato a 180°C per ca 13min.
 ![Smithsonian Image]({{ site.baseurl }}/images/mailanderli-sfornati.jpg)
 {: .pull-right}
-![Smithsonian Image]({{ site.baseurl }}/images/mailanderli1.jpg)
+![Smithsonian Image]({{ site.baseurl }}/images/mailanderli.jpg)
 {: .pull-right}
 
 

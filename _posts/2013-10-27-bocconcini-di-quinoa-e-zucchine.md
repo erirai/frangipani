@@ -5,7 +5,7 @@ description: "Un aperitivo velocissimo e sanissimo"
 modified: 2013-10-27
 tags: [quinoa, aperitivo, spizzichini, zucchine]
 image:
-  feature: quinoa.jpg
+  feature: bocconciniquinoa-header.jpg
   credit: Niedereschbach
   creditlink: http://commons.wikimedia.org/wiki/File:Quinoa-gepufft.jpg
 comments: true
@@ -63,10 +63,10 @@ Volevo fare qualcosa con la quinoa e ho pasticciato un po' in cucina... Sono ver
 Sciacquate la quinoa sotto l'acqua fredda, dopo mettete la quinoa in una pentola con il doppio dell'acqua, aggiungete del sale e fatela cucinare come indicato sulla confezione (più o meno per 15min). Quando è pronta scolate l'acqua in eccesso e mettete da parte.
 
 Lavate e grattugiate le zucchine in una ciotla. Tagliate un pezzettino di zenzero, lavatelo, pelatelo e poi grattugiatelo ed aggiungetelo alle zucchine. Mi raccomando, lo zenzero ha un gusto molto forte, quindi ne basta pochissimo... poi dipende come vi piace! Aggiungete il parmiggiano grattugiato e l'uovo. Aggiustate di sale e pepe e aggiungete la qiunoa. Impastate velocemente il tutto finché risulterà compatto. Prendete delle formine piccole da muffin e adagiatele su di una teglia. Riempite le formine con l'impasto e schiacciate bene
-![Smithsonian Image]({{ site.baseurl }}/images/bocconcini-di-quinoa-crudi.jpg)
+![Smithsonian Image]({{ site.baseurl }}/images/bocconciniquinoa-crudi.jpg)
 {: .pull-right}
 Infornate i bocconcini nel forno ventilato a 160°C per ca. 20min o statico a 180°C per 25min.
-![Smithsonian Image]({{ site.baseurl }}/images/bocconcini-di-quinoa-cotti.jpg)
+![Smithsonian Image]({{ site.baseurl }}/images/bocconciniquinoa-cotti.jpg)
 {: .pull-right}
 
 

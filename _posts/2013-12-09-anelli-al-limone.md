@@ -10,6 +10,8 @@ comments: true
 share: true
 ---
 
+![Smithsonian Image]({{ site.baseurl }}/images/stelle-natale.jpg)
+{: .pull-right}
 Ieri cercavo dei nuovi biscotti di natale e ho trovato questi. A quanto pare sono dei tipici biscotti di natale svizzeri... boooo, mai mangiati. Ma sono veramente buoni, li rifarò sicuramente!
 
 

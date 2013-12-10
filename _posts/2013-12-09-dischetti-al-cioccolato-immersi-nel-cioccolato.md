@@ -10,6 +10,8 @@ comments: true
 share: true
 ---
 
+![Smithsonian Image]({{ site.baseurl }}/images/stelle-natale.jpg)
+{: .pull-right}
 Mio marito mi aveva chiesto dei biscotti molto cioccolatosi... Eccoli quà!
 
 
