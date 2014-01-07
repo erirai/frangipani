@@ -9,6 +9,7 @@ image:
 comments: true
 share: true
 ---
+> Buon Anno a tutti!
 
 Mio marito ed io oggi ci siamo messi a fare la marmellata d'arance. L'ho sempre voluta fare... Di solito faccio sempre quella di fragole e di lamponi, questa volta sarà una marmellata con un tocco invernale!
 
