@@ -3,7 +3,7 @@ layout: post
 title: Crostata di Lamponi
 description: "Semplicemente buonissima..."
 modified: 2013-10-18
-tags: [lamponi, dolci, pasta frolla]
+tags: [lamponi, dolci, pasta frolla, crostata]
 image:
   feature: crostatalamponi-header.jpg
   credit: Petr Kratochvil
