@@ -57,6 +57,10 @@ Finalmente ci sono gli asparagi, sono una cosa fantastica poi si possono fare in
 				<td>parmiggiano grattugiato</td>
 			</tr>
 			<tr>
+				<td>3</td>
+				<td>uova</td>
+			</tr>
+			<tr>
 				<td>qb</td>
 				<td>sale</td>
 			</tr>

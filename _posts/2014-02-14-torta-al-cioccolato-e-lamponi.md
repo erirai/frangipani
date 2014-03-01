@@ -10,7 +10,7 @@ comments: true
 share: true
 ---
 
-![Smithsonian Image]({{ site.baseurl }}/images/cuori-san-valentino.png)
+![Smithsonian Image]({{ site.baseurl }}/images/cuori-san-valentino-special.png)
 {: .pull-right}
 
 > Buon San Valentino a tutti!
