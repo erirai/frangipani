@@ -1,6 +1,6 @@
 title:            frangipani
 description:      Ricette naturali golose e facili da rifare.
-disqus_shortname: 
+disqus_shortname: frangipani
 #Comment out url when working locally to resolve base urls correctly
 baseurl:              http://erirai.github.com/frangipani
 
