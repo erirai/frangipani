@@ -95,7 +95,7 @@ E mia mamma ha fatto questa buonissima e simpaticissima torta col trucco, troppo
 E questa era tutta la tavolata.
 ![Smithsonian Image]({{ site.baseurl }}/images/minicclimone-tavola.jpg)
 {: .pull-right}
-
+ra
 
 <h4>Buon appetito
 	<font color="red">
