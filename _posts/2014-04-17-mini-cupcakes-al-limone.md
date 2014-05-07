@@ -58,7 +58,7 @@ Oggi mio marito compie 27 anni... uff ormai ci avviciniamo ai 30!!! Il tema era 
 		</tbody>
 	</table>
 	<br></br>
-	<i class="pull-right" style="font-size: 80%;">per ca. 55 mini muffins</i>
+	<i class="pull-right" style="font-size: 80%;">per ca. 55 mini muffin</i>
 </div>
 
 
