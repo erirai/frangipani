@@ -83,10 +83,10 @@ Poi ho fatto la crema di burro aromatizzata al limone per decorare i Mini Cupcak
 {: .pull-right}
 
 
-Come torta ho fatto la Caprese al limone (post del 19.3.14) ricoperta e decorata con la pasta di zucchero.
+Come torta ho fatto la Caprese al limone [(la ricetta la trovate nel post del 19.03.14)]({{ site.baseurl }}/caprese-al-limone) ricoperta e decorata con la pasta di zucchero.
 ![Smithsonian Image]({{ site.baseurl }}/images/minicclimone-torta.jpg)
 {: .pull-right}
-Poi i Cupcakes con mirtilli e cioccolato (post del 14.1.14) decorati con la crema di burro azzurra e pasta di zucchero.
+Poi i Cupcakes con mirtilli e cioccolato [(la ricetta la trovate nel post del 14.01.14)]({{ site.baseurl }}/muffin-con-mirtilli-e-cioccolato) decorati con la crema di burro azzurra e pasta di zucchero.
 ![Smithsonian Image]({{ site.baseurl }}/images/minicclimone-cc.jpg)
 {: .pull-right}
 E mia mamma ha fatto questa buonissima e simpaticissima torta col trucco, troppo bella! Poi più avanti ve la faccio...
@@ -95,7 +95,6 @@ E mia mamma ha fatto questa buonissima e simpaticissima torta col trucco, troppo
 E questa era tutta la tavolata.
 ![Smithsonian Image]({{ site.baseurl }}/images/minicclimone-tavola.jpg)
 {: .pull-right}
-ra
 
 <h4>Buon appetito
 	<font color="red">
