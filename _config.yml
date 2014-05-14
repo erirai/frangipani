@@ -13,10 +13,10 @@ owner:
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
   facebook:       
-  github:         
+  github:         erirai
   stackexchange:  
   linkedin:       
-  instagram:      
+  instagram:      erica_raiano
   flickr:         
   tumblr:         
   # For Google Authorship https://plus.google.com/authorship
@@ -33,9 +33,9 @@ bing_verify:
 links:
   # - title: Theme Setup
   #   url: /theme-setup
-  # - title: External Link
-  #   url: http://mademistakes.com
-  #   external: true
+  - title: Instagram
+    url: http://instagram.com/erica_raiano
+    external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/Zurich
