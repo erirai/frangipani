@@ -10,6 +10,8 @@ comments: true
 share: true
 ---
 
+> Grazie a mia soru e a mio cognato per la cena!
+
 Mia soru e mio cognato oggi hanno cucinato questo fantastico piatto di pasta... Sono stati velocissimi ed era veramente ottimo!
 
 
