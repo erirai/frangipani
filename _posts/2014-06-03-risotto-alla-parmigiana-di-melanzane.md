@@ -3,7 +3,7 @@ layout: post
 title: Risotto alla parmigiana di melanzane
 description: "Un'esplosione di sapori tutti mediterranei..."
 modified: 2014-06-03
-tags: [risotto, melanzane, pomodori, mozzarella, mozzarella di bufala, basilico, pesto, parmigiana]
+tags: [risotto, melanzane, pomodorini, mozzarella, mozzarella di bufala, basilico, pesto, parmigiana]
 image:
   feature: risottoparmigiana-header.jpg
 comments: true
