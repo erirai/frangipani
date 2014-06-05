@@ -79,7 +79,7 @@ Sta sera avrò ospiti... dato che è da molto tempo che non faccio i cannelloni,
       </tr>
       <tr>      
         <td>100gr</td>
-        <td>formaggio grattugiato</td>
+        <td>parmigiano grattugiato</td>
       </tr>
     </tbody>
   </table>

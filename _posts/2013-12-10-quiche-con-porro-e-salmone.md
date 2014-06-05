@@ -27,7 +27,7 @@ Non avevo molto tempo per cucinare oggi, quindi ho fatto questa quiche. È veram
 			</tr>
 			<tr>
 				<td>50gr</td>
-				<td>parmiggiano grattugiato</td>
+				<td>parmigiano grattugiato</td>
 			</tr>
 			<tr>
 				<td>1</td>
@@ -73,7 +73,7 @@ Non avevo molto tempo per cucinare oggi, quindi ho fatto questa quiche. È veram
 	</font> Preparazione
 </h3>
 
-Tagliate il porro ad anellini fini e fateli appassire in una padella antiaderente con poco olio, se serve aggiungete un po' di acqua. Quando il porro è ben cotto aggiungete il salmone tagliato a pezzettini, girate e aggiungete poco sale poi togliete dai fornelli. Mettete la panna in una ciotolina, aggiungete il latte, l'uovo, la paprica, il parmiggiano grattugiato, il basilico, salate e mescolate tutto. Tagliate il formaggio a pezzettini.
+Tagliate il porro ad anellini fini e fateli appassire in una padella antiaderente con poco olio, se serve aggiungete un po' di acqua. Quando il porro è ben cotto aggiungete il salmone tagliato a pezzettini, girate e aggiungete poco sale poi togliete dai fornelli. Mettete la panna in una ciotolina, aggiungete il latte, l'uovo, la paprica, il parmigiano grattugiato, il basilico, salate e mescolate tutto. Tagliate il formaggio a pezzettini.
 ![Smithsonian Image]({{ site.baseurl }}/images/quicheporrosalmone-ingredienti.jpg)
 {: .pull-right}
 Mettete la pasta sfoglia con la carta forno in una teglia rotonda, bucherellate il fondo con una forchetta. Poi mettete il formaggio a pezzettini ed il porro e salmone. Finite coprendo il tutto con il composto di panna. Piegate verso dentro il bordo della pasta sfoglia e tagliate la carta forno in eccesso.

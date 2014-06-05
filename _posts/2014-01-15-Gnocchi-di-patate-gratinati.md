@@ -38,7 +38,7 @@ Era da molto tempo che non facevo gli gnocchi e dato che oggi avevo tempo li ho 
       </tr>
       <tr>
       	<td>300gr</td>
-        <td>parmiggiano grattugiato</td>
+        <td>parmigiano grattugiato</td>
       </tr>
       <tr>
         <td>qb</td>
