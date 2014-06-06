@@ -96,7 +96,7 @@ Volevo iniziare il mio Blog condividendo con voi la mia torta preferita... È LA
   </font> Preparazione
 </h3>
 
-Iniziate preparando la pasta frolla. Prendete tutti gli ingredienti per la pasta frolla e impastate il tutto velocemente finché avrete un'impasto omogeneo. Avvolgete la pasta frolla con la pellicola trasparente e mettetela il frigo per mezz'oretta.
+Iniziate preparando la pasta frolla. Prendete tutti gli ingredienti per la pasta frolla e impastate il tutto velocemente finché avrete un impasto omogeneo. Avvolgete la pasta frolla con la pellicola trasparente e mettetela in frigo per mezz'oretta.
 
 Nel frattempo preparate il condimento. Prendete un recipiente graduato, quindi mettete la farina e poco latte per sciogliere la farina. Quando non ci saranno più grumi aggiungete lo zucchero, lo zucchero vanigliato, le uova ed un pizzico di sale e mescolate il tutto. Dopo riempite il recipiente con il restante latte fino ad arrivare a 400ml e finite di mescolare.
 
