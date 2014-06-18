@@ -1,0 +1,92 @@
+---
+layout: post
+title: Polpette di melanzane (vegan)
+description: "Un'ottima alternativa alle solite polpette di carne!"
+modified: 2014-06-18
+tags: [melanzane, polpette, aperitivo, vegan]
+image:
+  feature: polpettemelanzane-header.jpg
+  credit: Free Picture Website
+  creditlink: http://www.free-picture.net/food/vegetables/little-blue-cut-slices-white-eggplant.jpg.html
+comments: true
+share: true
+---
+
+Un po' di tempo fa ho fatto queste polpette giusto per provarle e sono venute veramente buone, solo che mi sono dimenticata di scrivermi la ricetta. Oggi ho provato a rifarla ma ad occhio, quindi non posso darvi delle misure esatte...
+
+
+<div class="ingredients">
+  <div class="ingredients-title">Ingredienti</div>
+  <table>
+    <tbody>
+      <tr>
+        <td>1</td>
+        <td>melanzana</td>
+      </tr>
+      <tr>
+        <td>1 spicchio</td>
+        <td>aglio</td>
+      </tr>
+      <tr>
+        <td>qb</td>
+        <td>olio d'oliva</td>
+      </tr>
+      <tr>
+        <td>1 bella manciata</td>
+        <td>mollica di pane</td>
+      </tr>
+      <tr>
+        <td>qb</td>
+        <td>latte di riso</td>
+      </tr>
+      <tr>
+        <td>qualche fogliolina</td>
+        <td>basilico</td>
+      </tr>
+      <tr>
+        <td>qb</td>
+        <td>pangrattato</td>
+      </tr>
+      <tr>
+        <td>qb</td>
+        <td>sale</td>   
+      </tr>
+    </tbody>
+  </table>
+  <br></br>
+  <i class="pull-right" style="font-size: 80%;">per ca. 12 polpette</i>
+</div>
+
+
+<h3>
+  <font color="grey">
+    <i class="icon-cogs"></i>
+  </font> Preparazione
+</h3>
+
+Lavate e pelate la melanzana e tagliatela a cubetti piccolini. Poi mettete un po' di olio e l'aglio in una padella e fate dorare l'aglio, poi aggiungete la melanzana. Fatela cucinare a fuoco basso, possibilmente non aggiungete acqua, in modo che non abbiate acqua quando sarà cotta. Se proprio serve aggiungetene un goccio alla volta. 
+Mettete la mollica a mollo nel latte. Quando la melanzana è cotta toglietela dai fornelli e fatela raffreddare un po' poi aggiungete il basilico a pezzetti, la mollica strizzata e un po' di pangrattato. Se non le volete fare vegane, aggiungete anche un po' di parmigiano grattugiato. Impastate tutto con le mani e se c'è bisogno aggiungete ancora un po' di pangrattato. L'impasto deve essere bello compatto.
+![Smithsonian Image]({{ site.baseurl }}/images/polpettemelanzane-impasto.jpg)
+{: .pull-right}
+Mettete un po' di pangrattato su di un piattino per poi impanare le polpette ed iniziate a fare le polpette. Impanatele e mettetele su di una teglia con della carta forno. Volendo le potete anche friggere, io preferisco farle al forno
+![Smithsonian Image]({{ site.baseurl }}/images/polpettemelanzane-impanare.jpg)
+{: .pull-right}
+![Smithsonian Image]({{ site.baseurl }}/images/polpettemelanzane-teglia.jpg)
+{: .pull-right}
+Infornate le polpette nel forno preriscaldato a 200°C (ventilato) per ca. 15 minuti.
+![Smithsonian Image]({{ site.baseurl }}/images/polpettemelanzane.jpg)
+{: .pull-right}
+
+<h3>
+  <font color="#FFCC00">
+    <i class="icon-lightbulb"></i>
+  </font> P.S.
+</h3>
+
+Queste polpette sono ottime sia calde che fredde, quindi vanno benissimo anche come aperitivo o per un picnic. Io le ho accompagnate con la Guacamole. Per fare la Guacamole prendete un avocado, 4 pomodorini ciliegini, un po' di formaggio spalmabile, il succo di un lime, un po' di paprica in polvere, olio e sale e passate tutto con il mixer a immersione, ecco fatto!
+
+<h4>Buon appetito
+  <font color="red">
+    <i class="icon-smile"></i>
+  </font>
+</h4>
