@@ -74,13 +74,13 @@ Avevo voglia di qualcosa di dolce ma avevo poco tempo e mi è venuta in mente la
 </h3>
 
 Mettete in una ciotola la farina, la fecola di patate, lo zucchero di canna, il lievito, lo zucchero vanigliato ed un pizzico di sale e mescolate tutto.
-![Smithsonian Image]({{ site.baseurl }}/images/muffinmirtillicioccolato-asciutti.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/muffinmirtillicioccolato-asciutti.jpg)
 {: .pull-right}
 Aggiungete poi il latte di soia o di riso e l'olio e mescolate bene con un cucchiaio di legno e poi aggiungete i mirtilli ed il cioccolato a pezzetti.
-![Smithsonian Image]({{ site.baseurl }}/images/muffinmirtillicioccolato-impasto.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/muffinmirtillicioccolato-impasto.jpg)
 {: .pull-right}
 Mettete l'impasto nelle formine da muffin ed infornate a 200°C per ca. 20min (mi raccomando fate sempre la prova con lo stecchino), poi sfornateli e fateli raffreddare.
-![Smithsonian Image]({{ site.baseurl }}/images/muffinmirtillicioccolato.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/muffinmirtillicioccolato.jpg)
 {: .pull-right}
 
 

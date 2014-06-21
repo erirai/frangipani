@@ -94,30 +94,30 @@ Era un casino di tempo che non facevo qualche dolce e dato che ci sono ancora i 
 </h3>
 
 Mettete tutti gli ingredienti asciutti in una ciotola e mescolate con la frusta a mano, poi aggiungete l'olio ed il latte e mescolate con un cucchiaio, finché si tolgono tutti i grumi.
-![Smithsonian Image]({{ site.baseurl }}/images/muffinmandorlaripienifragolarabarbaro-impasto.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/muffinmandorlaripienifragolarabarbaro-impasto.jpg)
 {: .pull-right}
 Versate l'impasto nei pirottini.
-![Smithsonian Image]({{ site.baseurl }}/images/muffinmandorlaripienifragolarabarbaro-pirottini.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/muffinmandorlaripienifragolarabarbaro-pirottini.jpg)
 {: .pull-right}
 E infornateli nel forno preriscaldato a 180°C (statico) per ca. 20min. 
-![Smithsonian Image]({{ site.baseurl }}/images/muffinmandorlaripienifragolarabarbaro-sfornati.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/muffinmandorlaripienifragolarabarbaro-sfornati.jpg)
 {: .pull-right}
 Nel frattempo preparate il ripieno. Lavate le fragole e tagliatele a pezzetti, poi lavate e pelate il rabarbaro e tagliatelo anche a pezzetti. Mettete il tutto in una pentola ed aggiungete lo zucchero di canna, l'agar agar ed il succo di limone a piacere. Fatelo cuocere a fiamma bassa finchè la frutta sarà bella morbida. Poi frullatela e fatela raffreddare. L'agar agar farà solidificare il tutto quando il composto sarà freddo...
-![Smithsonian Image]({{ site.baseurl }}/images/muffinmandorlaripienifragolarabarbaro-ripieno.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/muffinmandorlaripienifragolarabarbaro-ripieno.jpg)
 {: .pull-right}
 Quando si sarà raffreddato passate il ripieno in un sac à poche e usate una punta adatta alla farcitura.
-![Smithsonian Image]({{ site.baseurl }}/images/muffinmandorlaripienifragolarabarbaro-sacapoche.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/muffinmandorlaripienifragolarabarbaro-sacapoche.jpg)
 {: .pull-right}
-![Smithsonian Image]({{ site.baseurl }}/images/muffinmandorlaripienifragolarabarbaro-punta.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/muffinmandorlaripienifragolarabarbaro-punta.jpg)
 {: .pull-right}
 Prendete un muffin alla volta e farcitelo piano piano. Il muffin sarà pieno quando si spaccerà leggermente...
-![Smithsonian Image]({{ site.baseurl }}/images/muffinmandorlaripienifragolarabarbaro-farcire.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/muffinmandorlaripienifragolarabarbaro-farcire.jpg)
 {: .pull-right}
 Eccoli pronti da mangiare...
-![Smithsonian Image]({{ site.baseurl }}/images/muffinmandorlaripienifragolarabarbaro1.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/muffinmandorlaripienifragolarabarbaro1.jpg)
 {: .pull-right}
 
-![Smithsonian Image]({{ site.baseurl }}/images/muffinmandorlaripienifragolarabarbaro2.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/muffinmandorlaripienifragolarabarbaro2.jpg)
 {: .pull-right}
 
 <h4>Buon appetito

@@ -66,19 +66,19 @@ In uno dei miei libri di ricette ho trovato questa... Mi sembrava molto buona e 
 </h3>
 
 Tagliate a pezzetti i pomodori secchi e la carciofina. Poi tagliate la cipolla a rondelle e fatela rosolare insieme all'aglio in una padella con poco d'olio. Quando si saranno dorati bene aggiungete i pomodori secchi, la carciofina ed il concentrato di pomodoro e bagnate con un goccio d'acqua. Fate rosolare per qualche minuto e togliete dai fuochi.
-![Smithsonian Image]({{ site.baseurl }}/images/pastasfogliapomodoricarciofina-ripieno.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/pastasfogliapomodoricarciofina-ripieno.jpg)
 {: .pull-right}
 Prendete una teglia e mettete il primo rotolo di pasta sfoglia, bucherellatela con una forchetta e coprite con i pomodori secchi e carciofina e qualche folgliolina di basilico. Cercate di lasciare un po' di spazio ai bordi per poi poter chiuderela meglio.
-![Smithsonian Image]({{ site.baseurl }}/images/pastasfogliapomodoricarciofina-riempito.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/pastasfogliapomodoricarciofina-riempito.jpg)
 {: .pull-right}
 Coprite con il secondo rotolo di pasta sfoglia, chiudete i bordi e fate un buchino in mezzo.
-![Smithsonian Image]({{ site.baseurl }}/images/pastasfogliapomodoricarciofina-chiuso.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/pastasfogliapomodoricarciofina-chiuso.jpg)
 {: .pull-right}
 Infornate nel forno preriscaldato (ventilato) a 200°C per ca. 20min.
-![Smithsonian Image]({{ site.baseurl }}/images/pastasfogliapomodoricarciofina-sfornato.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/pastasfogliapomodoricarciofina-sfornato.jpg)
 {: .pull-right}
 Si può mangiare calda o fredda come preferite!
-![Smithsonian Image]({{ site.baseurl }}/images/pastasfogliapomodoricarciofina.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/pastasfogliapomodoricarciofina.jpg)
 {: .pull-right}
  
 

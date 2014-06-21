@@ -100,52 +100,52 @@ Oggi si sono sposati mia sorella e mio cognato, vabbé solo il rito civile e mi 
 </h3>
 
 Preparate la base per il bouquet, quindi prendete una sfera di polistirolo ed un vaso (o cestino) adatto alla grandezza della sfera. La sfera che ho preso io ha un diametro di 20cm. Se volete, ricoprite la sfera con della carta velina e incollatela al vaso (in modo che poi potete staccarla quando non serve più).
-![Smithsonian Image]({{ site.baseurl }}/images/bouquetcc-base1.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/bouquetcc-base1.jpg)
 {: .pull-right}
-![Smithsonian Image]({{ site.baseurl }}/images/bouquetcc-base2.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/bouquetcc-base2.jpg)
 {: .pull-right}
 Ora inizate a preparare i muffin, pulendo e tagliando a pezzettini il rabarbaro.
-![Smithsonian Image]({{ site.baseurl }}/images/bouquetcc-rabarbaro.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/bouquetcc-rabarbaro.jpg)
 {: .pull-right}
 Poi mettete tutti gli ingredienti asciutti in una ciotola e mescolate con la frusta a mano, poi aggiungete l'olio ed il latte e mescolate con un cucchiaio, finché si tolgono tutti i grumi e finite aggiungendo il rabarbaro precedentemente tagliato a pezzettini.
-![Smithsonian Image]({{ site.baseurl }}/images/bouquetcc-impasto.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/bouquetcc-impasto.jpg)
 {: .pull-right}
 Versate l'impasto nei pirottini.
-![Smithsonian Image]({{ site.baseurl }}/images/bouquetcc-formine.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/bouquetcc-formine.jpg)
 {: .pull-right}
 E infornateli nel forno preriscaldato a 180°C (statico) per ca. 20min. 
-![Smithsonian Image]({{ site.baseurl }}/images/bouquetcc-sfornati.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/bouquetcc-sfornati.jpg)
 {: .pull-right}
 Quando i muffin sono freddi potete iniziare a creare il bouquet. Infilzate tre stuzzicadenti nella sfera e poi infilateci il muffin. Continuate finché avrete ricoperto tutta la sfera.
-![Smithsonian Image]({{ site.baseurl }}/images/bouquetcc-assemblare1.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/bouquetcc-assemblare1.jpg)
 {: .pull-right}
-![Smithsonian Image]({{ site.baseurl }}/images/bouquetcc-assemblare2.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/bouquetcc-assemblare2.jpg)
 {: .pull-right}
 Se sono rimasti dei buchi, potete coprirli infilandoci delle foglie fatte con la carta velina. Ritagliate due quadretti e metteteli uno sopra l'altro.
-![Smithsonian Image]({{ site.baseurl }}/images/bouquetcc-foglie1.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/bouquetcc-foglie1.jpg)
 {: .pull-right}
 Prendete i fogli nel centro e fissateli aiutandovi con uno spillo.
-![Smithsonian Image]({{ site.baseurl }}/images/bouquetcc-foglie2.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/bouquetcc-foglie2.jpg)
 {: .pull-right}
-![Smithsonian Image]({{ site.baseurl }}/images/bouquetcc-assemblato.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/bouquetcc-assemblato.jpg)
 {: .pull-right}
 Ora preparate la crema di burro. Mi raccomando, se volete fare i Cupcakes al 100% vegani prendete la margarina, se no il burro. Io ho usato la margarina... Iniziate uscendo dal frigo la margarina, deve essere morbida, ma non troppo. Mettetela nella planetaria (se no con il mixer a mano) e fatela andare finché risulterà una crema bella morbida. Poi cucchiaio dopo cucchiaio aggiungete lo zucchero a velo. Dopo qualche cucchiaiata aggiungete il latte, sempre poco a poco. Io uso un misurino da 5ml alla volta. Fate questo finché avrete finito tutto lo zucchero a velo ed il latte. Alla fine aggiungete il concentrato di vaniglia ed il colorante, sempre se volete. Io volevo colorare la crema di un bel rosso, ma con quel colorante che avevo non ha funzionato :-( E continuate finché la crema risulterà bella ferma. Se dovesse risultare troppo ruvida, aggiungete ancora latte. Poi mettete la crema di burro in un sac à poche usando una punta grande a stella.
-![Smithsonian Image]({{ site.baseurl }}/images/bouquetcc-punta.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/bouquetcc-punta.jpg)
 {: .pull-right}
 Scusatemi ma non ho fatto le foto della crema... Dunque mettete il sac à poche per un po' nel frigo per far rapprendere bene la crema di burro e poi iniziate a fare le rose:
 Iniziate premendo una piccola quantità di crema stando fermi al centro, sempre tenendo il sac à poche verticale.
-![Smithsonian Image]({{ site.baseurl }}/images/bouquetcc-rosa1.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/bouquetcc-rosa1.jpg)
 {: .pull-right}
 Poi continuata a premere e inizate a girare intorno al centro in senso antiorario sempre tenendo il sac à poche verticale.
-![Smithsonian Image]({{ site.baseurl }}/images/bouquetcc-rosa2.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/bouquetcc-rosa2.jpg)
 {: .pull-right}
 Continuate finché avrete coperto tutto il muffin.
-![Smithsonian Image]({{ site.baseurl }}/images/bouquetcc-rosa3.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/bouquetcc-rosa3.jpg)
 {: .pull-right}
 Comunque su Youtube trovate tantissimi video dove vedete come si fa, io per completezza ho provato a spiegarvi come funziona.
 
 Ecco il bouquet di rose copleto, pronto da mangiare!
-![Smithsonian Image]({{ site.baseurl }}/images/bouquetcc.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/bouquetcc.jpg)
 {: .pull-right}
 
 <h4>Buon appetito

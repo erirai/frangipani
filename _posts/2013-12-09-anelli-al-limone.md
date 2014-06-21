@@ -10,7 +10,7 @@ comments: true
 share: true
 ---
 
-![Smithsonian Image]({{ site.baseurl }}/images/stelle-natale-special.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/stelle-natale-special.jpg)
 {: .pull-right}
 Ieri cercavo dei nuovi biscotti di natale e ho trovato questi. A quanto pare sono dei tipici biscotti di natale svizzeri... boooo, mai mangiati. Ma sono veramente buoni, li rifarò sicuramente!
 
@@ -80,20 +80,20 @@ Ieri cercavo dei nuovi biscotti di natale e ho trovato questi. A quanto pare son
 </h3>
 
 Mettete il burro in una ciotola e mescolatelo con il mixer finché sarà morbido. Aggiungete lo zucchero, il sale e le uova e continuate a mescolare. Per finire aggiungete la farina e l'amido di mais e finite di mescolare. Passate l'impasto in un sac à poche con una punta a stella. Se avete la punta a stella più grande di quella che ho usato io ancora meglio.
-![Smithsonian Image]({{ site.baseurl }}/images/anellilimone-impasto.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/anellilimone-impasto.jpg)
 {: .pull-right}
-![Smithsonian Image]({{ site.baseurl }}/images/anellilimone-punta.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/anellilimone-punta.jpg)
 {: .pull-right}
 Fate degli anelli di ca. 4cm di diametro direttamente sulla carta forno e metteteli in frigo per mezz'oretta. Poi infornateli a 180°C nel forno preriscaldato per 10-12min.
-![Smithsonian Image]({{ site.baseurl }}/images/anellilimone-crudi.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/anellilimone-crudi.jpg)
 {: .pull-right}
 Quando li avete sfornati preparate la glassa e mettetela in un sacchettino di plastica, tagliate una piccolissima apertura e fate dei filetti passando velocemente con il sacchettino sui biscotti.
-![Smithsonian Image]({{ site.baseurl }}/images/anellilimone-glassa.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/anellilimone-glassa.jpg)
 {: .pull-right}
-![Smithsonian Image]({{ site.baseurl }}/images/anellilimone-glassa2.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/anellilimone-glassa2.jpg)
 {: .pull-right}
 Fate raffreddare bene la glassa.
-![Smithsonian Image]({{ site.baseurl }}/images/anellilimone.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/anellilimone.jpg)
 {: .pull-right}
 
 <h4>Buon appetito

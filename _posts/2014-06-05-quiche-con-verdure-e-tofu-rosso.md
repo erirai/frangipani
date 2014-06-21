@@ -90,19 +90,19 @@ Passato il matrimonio di mia sorella, mia figlia si è ammalata, poi ci siamo am
 </h3>
 
 Tagliate finemente lo scalogno e fatelo soffriggere in una padella con poco olio ed un pizzico di sale. Nel frattempo tagliate a cubetti il peperone, la melanzana e gli asparagi, mettendo da parte le punte degli asparagi.
-![Smithsonian Image]({{ site.baseurl }}/images/quicheverduretofu-ingredienti.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/quicheverduretofu-ingredienti.jpg)
 {: .pull-right}
 Quando lo scalogno si sarà dorato aggiungete le verduere e fate soffriggere per qualche minuto. Poi aggiungete poca acqua e fate cucinare a fuoco basso finché le verdure sono cotte. Quando sono pronte togliete dai fornelli e aggiustate di sale.
-![Smithsonian Image]({{ site.baseurl }}/images/quicheverduretofu-verdure.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/quicheverduretofu-verdure.jpg)
 {: .pull-right}
 Mettete la panna in una ciotolina, aggiungete il latte, il cucchiaio di farina di soia (che funge da legante come l'uovo), la paprica in polvere, la curcuma, il formagio grattugiato, le erbe aromatiche, salate e mescolate tutto.
-![Smithsonian Image]({{ site.baseurl }}/images/quicheverduretofu-pastella.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/quicheverduretofu-pastella.jpg)
 {: .pull-right}
 Mettete la pasta sfoglia con la carta forno in una teglia e bucherellate il fondo con una forchetta. Coprite il fondo con le verdure, poi sbriciolateci sopra con le mani il Tofu rosso, coprite il tutto con il composto di panna e finite decorando la Quiche con le punte d'asparagi. Piegate verso dentro il bordo della pasta sfoglia e tagliate la carta forno in eccesso.
-![Smithsonian Image]({{ site.baseurl }}/images/quicheverduretofu-cruda.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/quicheverduretofu-cruda.jpg)
 {: .pull-right}
 Poi infornate a 190°C nel forno ventilato per ca. 30min. Prima di tagliare la Quiche aspettate una decina di minuti, in modo che si rapprenda un po' e servite con una bella insalatina.
-![Smithsonian Image]({{ site.baseurl }}/images/quicheverduretofu.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/quicheverduretofu.jpg)
 {: .pull-right}
 
 

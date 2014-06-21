@@ -79,18 +79,18 @@ Mentre facevo la spesa ho visto questa cosa che si chiama Paneer, mi sono incuri
 </h3>
 
 Iniziate tagliando a pezzettini tutta la verdura.
-![Smithsonian Image]({{ site.baseurl }}/images/paneerverdurecurryrosso-verdure.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/paneerverdurecurryrosso-verdure.jpg)
 {: .pull-right}
 Poi mettete a soffriggere lo scalogno con un po' d'olio. Quando sarà ben dorato aggiungete la verdura. Fate soffriggere pochettino a fuoco basso e poi continuate la cottura aggiungendo dell'acqua poco a poco. Quando le verdure si saranno leggermente ammorbidite, aggiungete il latte di cocco e continuate la cottura ancora per un po'.
 
 Nel frattempo preparate il riso basmati come scritto sulla confezione e tagliate a dadini il paneer.
-![Smithsonian Image]({{ site.baseurl }}/images/paneerverdurecurryrosso-paneer.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/paneerverdurecurryrosso-paneer.jpg)
 {: .pull-right}
 Poco prima che il riso basmati è pronto aggiungete il paneer alle verdure, deve solo riscaldarsi ed amalgamarsi con le verdure, praticamente non deve cucinare più di 5min. Non dimenticatevi di aggiustare di sale.
-![Smithsonian Image]({{ site.baseurl }}/images/paneerverdurecurryrosso-condimento.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/paneerverdurecurryrosso-condimento.jpg)
 {: .pull-right}
 Potete servire il riso e la verdura separatamente o mischiare il tutto direttamente nella padella, come preferite.
-![Smithsonian Image]({{ site.baseurl }}/images/paneerverdurecurryrosso.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/paneerverdurecurryrosso.jpg)
 {: .pull-right}
 
 <h3>

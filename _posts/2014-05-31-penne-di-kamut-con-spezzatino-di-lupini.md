@@ -77,16 +77,16 @@ Mia soru e mio cognato oggi hanno cucinato questo fantastico piatto di pasta... 
 </h3>
 
 Tagliate a pezzettini il porro ed i pomodorini e mettete a soffriggere il porro con poco olio ed un pizzico di sale, poi fate sfumare con un goccio di vino rosso. Quando il porro si sarà appassito aggiungete i pomodorini.
-![Smithsonian Image]({{ site.baseurl }}/images/pennekamutconspezzatinolupini-pomodoriniporro.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/pennekamutconspezzatinolupini-pomodoriniporro.jpg)
 {: .pull-right}
 Se lo spezzatino di lupini è troppo grande tagliatelo a pezzettini e poi aggiuntetelo ai pomodorini.
-![Smithsonian Image]({{ site.baseurl }}/images/pennekamutconspezzatinolupini-spezzatinolupini.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/pennekamutconspezzatinolupini-spezzatinolupini.jpg)
 {: .pull-right}
 Dopo qualche minuto aggiungete il formaggio spalmabile, la curcuma, la paprica ed il basilico e amalgamate bene.
-![Smithsonian Image]({{ site.baseurl }}/images/pennekamutconspezzatinolupini-condimento.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/pennekamutconspezzatinolupini-condimento.jpg)
 {: .pull-right}
 Quando la pasta è cotta scolatela e fatela mantecare.
-![Smithsonian Image]({{ site.baseurl }}/images/pennekamutconspezzatinolupini.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/pennekamutconspezzatinolupini.jpg)
 {: .pull-right}
 
 <h3>

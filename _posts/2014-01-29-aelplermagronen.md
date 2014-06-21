@@ -62,10 +62,10 @@ Durante la costruzione del tunnel del Gottardo i lavoratori italiani importarono
 
 Le dosi di questa ricetta sono per 4 persone, mettete la quantità di pasta che normalmente fate.
 Pelate e tagliate le patate a dadini e cucinateli in abbondante acqua bollente, quando le patate sono quasi cotte, aggiungete nella stessa pentola la pasta e fatela cucinare. Nel frattempo grattugiate grossolanamente il formaggio di montagna, deve essere un formaggio a pasta dura e puzzolente (gli svizzeri sono bravi a fare formaggio puzzolente, ma buono). Tagliate la cipolla e fatela soffriggere con poco olio, dopo che sarà dorata aggiungete la panna, fate sobbollire per qualche minuto, salate, pepate, aggiungete la noce moscata e togliete dai fornelli. Quando la pasta e le patate sono cotte, scolate il tutto. Imburrate una pirofila mettete la metà della pasta e patate, coprite con la metà del formaggio, poi il resto della pasta e di nuovo il formaggio. Finite versando sopra alla pasta la panna. 
-![Smithsonian Image]({{ site.baseurl }}/images/aelplermagronen-pirofila.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/aelplermagronen-pirofila.jpg)
 {: .pull-right}
 Se preparate gli Älplermagronen subito prima di mangiarli, a questo punto basta metterli in formo ventilato a 200°C per pochi minuti, giusto per fare sciogliere bene il formaggio. Se invece li preparate prima, infornateli a 200°C (ventilato) per 15-20min. Quando sono pronti, sfornateli e mangateli caldissimi!
-![Smithsonian Image]({{ site.baseurl }}/images/aelplermagronen.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/aelplermagronen.jpg)
 {: .pull-right}
 
 <h3>

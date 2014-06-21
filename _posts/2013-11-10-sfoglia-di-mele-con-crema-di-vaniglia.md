@@ -70,27 +70,27 @@ Ogni 10 del mese faccio sempre una torta per "festeggiare" il mesiversario di no
 </h3>
 
 Portate ad ebollizione il latte con la stecca di vaniglia tagliata a metà e poi togliete dal fuoco. Nel frattempo mettete in una coppa 4 tuorli, un uovo intero, 100gr di zucchero, la farina e un pizzico di sale, mescolate il tutto con le fruste elettriche per ca 5min. Aggiungete piano piano il latte tiepido e continuate a mescolare. Dopo che il tutto si è amalgamato, rimettete tutto nella pentola e portate ad ebollizione sempre mescolando. Quando inizia a bollire, continuate a mescolare per un minuto in modo che si addensi bene e poi togliete dal fuoco. Passate la crema in una coppa e copritela con della pellicola imburrata, in modo che non si crei la pellicina e fatela raffreddare.
-![Smithsonian Image]({{ site.baseurl }}/images/cdmccdv-crema-di-vaniglia-con-pellicola.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/cdmccdv-crema-di-vaniglia-con-pellicola.jpg)
 {: .pull-right}
 Prendete le mandorle o le noccioline macinate, 2 uova, il burro e 80gr di zucchero e mescolate il tutto.
-![Smithsonian Image]({{ site.baseurl }}/images/cdmccdv-impasto-noccioline.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/cdmccdv-impasto-noccioline.jpg)
 {: .pull-right}
 Mettete la pasta sfoglia in una teglia rotonda (28cm) con sotto la carta forno. Pelate e tagliate a spicchi le mele. Poi bucherellate con una forchetta il fondo della pasta sfoglia e cospargeteci un velo di noccioline o mandorle macinate. Sopra mettete gli spicchi di mela e poi la metà della crema. Poi di nuovo gli spicchi di mela e poi il resto della crema.
-![Smithsonian Image]({{ site.baseurl }}/images/cdmccdv-composizione.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/cdmccdv-composizione.jpg)
 {: .pull-right}
 Come ultimo strato spalmateci sopra l'impasto di noccioline o mandorle poco a poco.
-![Smithsonian Image]({{ site.baseurl }}/images/cdmccdv-composizione-impasto-noccioline.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/cdmccdv-composizione-impasto-noccioline.jpg)
 {: .pull-right}
-![Smithsonian Image]({{ site.baseurl }}/images/cdmccdv-completa.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/cdmccdv-completa.jpg)
 {: .pull-right}
 Poi una bella spolverata di zucchero a velo.
-![Smithsonian Image]({{ site.baseurl }}/images/cdmccdv-completa-con-zucchero-a-velo.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/cdmccdv-completa-con-zucchero-a-velo.jpg)
 {: .pull-right}
 Infornate la crostata nel forno preriscaldato a 230°C coperta con la carta argentata per 50min, poi 10min senza carta argentata. Sfornatela e fatela raffreddare bene (anche se calda è ancora più buona!).
-![Smithsonian Image]({{ site.baseurl }}/images/cdmccdv-sfornata.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/cdmccdv-sfornata.jpg)
 {: .pull-right}
 
-![Smithsonian Image]({{ site.baseurl }}/images/cdmccdv-tagliata.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/cdmccdv-tagliata.jpg)
 {: .pull-right}
 
 

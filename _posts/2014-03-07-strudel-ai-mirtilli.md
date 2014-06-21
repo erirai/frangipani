@@ -57,25 +57,25 @@ Sempre nello stesso libro di ricette dove ho trovato la pasta sfoglia ripiena di
 </h3>
 
 Lavate i mirtilli e metteteli in una coppa, aggiungete lo zucchero, l'amido di mais ed il succo di limone e mescolate bene. A parte in un pentolino fate sciogliere la margarina.
-![Smithsonian Image]({{ site.baseurl }}/images/strudelmirtilli-mirtilli.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/strudelmirtilli-mirtilli.jpg)
 {: .pull-right}
 Ora preparate la pasta fillo. Mettete un panno umido sul piano di lavoro, poi sopra un foglio di carta forno. Iniziate mettendo due fogli di pasta fillo sulla carta forno, sovrapponendoli in mezzo. Spennelate i due fogli di pasta fillo con la margarina, poi sopra altri due fogli di pasta fillo, di nuovo la margarina... finché avrete finito.
-![Smithsonian Image]({{ site.baseurl }}/images/strudelmirtilli-fillo.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/strudelmirtilli-fillo.jpg)
 {: .pull-right}
 Mettete i mirtilli nella parte bassa della pasta fillo.
-![Smithsonian Image]({{ site.baseurl }}/images/strudelmirtilli-riempito.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/strudelmirtilli-riempito.jpg)
 {: .pull-right}
 Chiudete prima da sotto, poi i lati.
-![Smithsonian Image]({{ site.baseurl }}/images/strudelmirtilli-chiudere.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/strudelmirtilli-chiudere.jpg)
 {: .pull-right}
 Finite di chiudere lo strudel da sopra e spennelatelo con il resto della margarina.
-![Smithsonian Image]({{ site.baseurl }}/images/strudelmirtilli-chiuso.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/strudelmirtilli-chiuso.jpg)
 {: .pull-right}
 Mettetelo sulla teglia e infronate lo strudel a 190°C (ventilato) per ca. 15min. Può essere che un po' di succo fuoriesca...
-![Smithsonian Image]({{ site.baseurl }}/images/strudelmirtilli-sfornato.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/strudelmirtilli-sfornato.jpg)
 {: .pull-right}
 Prima di servirlo, finite con una bella spolverata di zucchero a velo e possibilmente servitelo caldo!
-![Smithsonian Image]({{ site.baseurl }}/images/strudelmirtilli.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/strudelmirtilli.jpg)
 {: .pull-right}
 
 <h3>

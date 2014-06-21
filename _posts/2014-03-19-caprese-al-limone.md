@@ -77,22 +77,22 @@ Avevo visto questa ricetta già da un po' ma non c'è mai stata l'occasione di f
 </h3>
 
 Iniziate mettendo le uova a temperatura ambiente e la metà dello zucchero nella planetaria e fatele montare per ca. 10-15min (se non avete la planetaria vi tocca farlo con il mixer) finché triplicherà il volume e risulteranno belle spumose.
-![Smithsonian Image]({{ site.baseurl }}/images/capreselimone-uova.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/capreselimone-uova.jpg)
 {: .pull-right}
 Nel frattempo mettete le mandorle, l'altra metà dello zucchero, la fecola di patate, il cioccolato tritato finemente ed il lievito in una ciotola capiente e mescolate tutto a mano.
-![Smithsonian Image]({{ site.baseurl }}/images/capreselimone-asciutti.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/capreselimone-asciutti.jpg)
 {: .pull-right}
 Aggiungete la scorza dei limoni, il succo di limone, il limoncello ed il burro fuso e mescolate ancora.
-![Smithsonian Image]({{ site.baseurl }}/images/capreselimone-umidi.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/capreselimone-umidi.jpg)
 {: .pull-right}
 Ora prendete un po' delle uova alla volta e incorporatele al composto di mandorle mescolando dal basso verso l'alto, per non fare smontare le uova.
-![Smithsonian Image]({{ site.baseurl }}/images/capreselimone-impasto.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/capreselimone-impasto.jpg)
 {: .pull-right}
 Prendete una teglia rotonda con cerniera di ca. 24cm di diametro imburratela, infarinatela e riempitela con il composto. Infornatela coperta da un foglio di carta argentata nel forno preriscaldato (statico) a 170°C per ca. un'ora. Verso la fine togliete la carta argentata e fate la prova stecchino.
-![Smithsonian Image]({{ site.baseurl }}/images/capreselimone-sfornata.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/capreselimone-sfornata.jpg)
 {: .pull-right}
 Decorate la torta a vostro piacimento o spolveratela semplicemento con dello zucchero a velo.
-![Smithsonian Image]({{ site.baseurl }}/images/capreselimone.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/capreselimone.jpg)
 {: .pull-right}
 
 <h4>Buon appetito

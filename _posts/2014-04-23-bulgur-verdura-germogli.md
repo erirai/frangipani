@@ -83,20 +83,20 @@ Spesso andiamo a comprare la verdura nei negozi turchi, che hanno sempre roba fr
 </h3>
 
 Iniziate tagliando a pezzettini tutta la verdura.
-![Smithsonian Image]({{ site.baseurl }}/images/bulgurverduragermogli-verdura1.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/bulgurverduragermogli-verdura1.jpg)
 {: .pull-right}
-![Smithsonian Image]({{ site.baseurl }}/images/bulgurverduragermogli-verdura2.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/bulgurverduragermogli-verdura2.jpg)
 {: .pull-right}
 Poi mettete a soffriggere la cipolla con un po' d'olio. Quando sarà ben dorata aggiungete la verdura. Fate soffriggere pochettino a fuoco basso e poi continuate la cottura aggiungendo dell'acqua poco a poco.
 
 Nel frattempo preparate il bulgur: mettete l'acqua in un pentolino, salatela e versateci il bulgur. Fatelo cuocere a temperatura bassa per ca. 15min o fin quando il bulgur avrà assorbito tutta l'acqua (serve una parte di bulgur e 2.5 parti d'acqua). Poi fatelo riposare per 10min.
-![Smithsonian Image]({{ site.baseurl }}/images/bulgurverduragermogli-bulgur.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/bulgurverduragermogli-bulgur.jpg)
 {: .pull-right}
 Mentre il bulgur riposa, salate la verdura e aggiungete la paprica e la curcuma.
-![Smithsonian Image]({{ site.baseurl }}/images/bulgurverduragermogli-verduracotta.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/bulgurverduragermogli-verduracotta.jpg)
 {: .pull-right}
 Potete servire il bulgur e la verdura separatamente o mischiare il tutto direttamente nella padella, come preferite. L'importante è mettere i germogli direttamente sul piatto. I germogli non devono cuocere, che perdono subito tutte le proprietà.
-![Smithsonian Image]({{ site.baseurl }}/images/bulgurverduragermogli.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/bulgurverduragermogli.jpg)
 {: .pull-right}
 
 <h3>

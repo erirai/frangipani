@@ -54,19 +54,19 @@ share: true
 
 Versate l'acqua e lo zucchero in una pentola capiente e fate cuocere a fiamma bassa finché lo zucchero si sarà completamente sciolto, mi raccomando non deve bollire!
 Nel frattempo tagliate a metà i limoni, togliete gli steli dei fiori di sambuco e della melissa.
-![Smithsonian Image]({{ site.baseurl }}/images/sciropposambuco-ingredienti.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/sciropposambuco-ingredienti.jpg)
 {: .pull-right}
 Quando lo zucchero si sarà sciolto completamente togliete dai fornelli e aggiungete i fiori di sambuco, la melissa ed il succo dei limoni. Se volete mettete anche quello che è rimasto dei limoni e lasciate riposare per 24h. Di tanto in tanto mescolate lo sciroppo.
-![Smithsonian Image]({{ site.baseurl }}/images/sciropposambuco-sciropporiposo.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/sciropposambuco-sciropporiposo.jpg)
 {: .pull-right}
 Passate le 24h, coprite una coppa capiente con un panno di garza fissandolo con un'elastico e iniziate e filtrare lo sciroppo.
-![Smithsonian Image]({{ site.baseurl }}/images/sciropposambuco-filtrare.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/sciropposambuco-filtrare.jpg)
 {: .pull-right}
 Poi strizzate tutti i resti grossi...
-![Smithsonian Image]({{ site.baseurl }}/images/sciropposambuco-strizzare.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/sciropposambuco-strizzare.jpg)
 {: .pull-right}
 E imbottigliate lo sciroppo aiutandovi con un'imbuto.
-![Smithsonian Image]({{ site.baseurl }}/images/sciropposambuco-imbottigliare.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/sciropposambuco-imbottigliare.jpg)
 {: .pull-right}
 Servite lo sciroppo con dell'acqua fredda o anche con del prosecco e qualche fogliolina di menta fresca.
 

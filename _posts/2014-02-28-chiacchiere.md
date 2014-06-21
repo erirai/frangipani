@@ -10,7 +10,7 @@ comments: true
 share: true
 ---
 
-![Smithsonian Image]({{ site.baseurl }}/images/carnevale-special.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/carnevale-special.jpg)
 {: .pull-right}
 
 > Grazie Lucia per questa fantastica ricetta!
@@ -78,16 +78,16 @@ Quando ancora lavoravo, Lucia nel periodo di carnevale ci portava sempre queste 
 </h3>
 
 Mettete il burro o la margarina, lo zucchero, lo zucchero vanigliato, il sale e le uova in una ciotola e mescolate tutto con il mixer, poi aggiungete il vino bianco e l'acqua e continuate a mescolare. Per finire aggiungete la farina e impastate il tutto con le mani. L'impasto risulterà abbastanza sodo poi copritelo e fatelo riposare a temperatura ambiente per ca. 30min.
-![Smithsonian Image]({{ site.baseurl }}/images/chiacchiere-impasto.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/chiacchiere-impasto.jpg)
 {: .pull-right}
 Poi stendete l'impasto con il mattarello finché avrà uno spessore di ca. 3-4mm. Tagliate dei rettangoli o fate dei nodini aiutandovi con un coltello o con una rotellina, come preferite voi.
-![Smithsonian Image]({{ site.baseurl }}/images/chiacchiere-tagliate.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/chiacchiere-tagliate.jpg)
 {: .pull-right}
 Fate riscaldare l'olio in una padella, quando avrà la temperatura giusta mettete le chiacchiere a friggere poche alla volta. Friggetele finché saranno ben dorate (basta girarle solo una volta), ma fate attenzione che si bruciano molto velocemente, come purtroppo è successo a me... Quando sono pronte, mettetele su della carta assorbente per far togliere l'olio in eccesso.
-![Smithsonian Image]({{ site.baseurl }}/images/chiacchiere-fritte.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/chiacchiere-fritte.jpg)
 {: .pull-right}
 Quando si saranno raffreddate cospargetele con abbondante zucchero a velo e mangiatele subito!
-![Smithsonian Image]({{ site.baseurl }}/images/chiacchiere.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/chiacchiere.jpg)
 {: .pull-right}
 
 <h3>

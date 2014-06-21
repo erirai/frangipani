@@ -53,26 +53,26 @@ L'anno scorso ho inizato a comprare i fiori di zucca, ma sinceramente non sapevo
 </h3>
 
 Togliete il pistillo e le foglioline appuntite di sotto, facendo attenzione di non rompere il fiore. Tagliate a pezzetti la mozzarella e le sardine e spezzate le foglie di basilico, se sono piccole lasciatele intere.
-![Smithsonian Image]({{ site.baseurl }}/images/fiorizuccamozzarella-ingredienti.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/fiorizuccamozzarella-ingredienti.jpg)
 {: .pull-right}
 Aprite il fiore facendo attenzione a non fare buchi e riempitelo con un pezzo di mozzarella, un pezzetto di sardina e una foglia di basilico, poi chiudete bene.
-![Smithsonian Image]({{ site.baseurl }}/images/fiorizuccamozzarella-riempire.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/fiorizuccamozzarella-riempire.jpg)
 {: .pull-right}
-![Smithsonian Image]({{ site.baseurl }}/images/fiorizuccamozzarella-chiusi.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/fiorizuccamozzarella-chiusi.jpg)
 {: .pull-right}
 Ora preparate la pastella. Prendete una coppetta larga e mettete ca. 6 cucchiai di farina e aggiungete poca acqua alla volta, finché avrete una pastella bella densa. Non fatela troppo liquida, se no non rimane attaccata ai fiori di zucca.
-![Smithsonian Image]({{ site.baseurl }}/images/fiorizuccamozzarella-pastella.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/fiorizuccamozzarella-pastella.jpg)
 {: .pull-right}
 Prendete una padella e versateci un po' di olio di semi e fatelo riscaldare. Immergete i fiori ripieni nella pastella, facendo attenzione che il fiore rimanga chiuso, in modo che la mozzarella non fuoriesca e friggeteli a temperatura moderata.
-![Smithsonian Image]({{ site.baseurl }}/images/fiorizuccamozzarella-impastellare.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/fiorizuccamozzarella-impastellare.jpg)
 {: .pull-right}
-![Smithsonian Image]({{ site.baseurl }}/images/fiorizuccamozzarella-friggere.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/fiorizuccamozzarella-friggere.jpg)
 {: .pull-right}
 Quando sono pronti, fateli riposare un attimo su della carta assorbente e salateli leggermente (ricordatevi che all'interno c'è la sardina che è già salata).
-![Smithsonian Image]({{ site.baseurl }}/images/fiorizuccamozzarella-fritti.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/fiorizuccamozzarella-fritti.jpg)
 {: .pull-right}
 Serviteli ancora caldi!
-![Smithsonian Image]({{ site.baseurl }}/images/fiorizuccamozzarella.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/fiorizuccamozzarella.jpg)
 {: .pull-right}
 
 <h4>Buon appetito

@@ -103,22 +103,22 @@ Oggi ho fatto questa Osterchuechä (Torta di Pasqua) che qui in Svizzera si fa p
 </h3>
 
 Iniziate preparando la pasta frolla. Prendete tutti gli ingredienti per la pasta frolla e impastate il tutto velocemente finché avrete un'impasto omogeneo. Avvolgete la pasta frolla con la pellicola trasparente e mettetela il frigo per mezz'oretta.
-![Smithsonian Image]({{ site.baseurl }}/images/osterchuechae-frolla.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/osterchuechae-frolla.jpg)
 {: .pull-right}
 Nel frattempo preparate il condimento. Prendete un pentolino e fate sobbollire il latte con un pizzico di sale e poi aggiungete il semolino e fate cucinare a temperatura bassa per ca. 10min mescolando spesso. Mentre cucina il latte con il semolino separate i tuorli d'uovo dagli albumi e montate a neve gli albumi con un pizzico di sale. Quando si è addensato bene il semolino, togliete dai fuochi e aggiungete la scorza ed il succo di limone, il burro, lo zucchero, l'uvetta e le mandorle macinate e fate raffreddare un po'. Poi aggiungete i tuorli d'uovo e per finire gli albumi montati a neve mescolando dall'alto verso il basso.
-![Smithsonian Image]({{ site.baseurl }}/images/osterchuechae-ripieno.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/osterchuechae-ripieno.jpg)
 {: .pull-right}
 Stendete la pasta frolla e mettetela in una teglia rotondo da massimo 26cm, bucherellate il fondo e copritelo con poca marmellata.
-![Smithsonian Image]({{ site.baseurl }}/images/osterchuechae-marmellata.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/osterchuechae-marmellata.jpg)
 {: .pull-right}
 Poi versateci il ripieno di semolino e infornatela a 200°C per ca. 35min. 
-![Smithsonian Image]({{ site.baseurl }}/images/osterchuechae-cruda.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/osterchuechae-cruda.jpg)
 {: .pull-right}
 Fate raffreddare la torta direttamente nella teglia in modo che il ripieno si rassodi bene.
-![Smithsonian Image]({{ site.baseurl }}/images/osterchuechae-sfornata.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/osterchuechae-sfornata.jpg)
 {: .pull-right}
 La torta viene servita semplicemente con una bella spolverata di zucchero a velo e se si vuole qualche ovetto di zucchero, poi ogni uno la decora come vuole!
-![Smithsonian Image]({{ site.baseurl }}/images/osterchuechae.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/osterchuechae.jpg)
 {: .pull-right}
 
 

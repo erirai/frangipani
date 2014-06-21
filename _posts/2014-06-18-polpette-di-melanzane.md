@@ -66,15 +66,15 @@ Un po' di tempo fa ho fatto queste polpette giusto per provarle e sono venute ve
 
 Lavate e pelate la melanzana e tagliatela a cubetti piccolini. Poi mettete un po' di olio e l'aglio in una padella e fate dorare l'aglio, poi aggiungete la melanzana. Fatela cucinare a fuoco basso, possibilmente non aggiungete acqua, in modo che non abbiate acqua quando sarà cotta. Se proprio serve aggiungetene un goccio alla volta. 
 Mettete la mollica a mollo nel latte. Quando la melanzana è cotta toglietela dai fornelli e fatela raffreddare un po' poi aggiungete il basilico a pezzetti, la mollica strizzata e un po' di pangrattato. Se non le volete fare vegane, aggiungete anche un po' di parmigiano grattugiato. Impastate tutto con le mani e se c'è bisogno aggiungete ancora un po' di pangrattato. L'impasto deve essere bello compatto.
-![Smithsonian Image]({{ site.baseurl }}/images/polpettemelanzane-impasto.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/polpettemelanzane-impasto.jpg)
 {: .pull-right}
 Mettete un po' di pangrattato su di un piattino per poi impanare le polpette ed iniziate a fare le polpette. Impanatele e mettetele su di una teglia con della carta forno. Volendo le potete anche friggere, io preferisco farle al forno
-![Smithsonian Image]({{ site.baseurl }}/images/polpettemelanzane-impanare.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/polpettemelanzane-impanare.jpg)
 {: .pull-right}
-![Smithsonian Image]({{ site.baseurl }}/images/polpettemelanzane-teglia.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/polpettemelanzane-teglia.jpg)
 {: .pull-right}
 Infornate le polpette nel forno preriscaldato a 200°C (ventilato) per ca. 15 minuti.
-![Smithsonian Image]({{ site.baseurl }}/images/polpettemelanzane.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/polpettemelanzane.jpg)
 {: .pull-right}
 
 <h3>

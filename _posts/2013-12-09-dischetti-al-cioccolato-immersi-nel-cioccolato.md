@@ -10,7 +10,7 @@ comments: true
 share: true
 ---
 
-![Smithsonian Image]({{ site.baseurl }}/images/stelle-natale-special.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/stelle-natale-special.jpg)
 {: .pull-right}
 Mio marito mi aveva chiesto dei biscotti molto cioccolatosi... Eccoli quà!
 
@@ -81,25 +81,25 @@ Mio marito mi aveva chiesto dei biscotti molto cioccolatosi... Eccoli quà!
 
 Fate sciogliere il cioccolato a bagnomaria oppure in microonde e fatelo raffreddare.
 In una ciotola capiente mettete il burro morbido e lo zucchero e mescolate con il mixer, poi aggiungete le uova e continuate a mescolare fino ad ottenere una crema chiara. Aggiungete il cioccolato sciolto e mescolate con un cucchiaio di legno, poi mettete la farina ed il cacao setacciati e finite impastando con le mani. Arrotolate l'impasto facendo una specie di salsicciotto. Poi avvolgetelo con della pellicola trasparente e mettetelo in frigo per 1 ora.
-![Smithsonian Image]({{ site.baseurl }}/images/dischetticioccolato-impasto.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/dischetticioccolato-impasto.jpg)
 {: .pull-right}
-![Smithsonian Image]({{ site.baseurl }}/images/dischetticioccolato-pellicola.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/dischetticioccolato-pellicola.jpg)
 {: .pull-right}
 Uscite l'impasto dal frigo e tagliate con un coltello ben affilato dei dischetti di ca. 5mm di spessore.
-![Smithsonian Image]({{ site.baseurl }}/images/dischetticioccolato-tagliati.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/dischetticioccolato-tagliati.jpg)
 {: .pull-right}
 Adagiateli sulla carta forno e infornateli a 180°C nel forno preriscaldato per 10min.
-![Smithsonian Image]({{ site.baseurl }}/images/dischetticioccolato-sfornati.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/dischetticioccolato-sfornati.jpg)
 {: .pull-right}
 Fate raffreddare i biscotti e nel frattempo fate sciogliere a bagnomaria il cioccolato. Quando i biscotti saranno freddi, immergete la metà del biscotto nel cioccolato sciolto e rimetteteli sulla carta forno.
-![Smithsonian Image]({{ site.baseurl }}/images/dischetticioccolato-glassa.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/dischetticioccolato-glassa.jpg)
 {: .pull-right}
-![Smithsonian Image]({{ site.baseurl }}/images/dischetticioccolato-glassa2.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/dischetticioccolato-glassa2.jpg)
 {: .pull-right}
-![Smithsonian Image]({{ site.baseurl }}/images/dischetticioccolato1.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/dischetticioccolato1.jpg)
 {: .pull-right}
 Fate asciugare bene il cioccolato, in modo che si stacchino bene dalla carta forno.
-![Smithsonian Image]({{ site.baseurl }}/images/dischetticioccolato2.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/dischetticioccolato2.jpg)
 {: .pull-right}
 
 

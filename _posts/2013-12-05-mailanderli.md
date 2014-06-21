@@ -10,7 +10,7 @@ comments: true
 share: true
 ---
 
-![Smithsonian Image]({{ site.baseurl }}/images/stelle-natale-special.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/stelle-natale-special.jpg)
 {: .pull-right}
 > Grazie Madrina per questa ricetta!
 
@@ -63,20 +63,20 @@ Oggi ho fatto i primi biscotti di Natale :-) Secondo me sono i più facili da fa
 </h3>
 
 Mettete la scorza di limone, il burro, lo zucchero, 2 uova intere, un albume (non buttate via il tuorlo, vi servirà dopo) ed un pizzico di sale in una ciotola e mescolate il tutto con il mixer finché il composto sarà spumoso. Poi aggiungete la farina e impastate velocemente con le mani. L'impasto risulterà molto appiccicoso... Avvolgetelo con della pellicola trasparente e mettetelo in frigo per minimo due ore.
-![Smithsonian Image]({{ site.baseurl }}/images/mailanderli-impasto.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/mailanderli-impasto.jpg)
 {: .pull-right}
 Quando l'impasto si sarà indurito bene, prendete un pezzetto e stendetelo con il mattarello, dovrà avere uno spessore di 1cm. Avrete bisogno di abbastanza farina per non appiccicarsi tutto.
-![Smithsonian Image]({{ site.baseurl }}/images/mailanderli-mattarello.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/mailanderli-mattarello.jpg)
 {: .pull-right}
 Prima d'infornare i Mailänderli, prendete il tuorlo che avevate messo da parte, aggiungete un po' d'acqua e mescolate bene, poi con un pennello spalmatelo sui biscotti.
-![Smithsonian Image]({{ site.baseurl }}/images/mailanderli-glasur.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/mailanderli-glasur.jpg)
 {: .pull-right}
-![Smithsonian Image]({{ site.baseurl }}/images/mailanderli-crudi.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/mailanderli-crudi.jpg)
 {: .pull-right}
 Infornate i Mailänderli nel forno preriscaldato a 180°C per ca 13min.
-![Smithsonian Image]({{ site.baseurl }}/images/mailanderli-sfornati.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/mailanderli-sfornati.jpg)
 {: .pull-right}
-![Smithsonian Image]({{ site.baseurl }}/images/mailanderli.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/mailanderli.jpg)
 {: .pull-right}
 
 

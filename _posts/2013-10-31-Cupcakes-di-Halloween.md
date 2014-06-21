@@ -98,30 +98,30 @@ Dolcetto o scherzetto? Mi piace troppo Halloween, peccato che qui in Svizzera no
 </h3>
 
 Accendete il forno a 180°C e preparate le formine per i Muffin. Mettete la farina, il bicarbonato ed il cacao in una ciotola e setacciatela. In un altra ciotola mescolate con il mixer il burro e lo zucchero finché risulterà spumoso. Aggiungete l'uovo e la metà del miscuglio di farina, poi il siero di burro, lo zucchero vanigliato ed il colorante rosso. Dopo aver mescolato il tutto per un po' aggiungete il resto del miscuglio di farina e mettete l'impasto nelle formine.
-![Smithsonian Image]({{ site.baseurl }}/images/halloween-crudi.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/halloween-crudi.jpg)
 {: .pull-right}
 Infornate i Cupcakes per 15-20min nel forno preriscaldato. Dopo sfornati fateli raffreddare su di una griglia.
-![Smithsonian Image]({{ site.baseurl }}/images/halloween-cotti.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/halloween-cotti.jpg)
 {: .pull-right}
 Per il Topping mescolate bene il mascarpone con lo zucchero finché risulterà molto morbido. Dividete l'impasto in tre parti in uno mettete il colorante arancione, nel secondo il colorante rosso e l'ultimo resta bianco. Mettete i tre in frigo a riposare per un po'.
-![Smithsonian Image]({{ site.baseurl }}/images/halloween-topping.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/halloween-topping.jpg)
 {: .pull-right}
 Quando i Cupcakes saranno freddi iniziate a decorarli. 
 Iniziamo con dei teschietti: Spalmate il Topping bianco sui Cupcakes e fate gli occhi, il naso e la bocca con la pasta di zucchero nera.
-![Smithsonian Image]({{ site.baseurl }}/images/halloween-teschietti.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/halloween-teschietti.jpg)
 {: .pull-right}
 Poi facciamo delle zucche: Spalmate il Topping arancione sui Cupcakes e dategli un po' di strittura. Poi fate il picciolo con della pasta di zucchero verde e gli occhi e la bocca con la pasta di zucchero nera.
-![Smithsonian Image]({{ site.baseurl }}/images/halloween-zucche.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/halloween-zucche.jpg)
 {: .pull-right}
 E per finire dei cervellini: Mettete il Topping rosa in un sac à poche e create dei cervellini. Poi con la marmellata fate il sangue.
-![Smithsonian Image]({{ site.baseurl }}/images/halloween-cervelli.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/halloween-cervelli.jpg)
 {: .pull-right}
 
 Ecco quà tutti insieme:
-![Smithsonian Image]({{ site.baseurl }}/images/halloween-tutti2.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/halloween-tutti2.jpg)
 {: .pull-right}
 
-![Smithsonian Image]({{ site.baseurl }}/images/halloween-tutti.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/halloween-tutti.jpg)
 {: .pull-right}
 
 

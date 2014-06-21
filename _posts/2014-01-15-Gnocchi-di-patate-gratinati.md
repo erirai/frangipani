@@ -68,28 +68,28 @@ Era da molto tempo che non facevo gli gnocchi e dato che oggi avevo tempo li ho 
 </h3>
 
 Preparate il sugo come lo fate voi!
-![Smithsonian Image]({{ site.baseurl }}/images/gnocchipatate-sugo.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/gnocchipatate-sugo.jpg)
 {: .pull-right}
 Nel frattempo fate bollire le patate. Prendete delle patate grandi, così perdete meno tempo per pelarle. Quando sono cotte, scolatele, fate scorrerci sopra dell'acqua fredda e pelatele, in questo modo riesce molto meglio. Passate le patate nello schiacciapatate ed aggiungete il resto degli ingredienti. Ora impastate finché sarà tutto ben compatto.
-![Smithsonian Image]({{ site.baseurl }}/images/gnocchipatate-ingredienti.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/gnocchipatate-ingredienti.jpg)
 {: .pull-right}
-![Smithsonian Image]({{ site.baseurl }}/images/gnocchipatate-impasto.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/gnocchipatate-impasto.jpg)
 {: .pull-right}
 Ora prendete un po' d'impasto alla volta, fate dei salsicciotti e tagliateli a tocchetti. Metteteli da parte, spolverateci sopra un po' di farina e fateli riposare un po'.
-![Smithsonian Image]({{ site.baseurl }}/images/gnocchipatate-tagliare.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/gnocchipatate-tagliare.jpg)
 {: .pull-right}
-![Smithsonian Image]({{ site.baseurl }}/images/gnocchipatate-tagliati.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/gnocchipatate-tagliati.jpg)
 {: .pull-right}
 Dopo averli fatti riposare, prendere una pentola abbastanza grande, fate bollire dell'acqua e poi salate. Prendete un po' di gnocchi alla volta e buttateli nell'acqua bollente. Quando gli gnocchi verranno a galla scolateli con una schiumarola e metteteli in una ciotola con dentro già un po' di sugo. Continuate finché avrete cotto tutti gli gnocchi. È importante cucinare pochi gnocchi alla volta. Se c'è bisogno aggiungete ancora del sugo.
-![Smithsonian Image]({{ site.baseurl }}/images/gnocchipatate-bollire.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/gnocchipatate-bollire.jpg)
 {: .pull-right}
-![Smithsonian Image]({{ site.baseurl }}/images/gnocchipatate-cotti.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/gnocchipatate-cotti.jpg)
 {: .pull-right}
 Quando avrete finito, imburrate una pirofila, coprite il fondo con del sugo, aggiungete gli gnocchi e anche del sugo e finite con una spolverata di parmiggiano grattugiato.
-![Smithsonian Image]({{ site.baseurl }}/images/gnocchipatate-pirofila.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/gnocchipatate-pirofila.jpg)
 {: .pull-right}
 Infornate gli gnocchi coperti da un foglio di carta argentata a 220°C (forno statico) per ca. 25min poi togliete la carta argentata e fate dorare bene per ca. 10min.
-![Smithsonian Image]({{ site.baseurl }}/images/gnocchipatate.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/gnocchipatate.jpg)
 {: .pull-right}
 
 <h3>

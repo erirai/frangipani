@@ -10,7 +10,7 @@ comments: true
 share: true
 ---
 
-![Smithsonian Image]({{ site.baseurl }}/images/cuori-san-valentino-special.png)
+![frangipani © Erica]({{ site.baseurl }}/images/cuori-san-valentino-special.png)
 {: .pull-right}
 
 > Buon San Valentino a tutti!
@@ -87,17 +87,17 @@ Dato che mia sorella e mio tra poco cognato sono vegani, mi sono comprata un lib
 
 Mettete il latte, l'olio e la marmellata in un pentolino e fatelo riscaldare. Nel frattempo setacciate la farina, il cacao, il lievito ed il bicarbonato e mettete tutto in una ciotola capiente, poi aggiungete lo zucchero, lo zucchero vanigliato ed il sale e mescolate bene. Quando i liquidi saranno caldi, versate il tutto negli ingredienti asciutti e mischiate bene!
 Imburrate e infarinate bene una teglia rotonda da ca. 24cm e riempitela con l'impasto. 
-![Smithsonian Image]({{ site.baseurl }}/images/tortacioccolatolamponi-impasto.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/tortacioccolatolamponi-impasto.jpg)
 {: .pull-right}
 Infornate la torta nel forno preriscaldato a 180°C per ca. 35min. Mi raccomando fate sempre la prova stecchino.
-![Smithsonian Image]({{ site.baseurl }}/images/tortacioccolatolamponi-sfornata.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/tortacioccolatolamponi-sfornata.jpg)
 {: .pull-right}
 Quando la torta sarà fredda, fate sciogliere a bagnomaria il cioccolato. Mettete la torta un poco rialzata, così il cioccolato in eccesso potrà cadere, e coprite la torta con il cioccolato. Cercate di sostenere da sotto il centro della torta in modo che non si rompa.
-![Smithsonian Image]({{ site.baseurl }}/images/tortacioccolatolamponi-glassare.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/tortacioccolatolamponi-glassare.jpg)
 
-![Smithsonian Image]({{ site.baseurl }}/images/tortacioccolatolamponi-glassa.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/tortacioccolatolamponi-glassa.jpg)
 Decorate la torta a vostro piacere...
-![Smithsonian Image]({{ site.baseurl }}/images/tortacioccolatolamponi.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/tortacioccolatolamponi.jpg)
 
 <h3>
   <font color="#FFCC00">

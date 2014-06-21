@@ -73,13 +73,13 @@ Questa ricetta è nata tanti anni fa per caso, così non sapendo cosa cucinare..
 </h3>
 
 Tagliate finemente lo scalogno ed il peperone e lavate le fragoline. 
-![Smithsonian Image]({{ site.baseurl }}/images/penneerica-ingredienti.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/penneerica-ingredienti.jpg)
 {: .pull-right}
 Poi mettete a soffriggere lo scalogno con poco olio ed un pizzico di sale. Quando sarà ben dorato, aggiungete il peperone tagliato a pezzetti e fate soffriggere per qualche minuto, poi sfumate con il vino o con il fragolino. Ora tocca all'ingrediente segreto, aggiungete le fragoline e poi i pelati. Se c'è bisogno aggiungete un po' d'acqua. Finite con qualche fogliolina di basilico, una spolverata di paprica in polvere e aggiustate di sale. Fate cucinare il sughetto a fuoco basso per mezz'oretta.
-![Smithsonian Image]({{ site.baseurl }}/images/penneerica-sughetto.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/penneerica-sughetto.jpg)
 {: .pull-right}
 Quando la pasta è cotta, scolatela e versatela nella padella con il sughetto, mescolate bene e servite la pasta!
-![Smithsonian Image]({{ site.baseurl }}/images/penneerica.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/penneerica.jpg)
 {: .pull-right}
 
 <h3>

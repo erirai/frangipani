@@ -70,30 +70,30 @@ Oggi mio marito compie 27 anni... uff ormai ci avviciniamo ai 30!!! Il tema era 
 
 Mettete in una ciotola la farina, la fecola di patate, lo zucchero di canna, il lievito, lo zucchero vanigliato ed un pizzico di sale e mescolate tutto.
 Aggiungete poi il latte di soia o di riso e l'olio e mescolate bene a mano e poi aggiungete la scorza di limone e l'essenza di fiori d'arancio.
-![Smithsonian Image]({{ site.baseurl }}/images/minicclimone-impasto.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/minicclimone-impasto.jpg)
 {: .pull-right}
 Mettete l'impasto nelle formine da mini muffin aiutandovi con un cucchiaino. 
-![Smithsonian Image]({{ site.baseurl }}/images/minicclimone-formine.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/minicclimone-formine.jpg)
 {: .pull-right}
 Infornate a 200°C per ca. 12min (mi raccomando fate sempre la prova con lo stecchino), poi sfornateli e fateli raffreddare.
-![Smithsonian Image]({{ site.baseurl }}/images/minicclimone-sfornati.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/minicclimone-sfornati.jpg)
 {: .pull-right}
 Poi ho fatto la crema di burro aromatizzata al limone per decorare i Mini Cupcakes. Questa volta non vi metto la ricetta della crema di burro che mi sono scordata di fare le foto, poi la ricetta si trova dappertutto.
-![Smithsonian Image]({{ site.baseurl }}/images/minicclimone.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/minicclimone.jpg)
 {: .pull-right}
 
 
 Come torta ho fatto la Caprese al limone [(la ricetta la trovate nel post del 19.03.14)]({{ site.baseurl }}/caprese-al-limone) ricoperta e decorata con la pasta di zucchero.
-![Smithsonian Image]({{ site.baseurl }}/images/minicclimone-torta.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/minicclimone-torta.jpg)
 {: .pull-right}
 Poi i Cupcakes con mirtilli e cioccolato [(la ricetta la trovate nel post del 14.01.14)]({{ site.baseurl }}/muffin-con-mirtilli-e-cioccolato) decorati con la crema di burro azzurra e pasta di zucchero.
-![Smithsonian Image]({{ site.baseurl }}/images/minicclimone-cc.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/minicclimone-cc.jpg)
 {: .pull-right}
 E mia mamma ha fatto questa buonissima e simpaticissima torta col trucco, troppo bella! Poi più avanti ve la faccio...
-![Smithsonian Image]({{ site.baseurl }}/images/minicclimone-lattina.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/minicclimone-lattina.jpg)
 {: .pull-right}
 E questa era tutta la tavolata.
-![Smithsonian Image]({{ site.baseurl }}/images/minicclimone-tavola.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/minicclimone-tavola.jpg)
 {: .pull-right}
 
 <h4>Buon appetito

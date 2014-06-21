@@ -10,7 +10,7 @@ comments: true
 share: true
 ---
 
-![Smithsonian Image]({{ site.baseurl }}/images/stelle-natale-special.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/stelle-natale-special.jpg)
 {: .pull-right}
 Il 6 dicembre qui in Svizzera Santa Claus viene a casa dei bambini per portargli un sacchettino con le noccioline, mandarini e cioccolato... ma solo ai bambini buoni! Per i bambini cattivi viene Schmutzli (una specie di uomo nero)! Per questa occasione il nonno si è travestito per fare una sorpresa a nostra figlia... e per non restare a stomaco vuoto ho preparato la treccia russa...
 
@@ -107,26 +107,26 @@ Il 6 dicembre qui in Svizzera Santa Claus viene a casa dei bambini per portargli
 </h3>
 
 Impastate tutti gli ingredienti per l'impasto, poi mettetelo a lievitare a temperatura ambiente per ca. 3 ore o in frigo per tutta la notte.
-![Smithsonian Image]({{ site.baseurl }}/images/trecciarussa-impasto.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/trecciarussa-impasto.jpg)
 {: .pull-right}
 Nel frattempo preparate il ripieno, mescolando insieme tutti gli ingredienti.
-![Smithsonian Image]({{ site.baseurl }}/images/trecciarussa-ripieno.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/trecciarussa-ripieno.jpg)
 {: .pull-right}
 Stendete l'impasto cercando di fare un rettangolo e spalmateci sopra il ripieno.
-![Smithsonian Image]({{ site.baseurl }}/images/trecciarussa-stesa.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/trecciarussa-stesa.jpg)
 {: .pull-right}
 Arrotolatela e tagliatela a metà per il lungo.
-![Smithsonian Image]({{ site.baseurl }}/images/trecciarussa-arrotolata.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/trecciarussa-arrotolata.jpg)
 {: .pull-right}
-![Smithsonian Image]({{ site.baseurl }}/images/trecciarussa-tagliata.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/trecciarussa-tagliata.jpg)
 {: .pull-right}
 Poi mettetela direttamente in una teglia con sotto della carta forno, attorcigliate i due pezzi e fatela lievitare ancora per mezz'oretta.
-![Smithsonian Image]({{ site.baseurl }}/images/trecciarussa-intrecciata.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/trecciarussa-intrecciata.jpg)
 {: .pull-right}
 Ora infornate la treccia russa nel forno preriscaldato a 180°C per 30min (controllate può essere che ci vuole più o meno tempo)! Preparate velocemente la glassa mescolando tutti gli ingredienti e spalmatela sulla treccia appena sfornata.
-![Smithsonian Image]({{ site.baseurl }}/images/trecciarussa1.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/trecciarussa1.jpg)
 {: .pull-right}
-![Smithsonian Image]({{ site.baseurl }}/images/trecciarussa2.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/trecciarussa2.jpg)
 {: .pull-right}
 
 

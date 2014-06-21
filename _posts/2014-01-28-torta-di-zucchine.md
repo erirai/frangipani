@@ -67,13 +67,13 @@ L'altro giorno mia cugina mi ha chiesto questa ricetta... sinceramente non l'ave
 </h3>
 
 Mettete il burro o la margarina nella planetaria o sbattetelo con il mixer finché sarà bello morbido. Aggiungete lo zucchero, un pizzico di sale e le uova continuando a sbattere il tutto. Dopo che si è amalgamato tutto aggiungete le noccioline o le mandorle macinate e poi le zucchine grattugiate. Finite aggiungendo la farina ed il lievito. Continuate a mescolare il tutto finché l'impasto risulterà bello sodo.
-![Smithsonian Image]({{ site.baseurl }}/images/tortazucchine-impasto.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/tortazucchine-impasto.jpg)
 {: .pull-right}
 Imburrate e infarinate una forma da plumcake (ca. 35cm) e riempitelo con l'impasto livellandolo.
-![Smithsonian Image]({{ site.baseurl }}/images/tortazucchine-forma.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/tortazucchine-forma.jpg)
 {: .pull-right}
 Infronate la torta nel ultimo piano (sotto) a 180°C nel forno preriscaldato per ca. 45min (fate sempre la prova stecchino).
-![Smithsonian Image]({{ site.baseurl }}/images/tortazucchine.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/tortazucchine.jpg)
 {: .pull-right}
 
 

@@ -66,10 +66,10 @@ Oggi ho fatto i panini di farina di manioca. Sono dei piccoli panini molto gusto
 </h3>
 
 Mescolate in una ciotola il latte, l'olio e le uova finché risulterà un composto omogeneo. Aggiungete il parmigiano, la farina di manioca, il lievito, ca. mezzo cucchiaino di sale e impastate il tutto con le mani. Alla fine aggiungete il formaggio e finite d'impastare. L'impasto risulterà molto bricoloso, dipenda dalla grossezza della farina... Fate delle piccole palline più o meno di questa grandezza
-![Smithsonian Image]({{ site.baseurl }}/images/paninimanioca-mano.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/paninimanioca-mano.jpg)
 {: .pull-right}
 Infornate i panini nel forno preriscaldato a 180°C per ca. 30min (almeno finché i panini saranno ben dorati).
-![Smithsonian Image]({{ site.baseurl }}/images/paninimanioca.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/paninimanioca.jpg)
 {: .pull-right}
 
 

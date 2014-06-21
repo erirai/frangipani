@@ -104,36 +104,36 @@ Che emozione, oggi nostra figlia fa un anno!!! Che bello! Va matta per Minnie Mo
 </h3>
 
 Almeno 24h prima preparate le orecchie di Minnie Mouse. Prendete della pasta di zucchero nera, stendetela e fate dei dischetti da ca. 2cm aiutandovi con un coppapasta. Per non fare appiccicare la pasta di zucchero io uso la fecola di patate. Metteteli ad asciugare finché si saranno seccati completamente. 
-![Smithsonian Image]({{ site.baseurl }}/images/minniecc-orecchie.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/minniecc-orecchie.jpg)
 {: .pull-right}
 Se avete pazienza e tempo, potete provare anche a fare dei piccoli fiocchetti, io ci ho provato, ma non ci sono riuscita. Per questo userò dei piccoli cuoricini di pasta di zucchero già pronti.
-![Smithsonian Image]({{ site.baseurl }}/images/minniecc-cuoricini.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/minniecc-cuoricini.jpg)
 {: .pull-right}
 Il procedimento per i muffin è sempre lo stesso. Mettete tutti gli ingredienti asciutti in una ciotola e mescolate con la frusta a mano, poi aggiungete l'olio ed il latte e mescolate con un cucchiaio, finché si tolgono tutti i grumi e finite aggiungendo il cioccolato a pezzetti.
-![Smithsonian Image]({{ site.baseurl }}/images/minniecc-cioccolato.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/minniecc-cioccolato.jpg)
 {: .pull-right}
-![Smithsonian Image]({{ site.baseurl }}/images/minniecc-impasto.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/minniecc-impasto.jpg)
 {: .pull-right}
 Versate l'impasto nei pirottini.
-![Smithsonian Image]({{ site.baseurl }}/images/minniecc-formine.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/minniecc-formine.jpg)
 {: .pull-right}
 E infornateli nel forno preriscaldato a 200°C (statico) per ca. 15min. Poi fateli raffreddare bene prima di decorarli.
-![Smithsonian Image]({{ site.baseurl }}/images/minniecc-sfornati.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/minniecc-sfornati.jpg)
 {: .pull-right}
 Ora preparate la crema di burro. Mi raccomando, se volete fare i Cupcakes al 100% vegani prendete la margarina, se no il burro. Io ho usato la margarina... Iniziate uscendo dal frigo la margarina, deve essere morbida, ma non troppo. Mettetela nella planetaria (se no con il mixer a mano) e fatela andare finché risulterà una crema bella morbida. 
-![Smithsonian Image]({{ site.baseurl }}/images/minniecc-burro.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/minniecc-burro.jpg)
 {: .pull-right}
 Poi cucchiaio dopo cucchiaio aggiungete lo zucchero a velo. Dopo qualche cucchiaiata aggiungete il latte, sempre poco a poco. Io uso un misurino da 5ml alla volta. Fate questo finché avrete finito tutto lo zucchero a velo ed il latte. Alla fine aggiungete il concentrato di vaniglia ed il colorante fucsia. E continuate finché la crema risulterà bella ferma. Se dovesse risultare troppo ruvida, aggiungete ancora latte. 
-![Smithsonian Image]({{ site.baseurl }}/images/minniecc-cremaburro.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/minniecc-cremaburro.jpg)
 {: .pull-right}
 Poi mettete la crema di burro in un sac à poche usando una punta grande a vostro piacimento. Dunque mettete il sac à poche per un po' nel frigo per far rapprendere bene la crema.
 
 Poi con dei movimenti circolari, create una specie di piramide con la crema di burro. L'importante è che abbiate l'altezza, per poter poi mettere le orecchie.
-![Smithsonian Image]({{ site.baseurl }}/images/minniecc-decorare1.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/minniecc-decorare1.jpg)
 {: .pull-right}
-![Smithsonian Image]({{ site.baseurl }}/images/minniecc-decorare2.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/minniecc-decorare2.jpg)
 {: .pull-right}
-![Smithsonian Image]({{ site.baseurl }}/images/minniecc-decorare3.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/minniecc-decorare3.jpg)
 {: .pull-right}
 Ora mettete le oreccie, uno a destra e uno a sinistra e finite con il fiocchetto.
 
@@ -142,13 +142,13 @@ Ora mettete le oreccie, uno a destra e uno a sinistra e finite con il fiocchetto
 </div>
 
 Poi ho fatto una torta allo yogurt farcita con una crema al limone, che poi ho ricoperto con la pasta di zucchero. Qualche giorno prima ho fatto le orecchie ed il fiocco e all'ultimo momento ho messo il resto delle decorazioni. Poi più avanti vi darò anche la ricetta.
-![Smithsonian Image]({{ site.baseurl }}/images/minniecc-tortaminnie.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/minniecc-tortaminnie.jpg)
 {: .pull-right}
 Poi dei Mini Cupcakes al rabarbaro e cocco [(la ricetta la trovate nel post del 2.5.14)]({{ site.baseurl }}/bouquet-cupcakes-rabarbaro-cocco).
-![Smithsonian Image]({{ site.baseurl }}/images/minniecc-minicc.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/minniecc-minicc.jpg)
 {: .pull-right}
 E mia mamma ha fatto la crostata di lamponi [(la ricetta la trovate nel post del 18.10.13)]({{ site.baseurl }}/crostata-di-lamponi).
-![Smithsonian Image]({{ site.baseurl }}/images/minniecc-crostatalamponi.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/minniecc-crostatalamponi.jpg)
 {: .pull-right}
 
 <h4>Buon appetito

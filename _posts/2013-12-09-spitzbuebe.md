@@ -10,7 +10,7 @@ comments: true
 share: true
 ---
 
-![Smithsonian Image]({{ site.baseurl }}/images/stelle-natale-special.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/stelle-natale-special.jpg)
 {: .pull-right}
 > Grazie Madrina per questa ricetta!
 
@@ -74,21 +74,21 @@ Ecco la seconda parte dei biscotti di natale... oggi ne ho fatti tre tipi. Quest
 </h3>
 
 Preparate la pasta frolla impastando velocemente tutti gli ingredienti, copritela con della pellicola trasparente e mettetela in frigo per 2 orette.
-![Smithsonian Image]({{ site.baseurl }}/images/spitzbuebe-impasto.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/spitzbuebe-impasto.jpg)
 {: .pull-right}
 Prendete un pezzo dell'impasto e stendetelo, dovrà essere spesso 5mm. Usate delle forme non troppo elaborate, tipo le stelle, i cuori, i cerchi ecc. Se avete quelle formine con i buchi in mezzo ancora meglio. Vi serve un numero pari di biscotti, perché per completare un biscotto ve ne serviranno due.
-![Smithsonian Image]({{ site.baseurl }}/images/spitzbuebe-mattarello.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/spitzbuebe-mattarello.jpg)
 {: .pull-right}
 Infornate i biscotti a 180°C nel forno preriscaldato per 12min.
-![Smithsonian Image]({{ site.baseurl }}/images/spitzbuebe-sfornati.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/spitzbuebe-sfornati.jpg)
 {: .pull-right}
 Quando saranno freddi, prendete la marmella, spalmatela su di un biscotto e poi chiudetelo con un altro biscotto (fate la stessa cosa con la nutella).
-![Smithsonian Image]({{ site.baseurl }}/images/spitzbuebe-riempirli.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/spitzbuebe-riempirli.jpg)
 {: .pull-right}
-![Smithsonian Image]({{ site.baseurl }}/images/spitzbuebe-chiusi.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/spitzbuebe-chiusi.jpg)
 {: .pull-right}
 Per finire una bella spolverata di zucchero a velo.
-![Smithsonian Image]({{ site.baseurl }}/images/spitzbuebe.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/spitzbuebe.jpg)
 {: .pull-right}
 
 

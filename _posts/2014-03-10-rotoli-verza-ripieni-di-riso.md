@@ -64,27 +64,27 @@ Questa stagione ancora non ho mangiato la verza, il problema è che a mio marito
 
 Staccate 6/7 foglie di verza e mettetele da parte, il resto della verza la tagliate a striscioline, non scordatevi di togliere il tronchetto.
 Fate bollire dell'acqua e sbollentate per qualche minuto le foglie di verza. Poi scolatele e mettetele in una coppa con dell'acqua fredda per bloccare la cottura. Mettete da parte l'acqua dove avete sbollentato la verza, vi servirà per il risotto.
-![Smithsonian Image]({{ site.baseurl }}/images/rotoliverzariso-foglie.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/rotoliverzariso-foglie.jpg)
 {: .pull-right}
 Ora prepariamo il risotto: tagliate la cipolla e fatela rosolare insieme all'aglio con poco olio. Quando saranno ben dorati aggiungete la verza, un po' dell'acqua dove avevate sbollentato la verza e fatela appassire.
-![Smithsonian Image]({{ site.baseurl }}/images/rotoliverzariso-verza.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/rotoliverzariso-verza.jpg)
 {: .pull-right}
 Ora aggiungete il riso e fatelo tostare sempre girando per 1min e coprite con l'acqua della verza. Fatelo cucinare a temperatura moderata sempre girando e aggiungendo poco a poco l'acqua. Io vi consiglio di fare il risotto in una padella antiaderente con i bordi alti. In questo modo il risotto non si attacca così velocemente. Quando è pronto togliete dai fuochi, aggiungete le foglie di basilico e mantecatelo col parmigiano grattugiato (mettetene un po' da parte che vi servirà per far gratinare la verza). Se c'è bisogno aggiungete del sale e fatelo raffreddare un po'.
-![Smithsonian Image]({{ site.baseurl }}/images/rotoliverzariso-risotto.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/rotoliverzariso-risotto.jpg)
 {: .pull-right}
 Prendete le foglie di verza, asciugatele e tagliate il pezzo duro di sotto. Mettete due cucchiai di risotto e chiudetelo a pacchetto.
-![Smithsonian Image]({{ site.baseurl }}/images/rotoliverzariso-arrotolare.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/rotoliverzariso-arrotolare.jpg)
 {: .pull-right}
-![Smithsonian Image]({{ site.baseurl }}/images/rotoliverzariso-arrotolati.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/rotoliverzariso-arrotolati.jpg)
 {: .pull-right}
 Mettete i rotoli di verza in una pirofila imburrata e coprite con il resto del parmigiano grattugiato.
-![Smithsonian Image]({{ site.baseurl }}/images/rotoliverzariso-pirofila.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/rotoliverzariso-pirofila.jpg)
 {: .pull-right}
 Infornate i rotoli nel forno preriscaldato ventilato a 220°C per ca. 30min coperti da un foglio di carta d'alluminio. Poi togliete la carta d'alluminio e fate dorare per ancora qualche minuto.
-![Smithsonian Image]({{ site.baseurl }}/images/rotoliverzariso-sfornati.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/rotoliverzariso-sfornati.jpg)
 {: .pull-right}
 Sfornateli e serviteli subito!
-![Smithsonian Image]({{ site.baseurl }}/images/rotoliverzariso.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/rotoliverzariso.jpg)
 {: .pull-right}
 
 <h4>Buon appetito
