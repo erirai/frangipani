@@ -27,6 +27,10 @@ Mio marito mi aveva chiesto dei biscotti molto cioccolatosi... Eccoli quà!
         <td>farina</td>
       </tr>
       <tr>
+        <td>40gr</td>
+        <td>burro</td>
+      </tr>
+      <tr>
         <td>100gr</td>
         <td>zucchero</td>
       </tr>
