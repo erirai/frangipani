@@ -115,6 +115,14 @@ Eccoli pronti i macarons alle fragole... Mi raccomando mangiateli freschi fresch
 ![frangipani © Erica]({{ site.baseurl }}/images/Macarons alle fragole/macaronsfragole.jpg)
 {: .pull-right}
 
+<h3>
+  <font color="#FFCC00">
+    <i class="icon-lightbulb"></i>
+  </font> P.S.
+</h3>
+
+Mangiate i macarons lo stesso giorno che il giorno dopo non sono più buoni, diventano mollicci! Anzi farciteli poco prima di servirli!
+
 <h4>Buon appetito
   <font color="red">
     <i class="icon-smile"></i>
