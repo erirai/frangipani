@@ -3,7 +3,7 @@ layout: post
 title: Sciroppo di Sambuco
 description: "Uno sciroppo rinfrescante per l'estate..."
 modified: 2014-06-03
-tags: [sciroppo, sambuco, limoni, melissa]
+tags: [sciroppo, sambuco, limone, melissa]
 image:
   feature: sciropposambuco-header.jpg
 comments: true
