@@ -55,7 +55,7 @@ Oggi per la prima volta ho fatto i muffin salati... Devo dire che non era facile
 			</tr>
 			<tr>
 				<td>qb</td>
-				<td>basilico e prezzemolo</td>
+				<td>basilico</td>
 			</tr>
 			<tr>
 				<td>qb</td>
@@ -81,7 +81,7 @@ Oggi per la prima volta ho fatto i muffin salati... Devo dire che non era facile
 Iniziate lavando e tagliando a pezzettini piccoli le zucchine e metteteli a soffriggere con un filo d'olio. Fateli cucinare a fuoco basso finché si saranno ammorbiditi un po' e salateli. Poi fateli raffreddare. Ora tagliate a pezzetti l'asiago.
 ![frangipani © Erica]({{ site.baseurl }}/images/Muffin salati con zucchine e asiago/muffinsalatizucchineasiago-ingredienti.jpg)
 {: .pull-right}
-Mettete in una terrina la farina setacciata ed il lievito. A parte sbattete l'uovo con il latte, salate e aggiungetelo alla farina. Poi aggiungete la passata di pomodoro, il parmigiano e l'olio di semi. Mescolate bene e finite aggiungendo le zucchine e l'asiago.
+Mettete in una terrina la farina setacciata ed il lievito. A parte sbattete l'uovo con il latte, salate e aggiungetelo alla farina. Poi aggiungete la passata di pomodoro, il parmigiano e l'olio di semi. Mescolate bene e finite aggiungendo il basilico a piacere, le zucchine e l'asiago.
 ![frangipani © Erica]({{ site.baseurl }}/images/Muffin salati con zucchine e asiago/muffinsalatizucchineasiago-impasto.jpg)
 {: .pull-right}
 Ungete degli stampini e riempiteli fino a 3/4 con l'impasto e infornateli a 170°C (statico) per 20min. Mi raccomando fate sempre la prova stecchino.
