@@ -106,16 +106,22 @@ Iniziate preparando l'impasto per i Whoopie-Pies, dunque montate l'uovo, con lo 
 {: .pull-right}
 Mentre aspettate, lavate i ribes, toglite il verde e metteteli da parte. Poi preparate la crema: montate la panna con lo zucchero a velo, l'addensante e la vaniglia macinata. Quando sarà bella ferma incorporate il Quark mescolando a mano. Fate attenzione a non smontare la panna e mettetela a riposare in frigo.
 ![frangipani © Erica]({{ site.baseurl }}/images/Whoopie-Pies ai ribes farciti con panna e Quark/whoopiepiesribespannaquark-farcia.jpg)
+{: .pull-right}
 Ora preparate una leccarda e ricopritela con della carta forno. Prendete l'impasto e fate delle palline. Dato che l'impasto è abbastanza appiccicoso, io ho fatto le palline con il porzionatore per il gelato, quello che fa le palline.
 ![frangipani © Erica]({{ site.baseurl }}/images/Whoopie-Pies ai ribes farciti con panna e Quark/whoopiepiesribespannaquark-palline.jpg)
+{: .pull-right}
 Adagiatele sulla leccarda lasciando abbastanza spazio tra una e l'altra perché poi si gonfieranno. Cercate di farli più rotondi possibile... Poi ricopriteli di ribes, prendetene abbastanza perché si allargheranno e schiacciateli un po'. L'impasto dovrebbe bastare per ca. 16 palline.
 ![frangipani © Erica]({{ site.baseurl }}/images/Whoopie-Pies ai ribes farciti con panna e Quark/whoopiepiesribespannaquark-teglia.jpg)
+{: .pull-right}
 Ora infornateli a 170°C (statico) per 15-20min, diende da quanto sono grandi. Controllate sempre per non farli bruciare. Poi fateli raffreddare completamente.
 ![frangipani © Erica]({{ site.baseurl }}/images/Whoopie-Pies ai ribes farciti con panna e Quark/whoopiepiesribespannaquark-sfornati.jpg)
+{: .pull-right}
 Quando saranno completamente freddi, passate la crema di panna e Quark in un sac à poche e farcite una metà dei Whoopie-Pies e poi ricoprite con l'altra metà. Volendo potete farcirli anche aiutandovi con una spatoletta o un coltello... 
 ![frangipani © Erica]({{ site.baseurl }}/images/Whoopie-Pies ai ribes farciti con panna e Quark/whoopiepiesribespannaquark-farcire.jpg)
+{: .pull-right}
 Lasciateli in frigo finché li servirete!
 ![frangipani © Erica]({{ site.baseurl }}/images/Whoopie-Pies ai ribes farciti con panna e Quark/whoopiepiesribespannaquark.jpg)
+{: .pull-right}
 
 <h4>Buon appetito
   <font color="red">
