@@ -56,7 +56,7 @@ Avevo voglia di qualcosa di dolce, però da fare velocemente perché non avevo t
 		</tbody>
 	</table>
 	<br></br>
-	<i class="pull-right" style="font-size: 80%;">per ca 25 biscotti</i>
+	<i class="pull-right" style="font-size: 80%;">per ca. 25 biscotti</i>
 </div>
 
 
