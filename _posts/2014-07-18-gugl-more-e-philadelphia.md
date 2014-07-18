@@ -95,7 +95,7 @@ Prima di servirli cospargeteli con una bella spolverata di zucchero a velo!
   </font> P.S.
 </h3>
 
-Mia zia che sta in Italia mi dice sempre che non riece a trovare la panna acida. Se voi non la trovate, prendete la Crème frèche che è la stessa cosa!
+Mia zia che sta in Italia mi dice sempre che non riece a trovare la panna acida. Se voi non la trovate, prendete la Crème fraîche che è la stessa cosa!
 
 <h4>Buon appetito
 	<font color="red">
