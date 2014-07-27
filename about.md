@@ -5,6 +5,7 @@ title: Su di me
 image:
   feature: sudime-header.jpg
 share: true
+exclude_from_search: true
 ---
 
 Secondo me è molto interessante sapere chi si nasconde dietro un blog... per questo volevo condividere con voi i momenti più importanti della mia vita, almeno quelli che ho vissuto fin ora!

@@ -6,7 +6,7 @@ LOCALE = :it # set your locale
 module Jekyll
   module I18nFilter
     # Example:
-    #   {{ post.date | localize: "%d.%m.%Y" }}
+    #   {{ post.date | localize: "%d. %m. %Y" }}
     #   {{ post.date | localize: ":short" }}
     def localize(input, format=nil)
       load_translations
