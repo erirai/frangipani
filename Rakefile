@@ -1,5 +1,7 @@
 desc "Deploy _site/"
 task :deploy do
+  puts "\n## Rebuild"
+  system('jekyll build')
   puts "\n## Staging modified files"
   status = system("git add -A")
   puts status ? "Success" : "Failed"
@@ -20,5 +22,6 @@ end
 desc "Work _site/"
 task :work do
   puts "\n## working locally..."
-  system("jekyll serve --watch --baseurl=")
+  system('jekyll build')
+  system("jekyll serve --safe --watch --baseurl=")
 end
