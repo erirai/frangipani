@@ -43,13 +43,13 @@ module Jekyll
         
         index << {
           :title => entry.title, 
-          :url => entry.url,
+          :url => site.baseurl + entry.url,
           :date => entry.date,
           :categories => entry.categories,
           :body => entry.body
         }
         
-        puts 'Indexed ' << "#{entry.title} (#{entry.url})"
+        puts 'Indexed ' << "#{entry.title} (#{site.baseurl}#{entry.url})"
       end
       
       json = JSON.generate({:entries => index})

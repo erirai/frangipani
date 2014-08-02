@@ -43,11 +43,11 @@ exclude_from_search: true
     <article class="hentry" itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
     		<header>
     			<div class="entry-meta"><span class="entry-date date published">
-    			<time datetime="{{pubdate}}"><a href="{{ site.baseurl }}{{ url }}">{{ displaydate }}</a></time></span>
+    			<time datetime="{{pubdate}}"><a href="{{ url }}">{{ displaydate }}</a></time></span>
     			</div>
     		</header>
 
-    	<h1 class="entry-title" itemprop="name"><a href="{{ site.baseurl }}{{url}}" rel="bookmark" itemprop="url" title="{{ title }}"><i class="icon-double-angle-right"></i></a> <a href="{{ site.baseurl }}{{url}}">{{title}}</a></h1>
+    	<h1 class="entry-title" itemprop="name"><a href="{{url}}" rel="bookmark" itemprop="url" title="{{ title }}"><i class="icon-double-angle-right"></i></a> <a href="{{url}}">{{title}}</a></h1>
     </article>
   {{/entries}}
 </script>
