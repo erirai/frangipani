@@ -16,56 +16,56 @@ Oggi mio marito compie 27 anni... uff ormai ci avviciniamo ai 30!!! Il tema era 
 
 
 <div class="ingredients">
-	<div class="ingredients-title">Ingredienti</div>
-	<table>
-		<tbody>
-			<tr>
-				<td>200gr</td>
-				<td>farina</td>
-			</tr>
-			<tr>
-				<td>40gr</td>
-				<td>fecola di patate (o simile)</td>
-			</tr>
-			<tr>
-				<td>90gr</td>
-				<td>zucchero di canna</td>
-			</tr>
-			<tr>
-				<td>1 bustina</td>
-				<td>lievito per dolci</td>
-			</tr>
-			<tr>
-				<td>1 pizzico</td>
-				<td>sale</td>
-			</tr>
-			<tr>
-				<td>250ml</td>
-				<td>latte di soia o di riso</td>
-			</tr>
-			<tr>
-				<td>100ml</td>
-				<td>olio di semi</td>
-			</tr>
-			<tr>
-				<td>1 limone bio</td>
-				<td>solo la scorza</td>
-			</tr>
-			<tr>
-				<td>1 fialetta</td>
-				<td>essenza di fiori d'arancio</td>
-			</tr>
-		</tbody>
-	</table>
-	<br></br>
-	<i class="pull-right" style="font-size: 80%;">per ca. 55 mini muffin</i>
+  <div class="ingredients-title">Ingredienti</div>
+  <table>
+    <tbody>
+      <tr>
+        <td>200gr</td>
+        <td>farina</td>
+      </tr>
+      <tr>
+        <td>40gr</td>
+        <td>fecola di patate (o simile)</td>
+      </tr>
+      <tr>
+        <td>90gr</td>
+        <td>zucchero di canna</td>
+      </tr>
+      <tr>
+        <td>1 bustina</td>
+        <td>lievito per dolci</td>
+      </tr>
+      <tr>
+        <td>1 pizzico</td>
+        <td>sale</td>
+      </tr>
+      <tr>
+        <td>250ml</td>
+        <td>latte di soia o di riso</td>
+      </tr>
+      <tr>
+        <td>100ml</td>
+        <td>olio di semi</td>
+      </tr>
+      <tr>
+        <td>1 limone bio</td>
+        <td>solo la scorza</td>
+      </tr>
+      <tr>
+        <td>1 fialetta</td>
+        <td>essenza di fiori d'arancio</td>
+      </tr>
+    </tbody>
+  </table>
+  <br></br>
+  <i class="pull-right" style="font-size: 80%;">per ca. 55 mini muffin</i>
 </div>
 
 
 <h3>
-	<font color="grey">
-		<i class="icon-cogs"></i>
-	</font> Preparazione
+  <font color="grey">
+    <i class="icon-cogs"></i>
+  </font> Preparazione
 </h3>
 
 Mettete in una ciotola la farina, la fecola di patate, lo zucchero di canna, il lievito, lo zucchero vanigliato ed un pizzico di sale e mescolate tutto.
@@ -97,7 +97,7 @@ E questa era tutta la tavolata.
 {: .pull-right}
 
 <h4>Buon appetito
-	<font color="red">
-		<i class="icon-smile"></i>
-	</font>
+  <font color="red">
+    <i class="icon-smile"></i>
+  </font>
 </h4>

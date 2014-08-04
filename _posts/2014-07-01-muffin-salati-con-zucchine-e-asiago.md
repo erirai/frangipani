@@ -14,68 +14,68 @@ Oggi per la prima volta ho fatto i muffin salati... Devo dire che non era facile
 
 
 <div class="ingredients">
-	<div class="ingredients-title">Ingredienti</div>
-	<table>
-		<tbody>
-			<tr>
-				<td>260gr</td>
-				<td>farina</td>
-			</tr>
-			<tr>
-				<td>1</td>
-				<td>uovo</td>
-			</tr>
-			<tr>
-				<td>300gr</td>
-				<td>zucchine</td>
-			</tr>
-			<tr>
-				<td>100gr</td>
-				<td>asiago o emmental</td>
-			</tr>
-			<tr>
-				<td>50gr</td>
-				<td>parmigiano grattugiato</td>
-			</tr>
-			<tr>
-				<td>100ml</td>
-				<td>passata di pomodoro</td>
-			</tr>
-			<tr>
-				<td>1 bicchiere</td>
-				<td>latte</td>
-			</tr>
-			<tr>
-				<td>1 tazzina</td>
-				<td>olio di semi</td>
-			</tr>
-			<tr>
-				<td>1/2 bustina</td>
-				<td>lievito per dolci</td>
-			</tr>
-			<tr>
-				<td>qb</td>
-				<td>basilico</td>
-			</tr>
-			<tr>
-				<td>qb</td>
-				<td>olio evo</td>
-			</tr>
-			<tr> 
-				<td>qb</td>
-				<td>sale</td>
-			</tr>
-		</tbody>
-	</table>
-	<br></br>
-	<i class="pull-right" style="font-size: 80%;">per ca. 10 muffin</i>
+  <div class="ingredients-title">Ingredienti</div>
+  <table>
+    <tbody>
+      <tr>
+        <td>260gr</td>
+        <td>farina</td>
+      </tr>
+      <tr>
+        <td>1</td>
+        <td>uovo</td>
+      </tr>
+      <tr>
+        <td>300gr</td>
+        <td>zucchine</td>
+      </tr>
+      <tr>
+        <td>100gr</td>
+        <td>asiago o emmental</td>
+      </tr>
+      <tr>
+        <td>50gr</td>
+        <td>parmigiano grattugiato</td>
+      </tr>
+      <tr>
+        <td>100ml</td>
+        <td>passata di pomodoro</td>
+      </tr>
+      <tr>
+        <td>1 bicchiere</td>
+        <td>latte</td>
+      </tr>
+      <tr>
+        <td>1 tazzina</td>
+        <td>olio di semi</td>
+      </tr>
+      <tr>
+        <td>1/2 bustina</td>
+        <td>lievito per dolci</td>
+      </tr>
+      <tr>
+        <td>qb</td>
+        <td>basilico</td>
+      </tr>
+      <tr>
+        <td>qb</td>
+        <td>olio evo</td>
+      </tr>
+      <tr> 
+        <td>qb</td>
+        <td>sale</td>
+      </tr>
+    </tbody>
+  </table>
+  <br></br>
+  <i class="pull-right" style="font-size: 80%;">per ca. 10 muffin</i>
 </div>
 
 
 <h3>
-	<font color="grey">
-		<i class="icon-cogs"></i>
-	</font> Preparazione
+  <font color="grey">
+    <i class="icon-cogs"></i>
+  </font> Preparazione
 </h3>
 
 Iniziate lavando e tagliando a pezzettini piccoli le zucchine e metteteli a soffriggere con un filo d'olio. Fateli cucinare a fuoco basso finché si saranno ammorbiditi un po' e salateli. Poi fateli raffreddare. Ora tagliate a pezzetti l'asiago.
@@ -100,7 +100,7 @@ Questi Muffin sono buoni sia caldi che freddi!
 Se per caso avete un po' di sugo che vi è avanzato usate direttamente quello invece della passata di pomodoro, così è molto più gustoso!
 
 <h4>Buon appetito
-	<font color="red">
-		<i class="icon-smile"></i>
-	</font>
+  <font color="red">
+    <i class="icon-smile"></i>
+  </font>
 </h4>

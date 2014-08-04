@@ -15,30 +15,30 @@ Dato che abbiamo raccolto un bel po' di fragole e lamponi, mia sorella ha pensat
 
 
 <div class="ingredients">
-	<div class="ingredients-title">Ingredienti</div>
-	<table>
-		<tbody>
-			<tr>
-				<td>fragole</td>
-			</tr>
-			<tr>
-				<td>lamponi</td>
-			</tr>
-			<tr>
-				<td>succo di limone</td>
-			</tr>
-				<td>zucchero di canna</td>				
-			</tr>
-		</tbody>
-	</table>
-	<br></br>
+  <div class="ingredients-title">Ingredienti</div>
+  <table>
+    <tbody>
+      <tr>
+        <td>fragole</td>
+      </tr>
+      <tr>
+        <td>lamponi</td>
+      </tr>
+      <tr>
+        <td>succo di limone</td>
+      </tr>
+        <td>zucchero di canna</td>        
+      </tr>
+    </tbody>
+  </table>
+  <br></br>
 </div>
 
 
 <h3>
-	<font color="grey">
-		<i class="icon-cogs"></i>
-	</font> Preparazione
+  <font color="grey">
+    <i class="icon-cogs"></i>
+  </font> Preparazione
 </h3>
 Lavate la frutta e togliete tutto il verde, aggiungete lo zucchero ed il succo di limone a piacere e frullate il tutto con il mixer ad immersione. Poi passate il composto nella gelatiera. 
 ![frangipani © Erica]({{ site.baseurl }}/images/sorbettofragolelamponi-preparazione.jpg)
@@ -49,7 +49,7 @@ Appena è pronto mettetelo nelle coppette e servitelo subito!
 {: .pull-right}
 
 <h4>Buon appetito
-	<font color="red">
-		<i class="icon-smile"></i>
-	</font>
+  <font color="red">
+    <i class="icon-smile"></i>
+  </font>
 </h4>

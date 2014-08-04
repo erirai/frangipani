@@ -14,59 +14,59 @@ In uno dei miei libri vegan ho trovato questa ricetta e sembrava veramente invit
 
 
 <div class="ingredients">
-	<div class="ingredients-title">Ingredienti</div>
-	<table>
-		<tbody>
-			<tr>
-				<td>350gr</td>
-				<td>farina</td>
-			</tr>
-			<tr>
-				<td>2 cucchiaini</td>
-				<td>lievito per dolci</td>
-			</tr>
-			<tr>
-				<td>1 cucchiaino</td>
-				<td>bicarbonato</td>
-			</tr>
-			<tr>
-				<td>350gr</td>
-				<td>zucchero</td>
-			</tr>
-			<tr>
-				<td>500ml</td>
-				<td>latte di riso o soia</td>
-			</tr>
-			<tr>
-				<td>150ml</td>
-				<td>olio di semi</td>
-			</tr>
-			<tr>
-				<td>1 cucchiaino</td>
-				<td>vaniglia in polvere</td>
-			</tr>
-			<tr>
-				<td>1 cucchiaino</td>
-				<td>concentrato di vaniglia</td>
-			</tr>
-			<tr>
-				<td>1 pizzico</td>
-				<td>sale</td>
-			</tr>
-			<tr>
-				<td>300gr</td>
-				<td>frutti di bosco misti</td>
-			</tr>
-		</tbody>
-	</table>
-	<br></br>
+  <div class="ingredients-title">Ingredienti</div>
+  <table>
+    <tbody>
+      <tr>
+        <td>350gr</td>
+        <td>farina</td>
+      </tr>
+      <tr>
+        <td>2 cucchiaini</td>
+        <td>lievito per dolci</td>
+      </tr>
+      <tr>
+        <td>1 cucchiaino</td>
+        <td>bicarbonato</td>
+      </tr>
+      <tr>
+        <td>350gr</td>
+        <td>zucchero</td>
+      </tr>
+      <tr>
+        <td>500ml</td>
+        <td>latte di riso o soia</td>
+      </tr>
+      <tr>
+        <td>150ml</td>
+        <td>olio di semi</td>
+      </tr>
+      <tr>
+        <td>1 cucchiaino</td>
+        <td>vaniglia in polvere</td>
+      </tr>
+      <tr>
+        <td>1 cucchiaino</td>
+        <td>concentrato di vaniglia</td>
+      </tr>
+      <tr>
+        <td>1 pizzico</td>
+        <td>sale</td>
+      </tr>
+      <tr>
+        <td>300gr</td>
+        <td>frutti di bosco misti</td>
+      </tr>
+    </tbody>
+  </table>
+  <br></br>
 </div>
 
 
 <h3>
-	<font color="grey">
-		<i class="icon-cogs"></i>
-	</font> Preparazione
+  <font color="grey">
+    <i class="icon-cogs"></i>
+  </font> Preparazione
 </h3>
 
 Allora è veramente facilissimo: setacciate la farina, il lievito ed il bicarbonato e mettete tutto in una coppa. Poi aggiungete lo zucchero e la vaniglia in polvere, mescolate con le fruste a mano. A questo punto aggiungete il latte, l'olio, il concentrato di vaniglia, un pizzico di sale e continuate a mescolare finché si sarà amalgamato tutto, fate attenzione a togliere tutti i grumi. Finite aggiungendo i frutti di bosco e finite di mescolare con un cucchiaio.
@@ -91,7 +91,7 @@ Se volete potete riempire il buco al centro con dei frutti di bosco freschi e sp
 Potete accompagnare questa ciambella anche con del buon gelato alla vaniglia o ai frutti di bosco, o anche con una cremina leggera alla vaniglia...
 
 <h4>Buon appetito
-	<font color="red">
-		<i class="icon-smile"></i>
-	</font>
+  <font color="red">
+    <i class="icon-smile"></i>
+  </font>
 </h4>

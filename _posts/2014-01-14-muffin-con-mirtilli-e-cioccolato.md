@@ -17,60 +17,60 @@ Avevo voglia di qualcosa di dolce ma avevo poco tempo e mi è venuta in mente la
 
 
 <div class="ingredients">
-	<div class="ingredients-title">Ingredienti</div>
-	<table>
-		<tbody>
-			<tr>
-				<td>200gr</td>
-				<td>farina</td>
-			</tr>
-			<tr>
-				<td>40gr</td>
-				<td>fecola di patate (o simile)</td>
-			</tr>
-			<tr>
-				<td>90gr</td>
-				<td>zucchero di canna</td>
-			</tr>
-			<tr>
-				<td>1 bustina</td>
-				<td>lievito per dolci</td>
-			</tr>
-			<tr>
-				<td>1 bustina</td>
-				<td>zucchero vanigliato</td>
-			</tr>
-			<tr>
-				<td>1 pizzico</td>
-				<td>sale</td>
-			</tr>
-			<tr>
-				<td>250ml</td>
-				<td>latte di soia o di riso</td>
-			</tr>
-			<tr>
-				<td>100ml</td>
-				<td>olio di semi</td>
-			</tr>
-			<tr>
-				<td>120gr</td>
-				<td>mirtilli</td>
-			</tr>
-			<tr>
-				<td>100gr</td>
-				<td>cioccolato fondente a pezzetti</td>
-			</tr>
-		</tbody>
-	</table>
-	<br></br>
-	<i class="pull-right" style="font-size: 80%;">per ca. 14 muffin</i>
+  <div class="ingredients-title">Ingredienti</div>
+  <table>
+    <tbody>
+      <tr>
+        <td>200gr</td>
+        <td>farina</td>
+      </tr>
+      <tr>
+        <td>40gr</td>
+        <td>fecola di patate (o simile)</td>
+      </tr>
+      <tr>
+        <td>90gr</td>
+        <td>zucchero di canna</td>
+      </tr>
+      <tr>
+        <td>1 bustina</td>
+        <td>lievito per dolci</td>
+      </tr>
+      <tr>
+        <td>1 bustina</td>
+        <td>zucchero vanigliato</td>
+      </tr>
+      <tr>
+        <td>1 pizzico</td>
+        <td>sale</td>
+      </tr>
+      <tr>
+        <td>250ml</td>
+        <td>latte di soia o di riso</td>
+      </tr>
+      <tr>
+        <td>100ml</td>
+        <td>olio di semi</td>
+      </tr>
+      <tr>
+        <td>120gr</td>
+        <td>mirtilli</td>
+      </tr>
+      <tr>
+        <td>100gr</td>
+        <td>cioccolato fondente a pezzetti</td>
+      </tr>
+    </tbody>
+  </table>
+  <br></br>
+  <i class="pull-right" style="font-size: 80%;">per ca. 14 muffin</i>
 </div>
 
 
 <h3>
-	<font color="grey">
-		<i class="icon-cogs"></i>
-	</font> Preparazione
+  <font color="grey">
+    <i class="icon-cogs"></i>
+  </font> Preparazione
 </h3>
 
 Mettete in una ciotola la farina, la fecola di patate, lo zucchero di canna, il lievito, lo zucchero vanigliato ed un pizzico di sale e mescolate tutto.
@@ -85,9 +85,9 @@ Mettete l'impasto nelle formine da muffin ed infornate a 200°C per ca. 20min (m
 
 
 <h3>
-	<font color="#FFCC00">
-		<i class="icon-lightbulb"></i>
-	</font> P.S.
+  <font color="#FFCC00">
+    <i class="icon-lightbulb"></i>
+  </font> P.S.
 </h3>
 
 
@@ -95,7 +95,7 @@ Se non avete i mirtilli potete usare anche dei ribes, lamponi o anche le more. N
 Un piccolo consiglio: cercate di usare il più possibile zucchero grezzo che è molto più sano dello zucchero raffinato. Usate anche lo zucchero vanigliato e non la vanillina. La vanillina è un prodotto sintetico, che non ha niente a che fare con la vaniglia! 
 
 <h4>Buon appetito
-	<font color="red">
-		<i class="icon-smile"></i>
-	</font>
+  <font color="red">
+    <i class="icon-smile"></i>
+  </font>
 </h4>

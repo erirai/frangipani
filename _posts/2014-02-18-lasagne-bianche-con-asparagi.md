@@ -13,68 +13,68 @@ share: true
 Finalmente ci sono gli asparagi, sono una cosa fantastica poi si possono fare in tantissimi modi diversi. Oggi vi propongo un modo come poterli fare...
 
 <div class="ingredients">
-	<div class="ingredients-title">Ingredienti</div>
-	<table>
-		<tbody>
-			<tr>
-				<td>qb (ca. 200gr)</td>
-				<td>lasagne secche o fresche</td>
-			</tr>
-			<tr>
-				<td>1kg</td>
-				<td>asparagi</td>
-			</tr>
-			<tr>
-				<td>150gr</td>
-				<td>pomodorini</td>
-			</tr>
-			<tr>
-				<td>1</td>
-				<td>scalogno grande</td>
-			</tr>
-			<tr>
-				<td>qb</td>
-				<td>basilico e origano fresco</td>
-			</tr>
-			<tr>
-				<td>qb</td>
-				<td>olio d'oliva</td>
-			</tr>
-			<tr>
-				<td>1l</td>
-				<td>latte</td>
-			</tr>
-			<tr>
-				<td>3 cucchiai colmi</td>
-				<td>farina</td>
-			</tr>
-			<tr>
-				<td>qb</td>
-				<td>noce moscata</td>
-			</tr>
-			<tr>
-				<td>100gr</td>
-				<td>parmigiano grattugiato</td>
-			</tr>
-			<tr>
-				<td>3</td>
-				<td>uova</td>
-			</tr>
-			<tr>
-				<td>qb</td>
-				<td>sale</td>
-			</tr>
-		</tbody>
-	</table>
-	<br></br>
+  <div class="ingredients-title">Ingredienti</div>
+  <table>
+    <tbody>
+      <tr>
+        <td>qb (ca. 200gr)</td>
+        <td>lasagne secche o fresche</td>
+      </tr>
+      <tr>
+        <td>1kg</td>
+        <td>asparagi</td>
+      </tr>
+      <tr>
+        <td>150gr</td>
+        <td>pomodorini</td>
+      </tr>
+      <tr>
+        <td>1</td>
+        <td>scalogno grande</td>
+      </tr>
+      <tr>
+        <td>qb</td>
+        <td>basilico e origano fresco</td>
+      </tr>
+      <tr>
+        <td>qb</td>
+        <td>olio d'oliva</td>
+      </tr>
+      <tr>
+        <td>1l</td>
+        <td>latte</td>
+      </tr>
+      <tr>
+        <td>3 cucchiai colmi</td>
+        <td>farina</td>
+      </tr>
+      <tr>
+        <td>qb</td>
+        <td>noce moscata</td>
+      </tr>
+      <tr>
+        <td>100gr</td>
+        <td>parmigiano grattugiato</td>
+      </tr>
+      <tr>
+        <td>3</td>
+        <td>uova</td>
+      </tr>
+      <tr>
+        <td>qb</td>
+        <td>sale</td>
+      </tr>
+    </tbody>
+  </table>
+  <br></br>
   <i class="pull-right" style="font-size: 80%;">per una pirofila da 20x30cm</i>
 </div>
 
 
 <h3>
-	<font color="grey">
-		<i class="icon-cogs"></i>
-	</font> Preparazione
+  <font color="grey">
+    <i class="icon-cogs"></i>
+  </font> Preparazione
 </h3>
 
 Tagliate lo scalogno a striscioline fine e mettetelo in una padella con un po' di olio e fatelo rosolare. Nel frattempo staccate la parte dura e legnosa degli asparagi e tagliateli a rondelle piccoline, mettetendo da parte le punte. Poi tagliate a metà i pomodorini. Aggiungete gli asparagi allo scalogno (senza le punte) ed i pomodorini e fateli ammorbidire con l'aggiunta di un poco d'acqua. Quando gli asparagi si saranno ammorbiditi aggiungete le punte, il basilico e l'origano e aggiustate di sale. Fate cucinare ancora per qualche minuto e toglite dal fuoco. Mentre che preparate gli asparagi fate bollire le uova finché saranno sode, poi fatele raffreddare e tagliatele a pezzettini.
@@ -93,7 +93,7 @@ Infornate le lasagne coperte con un foglio di carta argentata per ca. 25min a 22
 {: .pull-right}
 
 <h4>Buon appetito
-	<font color="red">
-		<i class="icon-smile"></i>
-	</font>
+  <font color="red">
+    <i class="icon-smile"></i>
+  </font>
 </h4>

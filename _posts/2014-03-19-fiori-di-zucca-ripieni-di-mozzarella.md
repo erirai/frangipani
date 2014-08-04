@@ -16,40 +16,40 @@ L'anno scorso ho inizato a comprare i fiori di zucca, ma sinceramente non sapevo
 
 
 <div class="ingredients">
-	<div class="ingredients-title">Ingredienti</div>
-	<table>
-		<tbody>
-			<tr>
-				<td>fiori di zucca</td>
-			</tr>
-			<tr>
-				<td>mozzarella</td>
-			</tr>
-			<tr>
-				<td>sardine sott'olio</td>
-			</tr>
-			<tr>
-				<td>basilico</td>
-			</tr>
-			<tr>
-				<td>farina</td>
-			</tr>
-			<tr>
-				<td>acqua</td>
-			</tr>
-			<tr>
-				<td>sale</td>
-			</tr>
-		</tbody>
-	</table>
-	<br></br>
+  <div class="ingredients-title">Ingredienti</div>
+  <table>
+    <tbody>
+      <tr>
+        <td>fiori di zucca</td>
+      </tr>
+      <tr>
+        <td>mozzarella</td>
+      </tr>
+      <tr>
+        <td>sardine sott'olio</td>
+      </tr>
+      <tr>
+        <td>basilico</td>
+      </tr>
+      <tr>
+        <td>farina</td>
+      </tr>
+      <tr>
+        <td>acqua</td>
+      </tr>
+      <tr>
+        <td>sale</td>
+      </tr>
+    </tbody>
+  </table>
+  <br></br>
 </div>
 
 
 <h3>
-	<font color="grey">
-		<i class="icon-cogs"></i>
-	</font> Preparazione
+  <font color="grey">
+    <i class="icon-cogs"></i>
+  </font> Preparazione
 </h3>
 
 Togliete il pistillo e le foglioline appuntite di sotto, facendo attenzione di non rompere il fiore. Tagliate a pezzetti la mozzarella e le sardine e spezzate le foglie di basilico, se sono piccole lasciatele intere.
@@ -76,7 +76,7 @@ Serviteli ancora caldi!
 {: .pull-right}
 
 <h4>Buon appetito
-	<font color="red">
-		<i class="icon-smile"></i>
-	</font>
+  <font color="red">
+    <i class="icon-smile"></i>
+  </font>
 </h4>

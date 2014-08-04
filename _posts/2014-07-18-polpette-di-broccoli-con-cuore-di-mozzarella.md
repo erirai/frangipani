@@ -16,60 +16,60 @@ Ho trovato in Internet queste fantastiche polpette! Sulla foto sembravano buonis
 
 
 <div class="ingredients">
-	<div class="ingredients-title">Ingredienti</div>
-	<table>
-		<tbody>
-			<tr>
-				<td>1.5kg</td>
-				<td>broccoli</td>
-			</tr>
-			<tr>
-				<td>2 spicchi</td>
-				<td>aglio</td>
-			</tr>
-			<tr>
-				<td>qb</td>
-				<td>peperoncino</td>
-			</tr>
-			<tr>
-				<td>qb</td>
-				<td>olio evo</td>
-			</tr>
-			<tr>
-				<td>2</td>
-				<td>uova</td>
-			</tr>
-			<tr>
-				<td>8 cucchiai</td>
-				<td>pangrattato</td>
-			</tr>
-			<tr>
-				<td>5 cucchiai</td>
-				<td>parmigiano grattugiato</td>
-			</tr>
-			<tr>
-				<td>qb</td>
-				<td>sale</td>
-			</tr>
-			<tr>
-				<td>120gr</td>
-				<td>mozzarella</td>
-			</tr>
-			<tr>
-				<td>qb</td>
-				<td>farina di mais</td>
-			</tr>
-		</tbody>
-	</table>
-	<br></br>
-	<i class="pull-right" style="font-size: 80%;">per ca. 16 polpette</i>
+  <div class="ingredients-title">Ingredienti</div>
+  <table>
+    <tbody>
+      <tr>
+        <td>1.5kg</td>
+        <td>broccoli</td>
+      </tr>
+      <tr>
+        <td>2 spicchi</td>
+        <td>aglio</td>
+      </tr>
+      <tr>
+        <td>qb</td>
+        <td>peperoncino</td>
+      </tr>
+      <tr>
+        <td>qb</td>
+        <td>olio evo</td>
+      </tr>
+      <tr>
+        <td>2</td>
+        <td>uova</td>
+      </tr>
+      <tr>
+        <td>8 cucchiai</td>
+        <td>pangrattato</td>
+      </tr>
+      <tr>
+        <td>5 cucchiai</td>
+        <td>parmigiano grattugiato</td>
+      </tr>
+      <tr>
+        <td>qb</td>
+        <td>sale</td>
+      </tr>
+      <tr>
+        <td>120gr</td>
+        <td>mozzarella</td>
+      </tr>
+      <tr>
+        <td>qb</td>
+        <td>farina di mais</td>
+      </tr>
+    </tbody>
+  </table>
+  <br></br>
+  <i class="pull-right" style="font-size: 80%;">per ca. 16 polpette</i>
 </div>
 
 
 <h3>
-	<font color="grey">
-		<i class="icon-cogs"></i>
-	</font> Preparazione
+  <font color="grey">
+    <i class="icon-cogs"></i>
+  </font> Preparazione
 </h3>
 
 Iniziate lavando e tagliando i broccoli, poi fateli lessare in acqua salata finché si saranno ammorbiditi. Io uso anche il gambo, voi potete prendere anche solo le cime. Quando saranno cotti fateli scolare bene! Prendete una padella, mettete abbastanza olio, il peperoncino, l'aglio e fate soffriggere tutto. A questo punto aggiungete i broccoli e fateli saltare per qualche minuto. Se c'è bisogno di sale, mettetelo adesso. Trasferite tutto in una coppa capiente e frullate i broccoli finché saranno belli cremosi.
@@ -98,7 +98,7 @@ Infornate le polpette nel forno ventilato preriscaldato a 180°C per 20min.
 Queste polpette, come tutte le polpette si possono anche friggere, solo che secondo me sono troppo mollicce per friggerle e c'è il rischio che si rompino... Mi raccomando, i broccoli devono essere proprio asciutti, fate togliere tutta l'acqua! A me sembravano abbastanza asciutti, solo che sono uscite leggermente acquose, bo non lo so, forse dovevo mettere ancora più pangrattato... O forse invece di lessarli li potete cuocere a vapore (consiglio di mia mamma). Vedete voi!
 
 <h4>Buon appetito
-	<font color="red">
-		<i class="icon-smile"></i>
-	</font>
+  <font color="red">
+    <i class="icon-smile"></i>
+  </font>
 </h4>

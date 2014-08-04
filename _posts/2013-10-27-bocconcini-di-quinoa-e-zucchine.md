@@ -16,48 +16,48 @@ Volevo fare qualcosa con la quinoa e ho pasticciato un po' in cucina... Sono ver
 
 
 <div class="ingredients">
-	<div class="ingredients-title">Ingredienti</div>
-	<table>
-		<tbody>
-			<tr>
-				<td>150gr</td>
-				<td>quinoa</td>
-			</tr>
-			<tr>
-				<td>1</td>
-				<td>zucchina media</td>
-			</tr>
-			<tr>
-				<td>1</td>
-				<td>uovo</td>
-			</tr>
-			<tr>
-				<td>50gr</td>
-				<td>parmigiano grattugiato</td>
-			</tr>
-			<tr>
-				<td>qb</td>
-				<td>zenzero</td>
-			</tr>
-			<tr>
-				<td>qb</td>
-				<td>sale</td>
-			</tr>
-			<tr>
-				<td>qb</td>
-				<td>pepe</td>
-			</tr>
-		</tbody>
-	</table>
-	<br></br>
-	<i class="pull-right" style="font-size: 80%;">per ca. 30 bocconcini</i>
+  <div class="ingredients-title">Ingredienti</div>
+  <table>
+    <tbody>
+      <tr>
+        <td>150gr</td>
+        <td>quinoa</td>
+      </tr>
+      <tr>
+        <td>1</td>
+        <td>zucchina media</td>
+      </tr>
+      <tr>
+        <td>1</td>
+        <td>uovo</td>
+      </tr>
+      <tr>
+        <td>50gr</td>
+        <td>parmigiano grattugiato</td>
+      </tr>
+      <tr>
+        <td>qb</td>
+        <td>zenzero</td>
+      </tr>
+      <tr>
+        <td>qb</td>
+        <td>sale</td>
+      </tr>
+      <tr>
+        <td>qb</td>
+        <td>pepe</td>
+      </tr>
+    </tbody>
+  </table>
+  <br></br>
+  <i class="pull-right" style="font-size: 80%;">per ca. 30 bocconcini</i>
 </div>
 
 
 <h3>
-	<font color="grey">
-		<i class="icon-cogs"></i>
-	</font> Preparazione
+  <font color="grey">
+    <i class="icon-cogs"></i>
+  </font> Preparazione
 </h3>
 
 Sciacquate la quinoa sotto l'acqua fredda, dopo mettete la quinoa in una pentola con il doppio dell'acqua, aggiungete del sale e fatela cucinare come indicato sulla confezione (più o meno per 15min). Quando è pronta scolate l'acqua in eccesso e mettete da parte.
@@ -71,16 +71,16 @@ Infornate i bocconcini nel forno ventilato a 160°C per ca. 20min o statico a 18
 
 
 <h3>
-	<font color="#FFCC00">
-		<i class="icon-lightbulb"></i>
-	</font> P.S.
+  <font color="#FFCC00">
+    <i class="icon-lightbulb"></i>
+  </font> P.S.
 </h3>
 
 
 La quinoa si trova in ogni supermercato e si può fare anche in tanti altri modi... anche come il Cous Cous!
 
 <h4>Buon appetito
-	<font color="red">
-		<i class="icon-smile"></i>
-	</font>
+  <font color="red">
+    <i class="icon-smile"></i>
+  </font>
 </h4>

@@ -14,68 +14,68 @@ Mentre facevo la spesa ho visto questa cosa che si chiama Paneer, mi sono incuri
 
 
 <div class="ingredients">
-	<div class="ingredients-title">Ingredienti</div>
-	<table>
-		<tbody>
-			<tr>
-				<td>150gr</td>
-				<td>riso basmati</td>
-			</tr>
-			<tr>
-				<td>qb</td>
-				<td>acqua</td>
-			</tr>
-			<tr>
-				<td>1</td>
-				<td>carota</td>
-			</tr>
-			<tr>
-				<td>1</td>
-				<td>zucchina</td>
-			</tr>
-			<tr>
-				<td>1</td>
-				<td>peperone piccolo</td>
-			</tr>
-			<tr>
-				<td>1 manciata</td>
-				<td>taccole</td>
-			</tr>
-			<tr>
-				<td>1</td>
-				<td>scalogno</td>
-			</tr>
-			<tr>
-				<td>150gr</td>
-				<td>paneer</td>
-			</tr>
-			<tr>
-				<td>qb</td>
-				<td>olio di semi</td>
-			</tr>
-			<tr>
-				<td>1 cucchiaino colmo</td>
-				<td>pasta di curry rosso</td>
-			</tr>
-			<tr>
-				<td>250ml</td>
-				<td>latte di cocco</td>
-			</tr>
-			<tr>
-				<td>qb</td>
-				<td>sale</td>
-			</tr>
-		</tbody>
-	</table>
-	<br></br>
-	<i class="pull-right" style="font-size: 80%;">per 2 persone</i>
+  <div class="ingredients-title">Ingredienti</div>
+  <table>
+    <tbody>
+      <tr>
+        <td>150gr</td>
+        <td>riso basmati</td>
+      </tr>
+      <tr>
+        <td>qb</td>
+        <td>acqua</td>
+      </tr>
+      <tr>
+        <td>1</td>
+        <td>carota</td>
+      </tr>
+      <tr>
+        <td>1</td>
+        <td>zucchina</td>
+      </tr>
+      <tr>
+        <td>1</td>
+        <td>peperone piccolo</td>
+      </tr>
+      <tr>
+        <td>1 manciata</td>
+        <td>taccole</td>
+      </tr>
+      <tr>
+        <td>1</td>
+        <td>scalogno</td>
+      </tr>
+      <tr>
+        <td>150gr</td>
+        <td>paneer</td>
+      </tr>
+      <tr>
+        <td>qb</td>
+        <td>olio di semi</td>
+      </tr>
+      <tr>
+        <td>1 cucchiaino colmo</td>
+        <td>pasta di curry rosso</td>
+      </tr>
+      <tr>
+        <td>250ml</td>
+        <td>latte di cocco</td>
+      </tr>
+      <tr>
+        <td>qb</td>
+        <td>sale</td>
+      </tr>
+    </tbody>
+  </table>
+  <br></br>
+  <i class="pull-right" style="font-size: 80%;">per 2 persone</i>
 </div>
 
 
 <h3>
-	<font color="grey">
-		<i class="icon-cogs"></i>
-	</font> Preparazione
+  <font color="grey">
+    <i class="icon-cogs"></i>
+  </font> Preparazione
 </h3>
 
 Iniziate tagliando a pezzettini tutta la verdura.
@@ -103,7 +103,7 @@ Il paneer l'ho trovato in supermercato, ma sicuramente si trova anche nei negozi
 
 
 <h4>Buon appetito
-	<font color="red">
-		<i class="icon-smile"></i>
-	</font>
+  <font color="red">
+    <i class="icon-smile"></i>
+  </font>
 </h4>

@@ -14,72 +14,72 @@ Spesso andiamo a comprare la verdura nei negozi turchi, che hanno sempre roba fr
 
 
 <div class="ingredients">
-	<div class="ingredients-title">Ingredienti</div>
-	<table>
-		<tbody>
-			<tr>
-				<td>150gr</td>
-				<td>bulgur</td>
-			</tr>
-			<tr>
-				<td>375gr</td>
-				<td>acqua</td>
-			</tr>
-			<tr>
-				<td>1</td>
-				<td>carota</td>
-			</tr>
-			<tr>
-				<td>1</td>
-				<td>zucchina</td>
-			</tr>
-			<tr>
-				<td>1</td>
-				<td>peperone piccolo</td>
-			</tr>
-			<tr>
-				<td>200gr</td>
-				<td>piselli</td>
-			</tr>
-			<tr>
-				<td>1</td>
-				<td>cipolla</td>
-			</tr>
-			<tr>
-				<td>150gr</td>
-				<td>pannocchiette</td>
-			</tr>
-			<tr>
-				<td>qb</td>
-				<td>olio evo</td>
-			</tr>
-			<tr>
-				<td>qb</td>
-				<td>sale</td>
-			</tr>
-			<tr>
-				<td>qb</td>
-				<td>paprica in polvere</td>
-			</tr>
-			<tr>
-				<td>qb</td>
-				<td>curcuma in polvere</td>
-			</tr>
-			<tr>
-				<td>qb</td>
-				<td>germogli</td>
-			</tr>
-		</tbody>
-	</table>
-	<br></br>
-	<i class="pull-right" style="font-size: 80%;">per 2 persone</i>
+  <div class="ingredients-title">Ingredienti</div>
+  <table>
+    <tbody>
+      <tr>
+        <td>150gr</td>
+        <td>bulgur</td>
+      </tr>
+      <tr>
+        <td>375gr</td>
+        <td>acqua</td>
+      </tr>
+      <tr>
+        <td>1</td>
+        <td>carota</td>
+      </tr>
+      <tr>
+        <td>1</td>
+        <td>zucchina</td>
+      </tr>
+      <tr>
+        <td>1</td>
+        <td>peperone piccolo</td>
+      </tr>
+      <tr>
+        <td>200gr</td>
+        <td>piselli</td>
+      </tr>
+      <tr>
+        <td>1</td>
+        <td>cipolla</td>
+      </tr>
+      <tr>
+        <td>150gr</td>
+        <td>pannocchiette</td>
+      </tr>
+      <tr>
+        <td>qb</td>
+        <td>olio evo</td>
+      </tr>
+      <tr>
+        <td>qb</td>
+        <td>sale</td>
+      </tr>
+      <tr>
+        <td>qb</td>
+        <td>paprica in polvere</td>
+      </tr>
+      <tr>
+        <td>qb</td>
+        <td>curcuma in polvere</td>
+      </tr>
+      <tr>
+        <td>qb</td>
+        <td>germogli</td>
+      </tr>
+    </tbody>
+  </table>
+  <br></br>
+  <i class="pull-right" style="font-size: 80%;">per 2 persone</i>
 </div>
 
 
 <h3>
-	<font color="grey">
-		<i class="icon-cogs"></i>
-	</font> Preparazione
+  <font color="grey">
+    <i class="icon-cogs"></i>
+  </font> Preparazione
 </h3>
 
 Iniziate tagliando a pezzettini tutta la verdura.
@@ -109,7 +109,7 @@ I germogli, almeno qui in Svizzera, si trovano nei supermercati. Ancora meglio s
 
 
 <h4>Buon appetito
-	<font color="red">
-		<i class="icon-smile"></i>
-	</font>
+  <font color="red">
+    <i class="icon-smile"></i>
+  </font>
 </h4>

@@ -15,44 +15,44 @@ Per l'inizio dell'estate siamo andati a raccogliere le fragole e c'erano già an
 
 
 <div class="ingredients">
-	<div class="ingredients-title">Ingredienti</div>
-	<table>
-		<tbody>
-			<tr>
-				<td>500gr</td>
-				<td>fragole</td>
-			</tr>
-			<tr>
-				<td>500gr</td>
-				<td>lamponi</td>
-			</tr>
-			<tr>
-				<td>1 stecca</td>
-				<td>vaniglia</td>
-			</tr>
-			<tr>
-				<td>2</td>
-				<td>limoni solo il succo</td>
-			</tr>
-			<tr>
-				<td>700gr</td>
-				<td>zucchero di canna</td>	
-			</tr>
-			<tr>
-				<td>qb</td>
-				<td>gelificante</td>				
-			</tr>
-		</tbody>
-	</table>
-	<br></br>
-	<i class="pull-right" style="font-size: 80%;">per ca. 4 vasetti</i>
+  <div class="ingredients-title">Ingredienti</div>
+  <table>
+    <tbody>
+      <tr>
+        <td>500gr</td>
+        <td>fragole</td>
+      </tr>
+      <tr>
+        <td>500gr</td>
+        <td>lamponi</td>
+      </tr>
+      <tr>
+        <td>1 stecca</td>
+        <td>vaniglia</td>
+      </tr>
+      <tr>
+        <td>2</td>
+        <td>limoni solo il succo</td>
+      </tr>
+      <tr>
+        <td>700gr</td>
+        <td>zucchero di canna</td>  
+      </tr>
+      <tr>
+        <td>qb</td>
+        <td>gelificante</td>        
+      </tr>
+    </tbody>
+  </table>
+  <br></br>
+  <i class="pull-right" style="font-size: 80%;">per ca. 4 vasetti</i>
 </div>
 
 
 <h3>
-	<font color="grey">
-		<i class="icon-cogs"></i>
-	</font> Preparazione
+  <font color="grey">
+    <i class="icon-cogs"></i>
+  </font> Preparazione
 </h3>
 
 Ci tengo a precisare che il procedimento dipende sempre dal gelificante. Io vi mostro il procedimento come scritto sulla bustina del gelificante che uso io. Voi mi raccomando fatelo come scritto sulla busta che usate voi!
@@ -72,15 +72,15 @@ Appena si è raffreddata potete girare i vasetti... Vi assicuro che è fantastic
 {: .pull-right}
 
 <h3>
-	<font color="#FFCC00">
-		<i class="icon-lightbulb"></i>
-	</font> P.S.
+  <font color="#FFCC00">
+    <i class="icon-lightbulb"></i>
+  </font> P.S.
 </h3>
 
 Quando fate la marmellata preparate sempre solo un chilo di frutta alla volta, in modo che si gelifichi bene. Noi ne abbiamo fatti tre tipi: solo fragola, solo lamponi e poi questa che vi ho scritto fragola e lamponi.
 
 <h4>Buon appetito
-	<font color="red">
-		<i class="icon-smile"></i>
-	</font>
+  <font color="red">
+    <i class="icon-smile"></i>
+  </font>
 </h4>

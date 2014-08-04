@@ -18,48 +18,48 @@ Oggi ho fatto i primi biscotti di Natale :-) Secondo me sono i più facili da fa
 
 
 <div class="ingredients">
-	<div class="ingredients-title">Ingredienti</div>
-	<table>
-		<tbody>
-			<tr>
-				<td>1 limone</td>
-				<td>solo la scorza</td>
-			</tr>
-			<tr>
-				<td>250gr</td>
-				<td>burro</td>
-			</tr>
-			<tr>
-				<td>250gr</td>
-				<td>zucchero</td>
-			</tr>
-			<tr>
-				<td>3</td>
-				<td>uova</td>
-			</tr>
-			<tr>
-				<td>500gr</td>
-				<td>farina</td>				
-			</tr>
-			<tr>
-				<td>qb</td>
-				<td>acqua</td>				
-			</tr>
-			<tr>
-				<td>qb</td>
-				<td>sale</td>
-			</tr>
-		</tbody>
-	</table>
-	<br></br>
-	<i class="pull-right" style="font-size: 80%;">per 30-40 biscotti</i>
+  <div class="ingredients-title">Ingredienti</div>
+  <table>
+    <tbody>
+      <tr>
+        <td>1 limone</td>
+        <td>solo la scorza</td>
+      </tr>
+      <tr>
+        <td>250gr</td>
+        <td>burro</td>
+      </tr>
+      <tr>
+        <td>250gr</td>
+        <td>zucchero</td>
+      </tr>
+      <tr>
+        <td>3</td>
+        <td>uova</td>
+      </tr>
+      <tr>
+        <td>500gr</td>
+        <td>farina</td>       
+      </tr>
+      <tr>
+        <td>qb</td>
+        <td>acqua</td>        
+      </tr>
+      <tr>
+        <td>qb</td>
+        <td>sale</td>
+      </tr>
+    </tbody>
+  </table>
+  <br></br>
+  <i class="pull-right" style="font-size: 80%;">per 30-40 biscotti</i>
 </div>
 
 
 <h3>
-	<font color="grey">
-		<i class="icon-cogs"></i>
-	</font> Preparazione
+  <font color="grey">
+    <i class="icon-cogs"></i>
+  </font> Preparazione
 </h3>
 
 Mettete la scorza di limone, il burro, lo zucchero, 2 uova intere, un albume (non buttate via il tuorlo, vi servirà dopo) ed un pizzico di sale in una ciotola e mescolate il tutto con il mixer finché il composto sarà spumoso. Poi aggiungete la farina e impastate velocemente con le mani. L'impasto risulterà molto appiccicoso... Avvolgetelo con della pellicola trasparente e mettetelo in frigo per minimo due ore.
@@ -81,16 +81,16 @@ Infornate i Mailänderli nel forno preriscaldato a 180°C per ca 13min.
 
 
 <h3>
-	<font color="#FFCC00">
-		<i class="icon-lightbulb"></i>
-	</font> P.S.
+  <font color="#FFCC00">
+    <i class="icon-lightbulb"></i>
+  </font> P.S.
 </h3>
 
 
 Questa è la ricetta classica. Volendo potete aggiungere anche della scorza d'arancia o mettere una glassa di limone e zucchero a velo invece dell'uovo... Potete preparare l'impasto anche il giorno prima, anzi è anche meglio!
 
 <h4>Buon appetito
-	<font color="red">
-		<i class="icon-smile"></i>
-	</font>
+  <font color="red">
+    <i class="icon-smile"></i>
+  </font>
 </h4>

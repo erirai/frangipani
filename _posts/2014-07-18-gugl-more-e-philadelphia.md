@@ -14,60 +14,60 @@ Ma che sò sti Gugl?! Allora, non so se conoscete il Gugelhupf, quel dolce alto 
 
 
 <div class="ingredients">
-	<div class="ingredients-title">Ingredienti</div>
-	<table>
-		<tbody>
-			<tr>
-				<td>160gr</td>
-				<td>more</td>
-			</tr>
-			<tr>
-				<td>200gr</td>
-				<td>Philadelphia</td>
-			</tr>
-			<tr>
-				<td>60gr</td>
-				<td>panna acida</td>
-			</tr>
-			<tr>
-				<td>2</td>
-				<td>uova medie</td>
-			</tr>
-			<tr>
-				<td>60gr</td>
-				<td>zucchero a velo</td>
-			</tr>
-			<tr>
-				<td>4gr</td>
-				<td>lievito per dolci</td>
-			</tr>
-			<tr>
-				<td>12gr</td>
-				<td>fecola di patate</td>
-			</tr>
-			<tr>
-				<td>qb</td>
-				<td>vaniglia in polvere</td>
-			</tr>
-			<tr>
-				<td>130gr</td>
-				<td>farina</td>
-			</tr>
-			<tr>
-				<td>1 pizzico</td>
-				<td>sale</td>
-			</tr>
-		</tbody>
-	</table>
-	<br></br>
-	<i class="pull-right" style="font-size: 80%;">per ca. 50 Gugl</i>
+  <div class="ingredients-title">Ingredienti</div>
+  <table>
+    <tbody>
+      <tr>
+        <td>160gr</td>
+        <td>more</td>
+      </tr>
+      <tr>
+        <td>200gr</td>
+        <td>Philadelphia</td>
+      </tr>
+      <tr>
+        <td>60gr</td>
+        <td>panna acida</td>
+      </tr>
+      <tr>
+        <td>2</td>
+        <td>uova medie</td>
+      </tr>
+      <tr>
+        <td>60gr</td>
+        <td>zucchero a velo</td>
+      </tr>
+      <tr>
+        <td>4gr</td>
+        <td>lievito per dolci</td>
+      </tr>
+      <tr>
+        <td>12gr</td>
+        <td>fecola di patate</td>
+      </tr>
+      <tr>
+        <td>qb</td>
+        <td>vaniglia in polvere</td>
+      </tr>
+      <tr>
+        <td>130gr</td>
+        <td>farina</td>
+      </tr>
+      <tr>
+        <td>1 pizzico</td>
+        <td>sale</td>
+      </tr>
+    </tbody>
+  </table>
+  <br></br>
+  <i class="pull-right" style="font-size: 80%;">per ca. 50 Gugl</i>
 </div>
 
 
 <h3>
-	<font color="grey">
-		<i class="icon-cogs"></i>
-	</font> Preparazione
+  <font color="grey">
+    <i class="icon-cogs"></i>
+  </font> Preparazione
 </h3>
 
 Lavate le more e fatele cucinare a temperatura bassa con un goccio d'acqua. Quando si saranno ammorbidite, togliete dai fornelli e frullatele. Dovrete ottenere una purea.
@@ -98,7 +98,7 @@ Prima di servirli cospargeteli con una bella spolverata di zucchero a velo!
 Mia zia che sta in Italia mi dice sempre che non riece a trovare la panna acida. Se voi non la trovate, prendete la Crème fraîche che è la stessa cosa!
 
 <h4>Buon appetito
-	<font color="red">
-		<i class="icon-smile"></i>
-	</font>
+  <font color="red">
+    <i class="icon-smile"></i>
+  </font>
 </h4>

@@ -14,47 +14,47 @@ Qualche tempo fa ho visto una foto di una torta salata con le patata e sembrava 
 
 
 <div class="ingredients">
-	<div class="ingredients-title">Ingredienti</div>
-	<table>
-		<tbody>
-			<tr>
-				<td>1 rotolo</td>
-				<td>pasta sfoglia</td>
-			</tr>
-			<tr>
-				<td>1</td>
-				<td>cipolla grande</td>
-			</tr>
-			<tr>
-				<td>4</td>
-				<td>patate grandi</td>
-			</tr>
-			<tr>
-				<td>100gr</td>
-				<td>mozzarella affumicata</td>
-			</tr>
-			<tr>
-				<td>qb</td>
-				<td>prezzemolo</td>
-			</tr>
-			<tr>
-				<td>qb</td>
-				<td>olio di semi</td>
-			</tr>
-			<tr>
-				<td>qb</td>
-				<td>sale</td>
-			</tr>
-		</tbody>
-	</table>
-	<br></br>
+  <div class="ingredients-title">Ingredienti</div>
+  <table>
+    <tbody>
+      <tr>
+        <td>1 rotolo</td>
+        <td>pasta sfoglia</td>
+      </tr>
+      <tr>
+        <td>1</td>
+        <td>cipolla grande</td>
+      </tr>
+      <tr>
+        <td>4</td>
+        <td>patate grandi</td>
+      </tr>
+      <tr>
+        <td>100gr</td>
+        <td>mozzarella affumicata</td>
+      </tr>
+      <tr>
+        <td>qb</td>
+        <td>prezzemolo</td>
+      </tr>
+      <tr>
+        <td>qb</td>
+        <td>olio di semi</td>
+      </tr>
+      <tr>
+        <td>qb</td>
+        <td>sale</td>
+      </tr>
+    </tbody>
+  </table>
+  <br></br>
 </div>
 
 
 <h3>
-	<font color="grey">
-		<i class="icon-cogs"></i>
-	</font> Preparazione
+  <font color="grey">
+    <i class="icon-cogs"></i>
+  </font> Preparazione
 </h3>
 
 Premetto che io ho usato una teglia quadrata da 24cm, quindi ho preso un rettangolo di pasta sfoglia. Se voi volete usare la teglia rotonda, naturalmente prendete un rotolo di pasta sfoglia rotondo...
@@ -74,7 +74,7 @@ Poi infornate a 200°C (ventilato) per ca. 20min. Prima di tagliarla aspettate q
  
 
 <h4>Buon appetito
-	<font color="red">
-		<i class="icon-smile"></i>
-	</font>
+  <font color="red">
+    <i class="icon-smile"></i>
+  </font>
 </h4>

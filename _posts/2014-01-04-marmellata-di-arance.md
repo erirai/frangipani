@@ -15,44 +15,44 @@ Mio marito ed io oggi ci siamo messi a fare la marmellata d'arance. L'ho sempre 
 
 
 <div class="ingredients">
-	<div class="ingredients-title">Ingredienti</div>
-	<table>
-		<tbody>
-			<tr>
-				<td>1kg</td>
-				<td>arance già sbucciate</td>
-			</tr>
-			<tr>
-				<td>2 limoni</td>
-				<td>solo il succo</td>
-			</tr>
-			<tr>
-				<td>1 stecca</td>
-				<td>vaniglia</td>
-			</tr>
-			<tr>
-				<td>1 stecca</td>
-				<td>cannella</td>
-			</tr>
-			<tr>
-				<td>500gr</td>
-				<td>zucchero di canna</td>				
-			</tr>
-			<tr>
-				<td>qb</td>
-				<td>gelificante</td>				
-			</tr>
-		</tbody>
-	</table>
-	<br></br>
-	<i class="pull-right" style="font-size: 80%;">per ca. 4 vasetti</i>
+  <div class="ingredients-title">Ingredienti</div>
+  <table>
+    <tbody>
+      <tr>
+        <td>1kg</td>
+        <td>arance già sbucciate</td>
+      </tr>
+      <tr>
+        <td>2 limoni</td>
+        <td>solo il succo</td>
+      </tr>
+      <tr>
+        <td>1 stecca</td>
+        <td>vaniglia</td>
+      </tr>
+      <tr>
+        <td>1 stecca</td>
+        <td>cannella</td>
+      </tr>
+      <tr>
+        <td>500gr</td>
+        <td>zucchero di canna</td>        
+      </tr>
+      <tr>
+        <td>qb</td>
+        <td>gelificante</td>        
+      </tr>
+    </tbody>
+  </table>
+  <br></br>
+  <i class="pull-right" style="font-size: 80%;">per ca. 4 vasetti</i>
 </div>
 
 
 <h3>
-	<font color="grey">
-		<i class="icon-cogs"></i>
-	</font> Preparazione
+  <font color="grey">
+    <i class="icon-cogs"></i>
+  </font> Preparazione
 </h3>
 
 Ci tengo a precisare che il procedimento dipende sempre dal gelificante. Io vi mostro il procedimento come scritto sulla bustina del gelificante che uso io. Voi mi raccomando fatelo come scritto sulla busta che usate voi!
@@ -84,16 +84,16 @@ Fate raffreddare la marmellata e gustatela con del burro e una bella fetta di pa
 {: .pull-right}
 
 <h3>
-	<font color="#FFCC00">
-		<i class="icon-lightbulb"></i>
-	</font> P.S.
+  <font color="#FFCC00">
+    <i class="icon-lightbulb"></i>
+  </font> P.S.
 </h3>
 
 
 Se non vi piace la cannella potete farla solo con la vaniglia o addirittura sostituire la cannella con delle bacche di cacao. Basta farle tostare un po' (ca. 6 bacche di cacao), poi aggiungetele alle arance. Quando si saranno ammorbidite, togliete la pellicina e rimettete dentro le bacche. Vi consiglio di lasciarle dentro e frullare il tutto con il mixer ad immersione. Così sentirete di più il gusto del cacao.
 
 <h4>Buon appetito
-	<font color="red">
-		<i class="icon-smile"></i>
-	</font>
+  <font color="red">
+    <i class="icon-smile"></i>
+  </font>
 </h4>

@@ -13,51 +13,51 @@ share: true
 Durante la costruzione del tunnel del Gottardo i lavoratori italiani importarono la pasta in Svizzera. Gli svizzeri subito usarono la pasta mischiandola con i prodotti del posto, patate, formaggio, cipolle ecc. E questo è il risultato: Älplermagronen (Maccheroni degli Alpini). È una pietanza molto nutriente e facile da trasportare... Beh diciamo la verità è molto pesante ma buona! Non provate a farla in estate che è troppo pesante, infatti si trova solo in inverno...
 
 <div class="ingredients">
-	<div class="ingredients-title">Ingredienti</div>
-	<table>
-		<tbody>
-			<tr>
-				<td>600gr</td>
-				<td>patate a pasta dura</td>
-			</tr>
-			<tr>
-				<td>400gr</td>
-				<td>Penne o Maccheroni</td>
-			</tr>
-			<tr>
-				<td>250gr</td>
-				<td>formaggio di montagna grattugiato grossolanamente</td>
-			</tr>
-			<tr>
-				<td>1dl</td>
-				<td>panna</td>
-			</tr>
-			<tr>
-				<td>1</td>
-				<td>cipolla</td>
-			</tr>
-			<tr>
-				<td>qb</td>
-				<td>sale</td>
-			</tr>
-			<tr>
-				<td>qb</td>
-				<td>pepe</td>
-			</tr>
-			<tr>
-				<td>qb</td>
-				<td>noce moscata</td>
-			</tr>
-		</tbody>
-	</table>
-	<br></br>
+  <div class="ingredients-title">Ingredienti</div>
+  <table>
+    <tbody>
+      <tr>
+        <td>600gr</td>
+        <td>patate a pasta dura</td>
+      </tr>
+      <tr>
+        <td>400gr</td>
+        <td>Penne o Maccheroni</td>
+      </tr>
+      <tr>
+        <td>250gr</td>
+        <td>formaggio di montagna grattugiato grossolanamente</td>
+      </tr>
+      <tr>
+        <td>1dl</td>
+        <td>panna</td>
+      </tr>
+      <tr>
+        <td>1</td>
+        <td>cipolla</td>
+      </tr>
+      <tr>
+        <td>qb</td>
+        <td>sale</td>
+      </tr>
+      <tr>
+        <td>qb</td>
+        <td>pepe</td>
+      </tr>
+      <tr>
+        <td>qb</td>
+        <td>noce moscata</td>
+      </tr>
+    </tbody>
+  </table>
+  <br></br>
 </div>
 
 
 <h3>
-	<font color="grey">
-		<i class="icon-cogs"></i>
-	</font> Preparazione
+  <font color="grey">
+    <i class="icon-cogs"></i>
+  </font> Preparazione
 </h3>
 
 Le dosi di questa ricetta sono per 4 persone, mettete la quantità di pasta che normalmente fate.
@@ -77,7 +77,7 @@ Se preparate gli Älplermagronen subito prima di mangiarli, a questo punto basta
 Gli Älplermagronen qui in Svizzera vengono accompagnati da una composta di mele. Lo so gli svizzeri hanno dei gusti molto strani... Quando faccio questi pasticci con panna e formaggio, preferisco usare della pasta più piccola, tipo i Piccolini della Barilla.
 
 <h4>Buon appetito
-	<font color="red">
-		<i class="icon-smile"></i>
-	</font>
+  <font color="red">
+    <i class="icon-smile"></i>
+  </font>
 </h4>

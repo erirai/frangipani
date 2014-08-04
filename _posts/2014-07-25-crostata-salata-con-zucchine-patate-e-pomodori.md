@@ -14,47 +14,47 @@ Oggi ho preparato questa buonissima crostata salata che a vederla sembra diffici
 
 
 <div class="ingredients">
-	<div class="ingredients-title">Ingredienti</div>
-	<table>
-		<tbody>
-			<tr>
-				<td>1 rotolo</td>
-				<td>pasta sfoglia</td>
-			</tr>
-			<tr>
-				<td>1</td>
-				<td>porro</td>
-			</tr>
-			<tr>
-				<td>1</td>
-				<td>zucchina piccola</td>
-			</tr>
-			<tr>
-				<td>1</td>
-				<td>patata grande</td>
-			</tr>
-			<tr>
-				<td>2</td>
-				<td>pomodori San Marzano</td>
-			</tr>
-			<tr>
-				<td>qb</td>
-				<td>olio evo</td>
-			</tr>
-			<tr>
-				<td>1 pizzico</td>
-				<td>sale</td>
-			</tr>
-		</tbody>
-	</table>
-	<br></br>
+  <div class="ingredients-title">Ingredienti</div>
+  <table>
+    <tbody>
+      <tr>
+        <td>1 rotolo</td>
+        <td>pasta sfoglia</td>
+      </tr>
+      <tr>
+        <td>1</td>
+        <td>porro</td>
+      </tr>
+      <tr>
+        <td>1</td>
+        <td>zucchina piccola</td>
+      </tr>
+      <tr>
+        <td>1</td>
+        <td>patata grande</td>
+      </tr>
+      <tr>
+        <td>2</td>
+        <td>pomodori San Marzano</td>
+      </tr>
+      <tr>
+        <td>qb</td>
+        <td>olio evo</td>
+      </tr>
+      <tr>
+        <td>1 pizzico</td>
+        <td>sale</td>
+      </tr>
+    </tbody>
+  </table>
+  <br></br>
 </div>
 
 
 <h3>
-	<font color="grey">
-		<i class="icon-cogs"></i>
-	</font> Preparazione
+  <font color="grey">
+    <i class="icon-cogs"></i>
+  </font> Preparazione
 </h3>
 
 Tagliate a rondelle il porro e fatelo soffriggere con dell'olio finché si ammorbidisce. Se c'è bisogno aggiungete un po' d'acqua e salate, poi togliete dai fornelli e fate raffreddare.
@@ -72,7 +72,7 @@ Infornatela nel forno preriscaldato a 180°C (ventilato) per una mezz'oretta. Pr
 
 
 <h4>Buon appetito
-	<font color="red">
-		<i class="icon-smile"></i>
-	</font>
+  <font color="red">
+    <i class="icon-smile"></i>
+  </font>
 </h4>

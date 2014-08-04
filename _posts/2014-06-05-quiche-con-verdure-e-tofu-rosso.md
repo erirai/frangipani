@@ -14,79 +14,79 @@ Passato il matrimonio di mia sorella, mia figlia si è ammalata, poi ci siamo am
 
 
 <div class="ingredients">
-	<div class="ingredients-title">Ingredienti</div>
-	<table>
-		<tbody>
-			<tr>
-				<td>1 rotolo</td>
-				<td>pasta sfoglia vegan</td>
-			</tr>
-			<tr>
-				<td>250ml</td>
-				<td>panna d'avena o di soia</td>
-			</tr>
-			<tr>
-				<td>50gr</td>
-				<td>formaggio grattugiato tipo parmigiano</td>
-			</tr>
-			<tr>
-				<td>1 cucchiaio colmo</td>
-				<td>farina di soia</td>
-			</tr>
-			<tr>
-				<td>50ml</td>
-				<td>latte di riso o soia</td>	
-			</tr>
-			<tr>
-				<td>qb</td>
-				<td>paprica in polvere</td>
-			</tr>
-			<tr>
-				<td>qb</td>
-				<td>curcuma</td>			
-			</tr>
-			<tr>
-				<td>qualche fogliolina</td>
-				<td>erbe aromatiche</td>
-			</tr>
-			<tr>
-				<td>1</td>
-				<td>scalogno</td>
-			</tr>
-			<tr>
-				<td>1/2</td>
-				<td>melanzana</td>
-			</tr>
-			<tr>
-				<td>1/2</td>
-				<td>peperone</td>			
-			</tr>
-			<tr>
-				<td>ca. 10</td>
-				<td>asparagi</td>			
-			</tr>
-			<tr>
-				<td>100gr</td>
-				<td>Tofu rosso</td>			
-			</tr>
-			<tr>
-				<td>qb</td>
-				<td>sale</td>
-			</tr>
-			<tr>
-				<td>qb</td>
-				<td>olio d'oliva</td>
-			</tr>
-		</tbody>
-	</table>
-	<br></br>
+  <div class="ingredients-title">Ingredienti</div>
+  <table>
+    <tbody>
+      <tr>
+        <td>1 rotolo</td>
+        <td>pasta sfoglia vegan</td>
+      </tr>
+      <tr>
+        <td>250ml</td>
+        <td>panna d'avena o di soia</td>
+      </tr>
+      <tr>
+        <td>50gr</td>
+        <td>formaggio grattugiato tipo parmigiano</td>
+      </tr>
+      <tr>
+        <td>1 cucchiaio colmo</td>
+        <td>farina di soia</td>
+      </tr>
+      <tr>
+        <td>50ml</td>
+        <td>latte di riso o soia</td> 
+      </tr>
+      <tr>
+        <td>qb</td>
+        <td>paprica in polvere</td>
+      </tr>
+      <tr>
+        <td>qb</td>
+        <td>curcuma</td>      
+      </tr>
+      <tr>
+        <td>qualche fogliolina</td>
+        <td>erbe aromatiche</td>
+      </tr>
+      <tr>
+        <td>1</td>
+        <td>scalogno</td>
+      </tr>
+      <tr>
+        <td>1/2</td>
+        <td>melanzana</td>
+      </tr>
+      <tr>
+        <td>1/2</td>
+        <td>peperone</td>     
+      </tr>
+      <tr>
+        <td>ca. 10</td>
+        <td>asparagi</td>     
+      </tr>
+      <tr>
+        <td>100gr</td>
+        <td>Tofu rosso</td>     
+      </tr>
+      <tr>
+        <td>qb</td>
+        <td>sale</td>
+      </tr>
+      <tr>
+        <td>qb</td>
+        <td>olio d'oliva</td>
+      </tr>
+    </tbody>
+  </table>
+  <br></br>
 </div>
 
 
 <h3>
-	<font color="grey">
-		<i class="icon-cogs"></i>
-	</font> Preparazione
+  <font color="grey">
+    <i class="icon-cogs"></i>
+  </font> Preparazione
 </h3>
 
 Tagliate finemente lo scalogno e fatelo soffriggere in una padella con poco olio ed un pizzico di sale. Nel frattempo tagliate a cubetti il peperone, la melanzana e gli asparagi, mettendo da parte le punte degli asparagi.
@@ -107,16 +107,16 @@ Poi infornate a 190°C nel forno ventilato per ca. 30min. Prima di tagliare la Q
 
 
 <h3>
-	<font color="#FFCC00">
-		<i class="icon-lightbulb"></i>
-	</font> P.S.
+  <font color="#FFCC00">
+    <i class="icon-lightbulb"></i>
+  </font> P.S.
 </h3>
 
 
 Se non trovate il Tofu rosso naturalmente potete prendere quello al naturale o anche di altri aromi, tipo al curry o al basilico... Se non la volete fare vegana potete sostituire la farina di soia con un uovo e usare il parmigiano, la panna ed il latte normale.
 
 <h4>Buon appetito
-	<font color="red">
-		<i class="icon-smile"></i>
-	</font>
+  <font color="red">
+    <i class="icon-smile"></i>
+  </font>
 </h4>
