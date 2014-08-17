@@ -94,6 +94,7 @@ L'altro ieri i miei hanno festeggiato 28 anni di matrimonio e per l'occasione og
     </tbody>
   </table>
   <br></br>
+   <i class="pull-right" style="font-size: 80%;">per ca. 12 brioches</i>
 </div>
 
 
