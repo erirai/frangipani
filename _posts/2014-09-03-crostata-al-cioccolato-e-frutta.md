@@ -12,7 +12,7 @@ share: true
 
 > Auguri a noi per il nostro 3° Anniversario!
 
-Oggi festeggiamo il nostro 3° Anniversario... mio marto è da un po' di tempo che mi chiede una torta al cioccolato con crema al cioccolato e frutta. Quindi oggi gli ho preparato questa crostata!
+Oggi festeggiamo il nostro 3° Anniversario... mio marito è da un po' di tempo che mi chiede una torta al cioccolato con crema al cioccolato e frutta. Quindi oggi gli ho preparato questa crostata!
 
 
 <div class="ingredients">
