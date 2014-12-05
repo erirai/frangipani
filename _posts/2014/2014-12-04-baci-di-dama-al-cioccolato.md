@@ -72,7 +72,7 @@ E finiamo la sessione di biscotti di oggi con un classico: Baci di Dama! Sono tr
   </font> Preparazione
 </h3>
 
-Mettete tutti gli ingredienti asciutti in una ciotola e mescolate il tutto con le fruste a mano, poi aggiungete la margarina e impastate velocemente con le mani finché avrete un panetto omogeneo. Per facilitarvi il porzionamento vi consiglio di formare un salsicciotto, avvolgetelo con della pellicola trasparente e mettete in frigo per almeno un'ora (lo so l'aspetto non è il massimo). 
+Mettete tutti gli ingredienti asciutti in una ciotola e mescolate il tutto con la frusta a mano, poi aggiungete la margarina e impastate velocemente con le mani finché avrete un panetto omogeneo. Per facilitarvi il porzionamento vi consiglio di formare un salsicciotto, avvolgetelo con della pellicola trasparente e mettete in frigo per almeno un'ora (lo so l'aspetto non è il massimo). 
 ![frangipani © Erica]({{ site.baseurl }}/images/Baci di dama al cioccolato/bacidamacioccolato-impasto.jpg)
 {: .pull-right}
 Dopo un'ora uscite il salsicciotto dal frigo tagliate dei pezzetti da 8gr e formate delle palline. Lo so è un po' una scocciatura pesare tutte le palline ma solo in questo modo avrete dei Baci di Dama tutti uguali. Mettete le palline su di una teglia con sotto della carta forno.
