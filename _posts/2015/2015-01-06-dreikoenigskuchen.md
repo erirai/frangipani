@@ -5,7 +5,7 @@ description: "Chi sarà oggi il Re o la Regina?"
 modified: 2015-01-06
 tags: [pasta lievita, dreikönigskuchen, svizzera, epifania, vegan]
 image:
-  feature: Dreikönigskuchen/dreikoenigskuchen-header.jpg
+  feature: Dreikoenigskuchen/dreikoenigskuchen-header.jpg
 comments: true
 share: true
 ---
@@ -69,16 +69,16 @@ Rieccomi qua con il primo Post del 2015! Oggi in Italia si festeggia con la befa
 </h3>
 
 Mettete nella planetaria la farina, il sale, lo zucchero ed il lievito (se usate il lievito fresco fatelo sciogliere nel latte). Poi riscaldate leggermente il latte e quando lo togliete dai fornelli aggiungete la margarina, aspettate qualche minuto e poi fate partire la planetaria. Aggiungete il latte e la margarina alla farina e fate impastare finché il tutto si staccherà dalle pareti della ciotola. Poi passate l'impasto su di un piano di lavoro e lavorate l'impasto con le mani ancora per qualche minuto. Naturalmente potete impastare il tutto completamente a mano. A questo punto mettete l'impasto a lievitare per due orette. Quando avrà raddoppiato il suo volume riprendete l'impasto e aggiungete il cioccolato a pezzetti o l'uvetta e impastate di nuovo finché avrete incorporato tutto. Dividete l'impasto in 8 parti da 80gr formando delle palline e con il resto dell'impasto formate una palla e adagiatela al centro di una leccarda ricoperta con della carta forno. In una pallina nascondete una mandorla o la figura da Re Magio e chiudete bene in modo che non si veda dov'è. 
-![frangipani © Erica]({{ site.baseurl }}/images/Dreikönigskuchen/dreikoenigskuchen-remagio.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/Dreikoenigskuchen/dreikoenigskuchen-remagio.jpg)
 {: .pull-right}
 Prendete le 8 palline e adagiatele attorno alla pallina centrale. Io ho fatto meno impasto quindi il risultato non sarà esattamente come descritto, ma solo a corona. Ma alla fine potete mettere le palline come volete, potete fare anche più o meno palline.
-![frangipani © Erica]({{ site.baseurl }}/images/Dreikönigskuchen/dreikoenigskuchen-corona.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/Dreikoenigskuchen/dreikoenigskuchen-corona.jpg)
 {: .pull-right}
 A questo punto ricoprite prima con della pellicola trasparente e poi con una coperta e fate lievitare per altre due ore.
-![frangipani © Erica]({{ site.baseurl }}/images/Dreikönigskuchen/dreikoenigskuchen-infornare.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/Dreikoenigskuchen/dreikoenigskuchen-infornare.jpg)
 {: .pull-right}
 Poi infornate nel forno preriscaldato a 180°C statico per ca. 20-30min, dipende dalla grandezza. Appena sfornati ricopriteli con un panno in modo che si ammorbidisca la crosta. Poi, freddo o caldo, fate prendere ad ogni uno un panino e chi trova la mandorla o il Re Magio potrà mettersi la corona per tutto il giorno!
-![frangipani © Erica]({{ site.baseurl }}/images/Dreikönigskuchen/dreikoenigskuchen.jpg)
+![frangipani © Erica]({{ site.baseurl }}/images/Dreikoenigskuchen/dreikoenigskuchen.jpg)
 {: .pull-right}
 
 <h4>Buon appetito
