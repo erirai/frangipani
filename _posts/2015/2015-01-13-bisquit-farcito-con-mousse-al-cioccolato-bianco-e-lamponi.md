@@ -126,6 +126,8 @@ Adesso decorate a vostro piacimento la torta. Io ho ricoperto tutta la torta con
 ![frangipani © Erica]({{ site.baseurl }}/images/Bisquit farcito con mousse al cioccolato bianco e lamponi/bisquitfarcitomoussecioccolatobiancolamponi-decorato.jpg)
 {: .pull-right}
 Finendo il tutto con una bella scritta e dei fiorellini...
+![frangipani © Erica]({{ site.baseurl }}/images/Bisquit farcito con mousse al cioccolato bianco e lamponi/bisquitfarcitomoussecioccolatobiancolamponi2.jpg)
+{: .pull-right}
 ![frangipani © Erica]({{ site.baseurl }}/images/Bisquit farcito con mousse al cioccolato bianco e lamponi/bisquitfarcitomoussecioccolatobiancolamponi.jpg)
 {: .pull-right}
 
