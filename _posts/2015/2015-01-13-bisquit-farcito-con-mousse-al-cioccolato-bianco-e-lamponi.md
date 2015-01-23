@@ -54,10 +54,6 @@ Eh si, oggi mia mamma festeggia il suo primo mezzo secolo... Per non far fare al
         <td>400ml</td>
         <td>acqua liscia</td>
       </tr>
-      <tr>
-        <td>200ml</td>
-        <td>latte vegetale</td>
-      </tr>
       <tr style="height: 15px;"></tr>
       <tr>          
         <td colspan="2"><b>Farcia</b></td>
