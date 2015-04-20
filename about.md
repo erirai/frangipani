@@ -16,7 +16,6 @@ Secondo me è molto interessante sapere chi si nasconde dietro un blog... per qu
 * Finito il ginnasio, ne avevo abbastanza di studiare e sono andata a lavorare per un anno. Nel 2008 decisi di fare un diploma in economia.
 * Dopo aver ricevuto il dipoloma nel 2010 mi hanno dato l'opporutnità di poter lavorare come Workforce Management Specialist. Era un bel lavoro, molto complesso, interessantissimo! 
 * Nel 2010 mio marito mi chiese di sposarlo, naturalmente ho detto di si e nel 2011 ci siamo sposati! È stato un matrimonio meraviglioso, divertentissimo proprio come lo volevamo noi.
-* Esattamente al nostro primo anniversario di matrimonio abbiamo saputo di aspettare un bambino.
-* In primavera del 2013 è nata nostra figlia, una bellissima e dolcissima bimba.
-* Ora sono mamma e moglie a tempo pieno e posso godermi ogni attimo con nostra figlia. Ringrazio ogni giorno mio marito che ci permette di poterlo fare... 
+* In primavera del 2013 è nata nostra figlia e in primavera del 2015 nostro figlio.
+* Ora sono mamma e moglie a tempo pieno e posso godermi ogni attimo con i nostri due figli. Ringrazio ogni giorno mio marito che ci permette di poterlo fare... 
 * Finalmente ora ho più tempo per dedicarmi alla mia passione per la cucina, ma soprattutto per i dolci. Volevo condividere le mie ricette con altre persone, quindi mio marito esaudì il mio desiderio, mettendomi a disposizione questo blog!
