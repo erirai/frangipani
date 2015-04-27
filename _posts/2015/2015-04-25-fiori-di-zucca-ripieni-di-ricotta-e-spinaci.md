@@ -1,0 +1,80 @@
+---
+layout: post
+title: Fiori di Zucca ripieni di Ricotta e Spinaci
+description: "Anche se cotti al forno sono buonissimi..."
+modified: 2015-04-25
+tags: [fiori di zucca, ricotta, spinaci, aperitivo, vegetariano]
+image:
+  feature: Fiori di zucca ripieni di ricotta e spinaci/fioridizuccaricottaspinaci-header.jpg
+comments: true
+share: true
+---
+
+Mio Papà mi ha portato dei buonissimi fiori di zucca e a me piace farli ripieni e poi in pastella... Dato che sto allattando cerco di evitare il fritto, quindi questa volta li ho voluti fare al forno! Allora fritti sono moooooooooolto più buoni, ma così sono una buona alternativa.
+
+
+<div class="ingredients">
+  <div class="ingredients-title">Ingredienti</div>
+  <table>
+    <tbody>
+      <tr>
+        <td>fiori di zucca</td>
+      </tr>
+      <tr>
+        <td>ricotta</td>
+      </tr>
+      <tr>
+        <td>spinaci</td>
+      </tr>
+      <tr>
+        <td>parmigiano</td>
+      </tr>
+      <tr>
+        <td>noce moscata</td>
+      </tr>
+      <tr>
+        <td>farina</td>
+      </tr>
+      <tr>
+        <td>acqua</td>
+      </tr>
+      <tr>
+        <td>sale</td>
+      </tr>
+    </tbody>
+  </table>
+  <br></br>
+</div>
+
+
+<h3>
+  <font color="grey">
+    <i class="icon-cogs"></i>
+  </font> Preparazione
+</h3>
+
+Togliete il pistillo e le foglioline appuntite di sotto, facendo attenzione di non rompere il fiore. Mettete la ricotta a sgocciolare e cucinate gli spinaci. Io ho preso quelli congelati già tritati, quando erano cotti li ho messi a sgocciolare per togliere più acqua possibile. Se voi prendete quelli freschi, quando saranno cotti, strizzateli bene e tritateli. Poi mescolate la ricotta con gli spinaci, aggiungete un po' di parmigiano grattugiato, noce moscata e aggiustate di sale.
+![frangipani © Erica]({{ site.baseurl }}/images/Fiori di zucca ripieni di ricotta e spinaci/fioridizuccaricottaspinaci-ricottaspinaci.jpg)
+{: .pull-right}
+Mettete il composto di ricotta e spinaci in un sac à poche e iniziate a farcire i fiori di zucca facendo attenzione a non romperli.
+![frangipani © Erica]({{ site.baseurl }}/images/Fiori di zucca ripieni di ricotta e spinaci/fioridizuccaricottaspinaci-farcire.jpg)
+{: .pull-right}
+![frangipani © Erica]({{ site.baseurl }}/images/Fiori di zucca ripieni di ricotta e spinaci/fioridizuccaricottaspinaci-farciti1.jpg)
+{: .pull-right}
+![frangipani © Erica]({{ site.baseurl }}/images/Fiori di zucca ripieni di ricotta e spinaci/fioridizuccaricottaspinaci-farciti2.jpg)
+{: .pull-right}
+Ora preparate la pastella. Prendete una coppetta larga e mettete ca. 4 cucchiai di farina e aggiungete poca acqua alla volta, finché avrete una pastella bella densa. Non fatela troppo liquida, se no non rimane attaccata ai fiori di zucca.
+![frangipani © Erica]({{ site.baseurl }}/images/Fiori di zucca ripieni di ricotta e spinaci/fioridizuccaricottaspinaci-pastella.jpg)
+{: .pull-right}
+Immergete i fiori ripieni nella pastella, facendo attenzione che il fiore rimanga chiuso, in modo che non fuoriesca il ripieno e mettteli su di una leccarda rivestita con della carta forno. 
+![frangipani © Erica]({{ site.baseurl }}/images/Fiori di zucca ripieni di ricotta e spinaci/fioridizuccaricottaspinaci-teglia.jpg)
+{: .pull-right}
+Infornate i fiori di zucca a 200°C per ca. 20min o almeno finché si saranno dorati. Se c'è bisogno salate prima di servirli.
+![frangipani © Erica]({{ site.baseurl }}/images/Fiori di zucca ripieni di ricotta e spinaci/fioridizuccaricottaspinaci.jpg)
+{: .pull-right}
+
+<h4>Buon appetito
+  <font color="red">
+    <i class="icon-smile"></i>
+  </font>
+</h4>
