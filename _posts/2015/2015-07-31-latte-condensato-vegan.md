@@ -1,0 +1,58 @@
+---
+layout: post
+title: Latte Condensato Vegan
+description: "Un altro modo per zuccherare il gelato e non solo..."
+modified: 2015-07-31
+tags: [latte condensato, latte vegetale, panna vegetale, zucchero, vegan]
+image:
+  feature: Latte condensato vegan/lattecondensatovegan-header.jpg
+comments: true
+share: true
+---
+
+Per la torta gelato che preparerò domani ho bisogno del latte condensato vegan, dato che la torta sarà vegan. Non sono riuscita a trovarlo quindo l'ho fatto io... Lo potete preparare e poi lo mettete in una boccetta di vetro e lo lasciate in frigo, in questo modo terrà fino a due settimane.
+
+
+<div class="ingredients">
+  <div class="ingredients-title">Ingredienti</div>
+  <table>
+    <tbody>
+      <tr>
+        <td>200gr</td>
+        <td>zucchero</td>
+      </tr>
+      <tr>
+        <td>5 cucchiai</td>
+        <td>acqua</td>
+      </tr>
+      <tr>
+        <td>100ml</td>
+        <td>panna vegetale zuccherata</td>
+      </tr>
+    </tbody>
+  </table>
+  <br></br>
+</div>
+
+
+<h3>
+  <font color="grey">
+    <i class="icon-cogs"></i>
+  </font> Preparazione
+</h3>
+
+In un pentolino mettete lo zucchero e l'acqua, mescolate e mettete sui fornelli. A fiamma bassa fate sciogliere lo zucchero finché avrà un colore ambrato. A questo punto togliete dai fuochi e fate raffreddare per 2-3 minuti.
+![frangipani © Erica]({{ site.baseurl }}/images/Latte condensato vegan/lattecondensatovegan-zucchero.jpg)
+{: .pull-right}
+Adesso aggiungete la panna e amalgamate bene, poi mettete di nuovo sui fornelli e fate bollire il tutto per qualche minuto. Mettete il latte condensato vegan in una boccietta di vetro e fatelo raffreddare.
+![frangipani © Erica]({{ site.baseurl }}/images/Latte condensato vegan/lattecondensatovegan-barattolo.jpg)
+{: .pull-right}
+Quando sarà freddo, chiudete la boccietta e mettete in frigo fino al momento dell'uso.
+![frangipani © Erica]({{ site.baseurl }}/images/Latte condensato vegan/lattecondensatovegan.jpg)
+{: .pull-right}
+
+<h4>Buon appetito
+  <font color="red">
+    <i class="icon-smile"></i>
+  </font>
+</h4>
