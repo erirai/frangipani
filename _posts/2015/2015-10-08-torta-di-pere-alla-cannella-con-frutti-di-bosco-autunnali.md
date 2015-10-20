@@ -3,7 +3,7 @@ layout: post
 title: Torta di Pere alla Cannella con Frutti di Bosco Autunnali
 description: "Veloce, gustosissima e sana... che volete di più?!"
 modified: 2015-10-08
-tags: [dolce, torta, pere, frutti di bosco, iFood, vegan]
+tags: [dolce, torta, pere, frutti di bosco, autunno, iFood, vegan]
 image:
   feature: torta di pere alla cannella con frutti di bosco autunnali/tortaperecannellafdb-header.jpg
 comments: true
