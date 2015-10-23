@@ -3,7 +3,7 @@ layout: post
 title: Gnocchi di Zucca saltati in Burro e Salvia
 description: "Oggi Gnocchi, ma di Zucca!"
 modified: 2015-10-05
-tags: [gnocchi, zucca, primo, vegan]
+tags: [gnocchi, zucca, primo, halloween, vegan]
 image:
   feature: gnocchi di zucca saltati in burro e salvia/gnocchizuccaburrosalvia-header.jpg
 comments: true
