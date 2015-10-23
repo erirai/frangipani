@@ -5,7 +5,7 @@ description: "E chi ha detto che la zucca si mangia solo in versione salata?!"
 modified: 2015-10-23
 tags: [muffin, zucca, halloween, mascarpone, vegan]
 image:
-  feature: Muffin alla zucca e cioccolato con frosting al mascarpone/muffinzuccacioccolatomascarpone-header.jpg
+  feature: muffin alla zucca e cioccolato con frosting al mascarpone/muffinzuccacioccolatomascarpone-header.jpg
 comments: true
 share: true
 ---
