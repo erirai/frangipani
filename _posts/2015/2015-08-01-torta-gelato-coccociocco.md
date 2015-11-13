@@ -3,7 +3,7 @@ layout: post
 title: Torta Gelato CoccoCiocco
 description: "Un ottimo dolce veloce veloce per una serata calda..."
 modified: 2015-08-01
-tags: [torta gelato, torta, gelato, biscotti secchi, cacao, latte di cocco, panna vegetale, latte condensato, cocco, vegan]
+tags: [torta, gelato, cioccolato, cocco, vegan]
 image:
   feature: Torta gelato coccociocco/tortagelatococcociocco-header.jpg
 comments: true

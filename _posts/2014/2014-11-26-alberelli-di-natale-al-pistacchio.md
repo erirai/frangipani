@@ -3,7 +3,7 @@ layout: post
 title: Alberelli di Natale al Pistacchio
 description: "Dei carinissimi frollini al pistacchio a forma di alberello di natale!"
 modified: 2014-11-26
-tags: [pasta frolla montata, sparabiscotti, pistacchi, pistacchio, natale]
+tags: [biscotti, pasta frolla, pistacchi, natale]
 image:
   feature: Alberelli di natale al pistacchio/alberellinatalepistacchio-header.jpg
 comments: true

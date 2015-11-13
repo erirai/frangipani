@@ -3,7 +3,7 @@ layout: post
 title: Cupcakes di Halloween
 description: "Dolcetto o scherzetto???"
 modified: 2013-10-31
-tags: [Dolci, Halloween, Cupcakes]
+tags: [dolci, halloween, cupcakes]
 image:
   feature: halloween-header.jpg
   credit: David Wagner

@@ -3,7 +3,7 @@ layout: post
 title: Panini di farina di manioca
 description: "Svizziosissimi panini"
 modified: 2013-10-19
-tags: [manioca, aperitivo, spizzichini]
+tags: [manioca, aperitivo]
 image:
   feature: paninimanioca-header.jpg
   credit: David Monniaux

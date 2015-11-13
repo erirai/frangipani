@@ -3,7 +3,7 @@ layout: post
 title: Focaccia Pugliese
 description: "Semplicemente sofficissima!"
 modified: 2015-04-30
-tags: [focaccia, Puglia, patate, Bonci, La Prova del Cuoco, vegan]
+tags: [pasta lievita, patate, panificati, vegan]
 image:
   feature: Focaccia pugliese/focacciapugliese-header.jpg
 comments: true

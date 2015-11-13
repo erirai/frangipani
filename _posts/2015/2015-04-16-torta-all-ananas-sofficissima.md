@@ -3,7 +3,7 @@ layout: post
 title: Torta all'Ananas sofficissima
 description: "Una torta sofficissima perfetta per la primavera..."
 modified: 2015-04-16
-tags: [ananas, torta soffice]
+tags: [ananas, torta, dolci]
 image:
   feature: Torta all ananas sofficissima/tortaananassofficissima-header.jpg
 comments: true

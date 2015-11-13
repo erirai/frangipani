@@ -3,7 +3,7 @@ layout: post
 title: Panini al Latte con Semi di Zucca
 description: "Supersoffici!"
 modified: 2015-10-31
-tags: [panini al latte, burger buns, burger, semi di zucca, lievitati, vegan]
+tags: [panificati, burger, pasta lievita, vegan]
 image:
   feature: panini al latte con semi di zucca/paninilattezucca-header.jpg
 comments: true

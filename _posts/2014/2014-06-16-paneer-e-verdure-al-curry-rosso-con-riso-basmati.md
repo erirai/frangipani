@@ -3,7 +3,7 @@ layout: post
 title: Paneer e verdure al curry rosso con riso basmati
 description: "Portiamo un po' di India a tavola..."
 modified: 2014-06-16
-tags: [riso, basmati, paneer, tailandese, peperoni, carote, zucchine, taccole, curry, latte di cocco, asiatico]
+tags: [piatti unici, riso, paneer, vegan]
 image:
   feature: paneerverdurecurryrosso-header.jpg
 comments: true

@@ -3,7 +3,7 @@ layout: post
 title: Grittibänz
 description: "Pupazzetti di pasta ottimi da donare a San Nicolao..."
 modified: 2014-12-06
-tags: [pupazzetti di pasta, san nicolao, vegan, natale]
+tags: [panificati, pasta lievita, vegan, natale]
 image:
   feature: Grittibaenz/grittibaenz-header.jpg
 comments: true

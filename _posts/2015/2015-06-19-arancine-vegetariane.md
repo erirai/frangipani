@@ -3,7 +3,7 @@ layout: post
 title: Arancine vegetariane
 description: "Arancine o Arancini? È uguale, tanto sono buone!"
 modified: 2015-06-19
-tags: [arancine, arancini, sugo, piselli, mozzarella, melanzane, riso, zafferano, vegetariano]
+tags: [piatti unici, riso, aperitivo]
 image:
   feature: Arancine vegetariane/arancineveg-header.jpg
 comments: true

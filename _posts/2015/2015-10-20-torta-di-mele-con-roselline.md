@@ -3,7 +3,7 @@ layout: post
 title: Torta di Mele con Roselline
 description: "Una torta di mele con un tocco in più..."
 modified: 2015-10-20
-tags: [dolce, torta, mele, autunno, vegan]
+tags: [dolci, torta, mele, vegan]
 image:
   feature: torta di mele con roselline/tortameleroselline-header.jpg
 comments: true

@@ -3,7 +3,7 @@ layout: post
 title: Cucuzza e Tenerume in Umido
 description: "La semplicità della Sicilia in un piatto..."
 modified: 2015-09-14
-tags: [cucuzza, tenerume, zucchina siciliana, zucchina lunga, verdura, sicilia, vegan]
+tags: [piatti unici, zucchina siciliana, vegan]
 image:
   feature: Cucuzza e tenerume in umido/cucuzzatenerumeumido-header.jpg
 comments: true

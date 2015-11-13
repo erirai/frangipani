@@ -3,7 +3,7 @@ layout: post
 title: Parfait alle Mandorle (vegan)
 description: "Un tripudio di mandorle!"
 modified: 2014-08-22
-tags: [mandorle, parfait, gelato, vegan]
+tags: [dolci, mandorle, gelato, vegan]
 image:
   feature: Parfait alle mandorle/parfaitmandorle-header.jpg
 comments: true

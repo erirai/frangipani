@@ -3,7 +3,7 @@ layout: post
 title: Älplermagronen
 description: "Un pasticcio di pasta, patate e formaggio..."
 modified: 2014-01-29
-tags: [primo, pasta, patate, panna, formaggio]
+tags: [primi, pasta, patate]
 image:
   feature: aelplermagronen-header.jpg
 comments: true

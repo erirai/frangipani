@@ -3,7 +3,7 @@ layout: post
 title: Barchette di Melanzane
 description: "Una pasta al forno un po' diversa..."
 modified: 2014-06-24
-tags: [pasta, primo, pomodori, melanzane, mozzarella, parmigiano]
+tags: [pasta, primi, melanzane]
 image:
   feature: Barchette di Melanzane/barchettemelanzane-header.jpg
 comments: true

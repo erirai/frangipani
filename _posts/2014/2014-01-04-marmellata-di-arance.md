@@ -3,7 +3,7 @@ layout: post
 title: Marmellata d'arance, cannella e vaniglia
 description: "Marmellata con un tocco invernale..."
 modified: 2014-01-04
-tags: [marmellata, cannella, vaniglia, arance]
+tags: [conserve, marmellata, arance]
 image:
   feature: marmellataarance-header.jpg
 comments: true

@@ -3,7 +3,7 @@ layout: post
 title: Husarenkrapferl
 description: "Pasta frolla e marmellata, il matrimonio perfetto!"
 modified: 2014-12-09
-tags: [biscotti, frollini, pasta frolla, marmellata vegan, natale]
+tags: [biscotti, pasta frolla, vegan, natale]
 image:
   feature: Husarenkrapferl/husarenkrapferl-header.jpg
 comments: true

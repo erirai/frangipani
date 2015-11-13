@@ -3,7 +3,7 @@ layout: post
 title: Marmellata d'Uva Fragola
 description: "L'autunno in una boccetta..."
 modified: 2015-10-03
-tags: [marmellata, uva, uva fragola, colazione, vegan]
+tags: [marmellata, uva, conserve]
 image:
   feature: marmellata di uva fragola/marmellatauvafragola-header.jpg
 comments: true

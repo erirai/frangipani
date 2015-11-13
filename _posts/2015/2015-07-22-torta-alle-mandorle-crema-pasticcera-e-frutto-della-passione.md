@@ -3,7 +3,7 @@ layout: post
 title: Torta alle Mandorle, Crema Pasticcera e Frutto della Passione
 description: "Provare per credere!"
 modified: 2015-07-22
-tags: [torta, torta farcita, torta alle mandorle, mandorle, marzapane, crema pasticcera, frutto della passione, compleanno, vegan]
+tags: [torta, mandorle, crema pasticcera, dolci, vegan]
 image:
   feature: Torta alle mandorle con crema pasticcera e frutto della passione/tortamandorlecpfruttopassione-header.jpg
 comments: true

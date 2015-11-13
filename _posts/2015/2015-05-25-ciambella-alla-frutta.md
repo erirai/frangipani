@@ -3,7 +3,7 @@ layout: post
 title: Ciambella alla Frutta
 description: "Un impasto base arricchito con della buonissima frutta di stagione!"
 modified: 2015-05-25
-tags: [ciambella, frutta, fragole, ciliegie, pesche, vegan]
+tags: [torta, dolci, fragole, ciliegie, pesche, vegan]
 image:
   feature: Ciambella alla frutta/ciambellafrutta-header.jpg
 comments: true

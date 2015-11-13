@@ -3,7 +3,7 @@ layout: post
 title: Bouquet di Cupcakes al rabarbaro e cocco (vegan)
 description: "Un bouquet di rose da mangiare!"
 modified: 2014-05-02
-tags: [cupcakes, crema di burro, rabarbaro, cocco, matrimonio, muffin, vegan]
+tags: [dolci, cupcakes, rabarbaro, cocco, muffin, vegan]
 image:
   feature: bouquetcc-header.jpg
 comments: true

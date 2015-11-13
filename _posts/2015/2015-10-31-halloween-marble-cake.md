@@ -3,7 +3,7 @@ layout: post
 title: Halloween Marble Cake
 description: "Dolcetto o Scherzetto?"
 modified: 2015-10-30
-tags: [torta, Gugelhupf, cioccolato, halloween, vegan]
+tags: [dolci, torta, cioccolato, halloween, vegan]
 image:
   feature: halloween marble cake/halloweenmarblecake-header.jpg
 comments: true

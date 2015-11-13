@@ -3,7 +3,7 @@ layout: post
 title: Trofie al Pesto Verde
 description: "Un'alternativa al solito Pesto Genovese..."
 modified: 2015-01-10
-tags: [pesto, avocado, basilico, pomodori secchi, mandorle, primo, pasta, vegan]
+tags: [pesto, avocado, primi, pasta, vegan]
 image:
   feature: Trofie al pesto verde/trofiepestoverde-header.jpg
 comments: true

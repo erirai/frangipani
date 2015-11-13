@@ -3,7 +3,7 @@ layout: post
 title: Muffin Ananas & Cocco
 description: "Un dolcetto che ci ricorda un po' le vacanze..."
 modified: 2015-01-23
-tags: [muffin, ananas, cocco, zucchero di fiori di cocco, vegan]
+tags: [dolci, muffin, ananas, cocco, vegan]
 image:
   feature: Muffin ananas e cocco/muffinananascocco-header.jpg
 comments: true

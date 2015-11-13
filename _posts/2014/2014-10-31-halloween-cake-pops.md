@@ -3,7 +3,7 @@ layout: post
 title: Halloween Cake Pops
 description: "Dolcetto o scherzetto?"
 modified: 2014-10-31
-tags: [Cake Pops, cioccolato, cacao, Candy Melts, Halloween, vegan]
+tags: [dolci, cioccolato, halloween, cake pops, vegan]
 image:
   feature: Halloween Cake Pops/halloweencp-header.jpg
 comments: true

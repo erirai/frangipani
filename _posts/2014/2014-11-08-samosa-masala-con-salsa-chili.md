@@ -3,7 +3,7 @@ layout: post
 title: Samosa Masala con Salsa Chili (vegan)
 description: "Un po' di India sulla nostra tavola..."
 modified: 2014-11-08
-tags: [samosa, garam masala, patate, piselli, india, chili, salsa, piccante, vegan]
+tags: [aperitivo, patate, piselli, peperoncino, vegan]
 image:
   feature: Samosa masala con salsa chili/samosamasalasalsachili-header.jpg
 comments: true

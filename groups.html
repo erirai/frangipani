@@ -1,45 +1,38 @@
 ---
 layout: post-index
 permalink: /groups/
-title: categorie
+title: ricettario
 description: "L'archivio dei post ordinato per categoria."
 exclude_from_search: true
 ---
 
 <ul class="entry-meta inline-list">
-{% assign tags_list = site.tags %}
-  {% if tags_list.first[0] == null %}
-    {% for tag in tags_list %}
-      {% if tags_list contains "aperitivo" or tags_list contains "dolci" or tags_list contains "primo" or tags_list contains "vegan" %}
-    	  <li><a href="#{{ tag }}" class="tag">{{ tag }} <span>{{ site.tags[tag].size }}</span></a></li>
-      {% endif %}
-    {% endfor %}
-  {% else %}
-    {% for tag in tags_list %}
-      {% if tag contains "aperitivo" or tag contains "dolci" or tag contains "primo" or tag contains "vegan" %}
-        <li><a href="#{{ tag[0] }}" class="tag">{{ tag[0] }} <span>{{ tag[1].size }}</span></a></li>
-      {% endif %}
-    {% endfor %}
-  {% endif %}
-{% assign tags_list = nil %}
+{% for group in site.data.groups %}
+    <li><a href="#{{ group[0] }}" class="tag">{{ group[0] }}</a></li>
+{% endfor %}
 </ul>
 
-{% for tag in site.tags %}
-  {% if tag contains "aperitivo" or tag contains "dolci" or tag contains "primo" or tag contains "vegan" %}
-  	<article class="hentry" itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
-  	<h2 id="{{ tag[0] }}">{{ tag[0] }}</h2>
-  		<ul>
-  		{% assign pages_list = tag[1] %}
-  		{% for post in pages_list %}
-  			{% if post.title != null %}
-  			{% if group == null or group == post.group %}
-  				<li class="entry-title" itemprop="name"><a href="{{ site.baseurl }}{{ post.url }}" rel="bookmark" title="{{ post.title }}" itemprop="url">{{ post.title }}</a></li>
-  			{% endif %}
-  			{% endif %}
-  		{% endfor %}
-  		{% assign pages_list = nil %}
-  		{% assign group = nil %}
-  		</ul>
-  	</article><!-- /.hentry -->
-  {% endif %}
+{% for group in site.data.groups %}
+	<article class="hentry" itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
+  <h2 id="{{ group[0] }}">{{ group[0] }}</h2>
+		<ul>
+		{% assign tags_list = group[1] %}
+		{% for t in tags_list %}
+      {% for tag in site.tags %}
+        {% if tag[0] == t %}
+        {% assign pages_list = tag[1] %}
+    		{% for post in pages_list %}
+    			{% if post.title != null %}
+    				<li class="entry-title" itemprop="name"><a href="{{ site.baseurl }}{{ post.url }}" rel="bookmark" title="{{ post.title }}" itemprop="url">{{ post.title }}</a></li>
+    			{% endif %}
+    		{% endfor %}
+    		{% assign pages_list = nil %}
+        {% endif %}
+      {% endfor %}
+      {% assign t = nil %}
+    {% endfor %}
+		{% assign tags_list = nil %}
+		{% assign group = nil %}
+		</ul>
+	</article><!-- /.hentry -->
 {% endfor %}

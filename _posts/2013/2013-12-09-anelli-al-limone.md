@@ -3,7 +3,7 @@ layout: post
 title: Anelli al limone
 description: "Biscotti di natale con un fresco gusto di limone"
 modified: 2013-12-09
-tags: [limone, biscotti, natale, dolci]
+tags: [limone, biscotti, natale]
 image:
   feature: anellilimone-header.jpg
 comments: true

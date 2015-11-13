@@ -3,7 +3,7 @@ layout: post
 title: Cupcakes con acqua di rose e cioccolato bianco (vegan)
 description: "Dei Cupcakes con un tocco orientale..."
 modified: 2014-08-16
-tags: [Cupcakes, muffins, acqua di rose, cioccolato bianco, vegan]
+tags: [dolci, cupcakes, muffin, acqua di rose, cioccolato bianco, vegan]
 image:
   feature: Cupcakes con acqua di rose e cioccolato bianco/ccacquarosecioccolatobianco-header.jpg
 comments: true

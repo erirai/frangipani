@@ -3,7 +3,7 @@ layout: post
 title: Torta di Zucchine
 description: "Un modo per far mangiare le zucchine a tutti!"
 modified: 2014-01-28
-tags: [dolci, dolce, torta, zucchine]
+tags: [dolci, torta, zucchine]
 image:
   feature: tortazucchine-header.jpg
 comments: true

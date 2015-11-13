@@ -3,7 +3,7 @@ layout: post
 title: Zucca Burger con Cipolle in Agrodolce e Puré di Patate Viola
 description: "Perché non usare la zucca anche per un Burger?"
 modified: 2015-10-31
-tags: [burger, veggie burger, vegan burger, zucca, puré di patate, patate viola, vegan]
+tags: [piatti unici, burger, zucca, patate, vegan]
 image:
   feature: zucca burger con cipolle in agrodolce e pure di patate viola/zuccaburgerpure-header.jpg
 comments: true

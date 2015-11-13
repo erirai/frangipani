@@ -3,7 +3,7 @@ layout: post
 title: Cupcakes al Limone con frosting cremoso
 description: "Leggeri, freschi e cremosi!"
 modified: 2015-04-17
-tags: [muffin, limone, cupcake, philadelphia, crema al burro, frosting al formaggio, vegan]
+tags: [muffin, limone, cupcakes, philadelphia, dolci, vegan]
 image:
   feature: Cupcakes al limone con frosting cremoso/cclimonefrostingcremoso-header.jpg
 comments: true

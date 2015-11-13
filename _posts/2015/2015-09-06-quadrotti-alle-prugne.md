@@ -3,7 +3,7 @@ layout: post
 title: Quadrotti alle Prugne
 description: "Croccante, morbido e succoso!"
 modified: 2015-09-06
-tags: [torta, quadrotti, prugne, granella croccante, crumble, autunno]
+tags: [torta, prugne, dolci]
 image:
   feature: Quadrotti alle prugne/quadrottiprugne-header.jpg
 comments: true

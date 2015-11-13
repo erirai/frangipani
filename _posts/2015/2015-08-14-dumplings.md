@@ -3,7 +3,7 @@ layout: post
 title: Dumplings
 description: "Un morbido dolcetto con un cuore fruttoso!"
 modified: 2015-08-14
-tags: [prugne, susine, sciroppo d'acero, patate, dolce, vegan]
+tags: [prugne, patate, dolci, vegan]
 image:
   feature: Dumplings/dumplings-header.jpg
 comments: true

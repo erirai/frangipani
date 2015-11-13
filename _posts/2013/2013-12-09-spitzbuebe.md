@@ -3,7 +3,7 @@ layout: post
 title: Spitzbuebe
 description: "Mmmmmmmm questi biscotti sono la fine del mondo!"
 modified: 2013-12-09
-tags: [pasta frolla, biscotti, natale, dolci]
+tags: [pasta frolla, biscotti, natale]
 image:
   feature: spitzbuebe-header.jpg
 comments: true

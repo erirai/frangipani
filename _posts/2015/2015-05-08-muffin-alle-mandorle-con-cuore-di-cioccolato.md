@@ -3,7 +3,7 @@ layout: post
 title: Muffin alle Mandorle con Cuore di Cioccolato
 description: "Un'esplosione di aromi e all'interno un cuore di cioccolato..."
 modified: 2015-05-08
-tags: [muffin, cioccolato, mandorle, lindor, lindt, vegan]
+tags: [muffin, cioccolato, mandorle, dolci, vegan]
 image:
   feature: Muffin alle mandorle con cuore di cioccolato/muffinmandorlecuorecioccolato-header.jpg
 comments: true

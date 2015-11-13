@@ -3,7 +3,7 @@ layout: post
 title: Lasagne bianche con asparagi
 description: "Un'alternativa alle solite lasagne con il ragù..."
 modified: 2014-02-18
-tags: [primo, lasagne, asparagi, besciamella]
+tags: [primi, lasagne, asparagi]
 image:
   feature: lasagnebiancheasparagi-header.jpg
 comments: true

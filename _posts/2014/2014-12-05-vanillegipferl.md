@@ -3,7 +3,7 @@ layout: post
 title: Vanillegipferl
 description: "Dei piccoli cornettini con un fantastico gusto alla vaniglia..."
 modified: 2014-12-05
-tags: [biscotti, noccioline, vaniglia, cornetti alla vaniglia, vegan, natale]
+tags: [biscotti, nocciole, vaniglia, vegan, natale]
 image:
   feature: Vanillegipferl/vanillegipferl-header.jpg
 comments: true

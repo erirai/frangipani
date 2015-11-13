@@ -3,7 +3,7 @@ layout: post
 title: Crumble di Prugne
 description: "Si fa in 5 minuti ed è buonissimo!"
 modified: 2014-08-24
-tags: [crumble, prugne, pasta frolla, cannella, marsala, dolce al cucchiaio, vegan]
+tags: [dolci, crumble, prugne, vegan]
 image:
   feature: Crumble di prugne/crumbleprugne-header.jpg
 comments: true

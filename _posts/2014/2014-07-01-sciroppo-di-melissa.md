@@ -3,7 +3,7 @@ layout: post
 title: Sciroppo di Melissa
 description: "Uno sciroppo con un leggero gusto di limone"
 modified: 2014-07-01
-tags: [sciroppo, limone, melissa]
+tags: [conserve, sciroppo, melissa]
 image:
   feature: Sciroppo di Melissa/sciroppomelissa-header.jpg
 comments: true

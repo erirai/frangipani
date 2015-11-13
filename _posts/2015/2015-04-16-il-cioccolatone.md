@@ -3,7 +3,7 @@ layout: post
 title: Il Cioccolatone
 description: "Il nome della torta dice TUTTO!"
 modified: 2015-04-16
-tags: [torta al cioccolato, plumcake, cioccolato]
+tags: [torta, dolci, cioccolato]
 image:
   feature: Il cioccolatone/ilcioccolatone-header.jpg
 comments: true

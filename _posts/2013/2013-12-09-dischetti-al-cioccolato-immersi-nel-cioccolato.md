@@ -3,7 +3,7 @@ layout: post
 title: Dischetti al cioccolato immersi nel cioccolato
 description: "Per chi ama il cioccolato"
 modified: 2013-12-09
-tags: [cioccolato, biscotti, natale, dolci]
+tags: [cioccolato, biscotti, natale]
 image:
   feature: dischetticioccolato-header.jpg
 comments: true

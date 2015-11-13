@@ -3,7 +3,7 @@ layout: post
 title: Cupcakes al cioccolato e vaniglia (vegan)
 description: "Un classico che piace a tutti!"
 modified: 2014-06-21
-tags: [cupcakes, crema di burro, cioccolato, vaniglia, matrimonio, muffin, vegan]
+tags: [dolci, cupcakes, cioccolato, vaniglia, muffin, vegan]
 image:
   feature: cccioccolatovaniglia-header.jpg
 comments: true

@@ -3,7 +3,7 @@ layout: post
 title: Panettone vegan
 description: "Un classico che non passa mai di moda!"
 modified: 2014-12-24
-tags: [panettone, cioccolato, canditi, natale, vegan]
+tags: [dolci, panettone, cioccolato, natale, vegan]
 image:
   feature: Panettone vegan/panettonevegan-header.jpg
 comments: true

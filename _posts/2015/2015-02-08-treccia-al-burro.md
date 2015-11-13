@@ -3,7 +3,7 @@ layout: post
 title: Treccia al Burro
 description: "Per una colazione da leccarsi i baffi!"
 modified: 2015-02-08
-tags: [treccia, pane, burro, margarina, pasta lievita, colazione, vegan]
+tags: [pasta lievita, colazione, vegan]
 image:
   feature: Treccia al burro/trecciaburro-header.jpg
 comments: true

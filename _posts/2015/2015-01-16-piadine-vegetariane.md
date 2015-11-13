@@ -3,7 +3,7 @@ layout: post
 title: Piadine Vegetariane
 description: "Un classico della Cucina Italiana ma in versione vegetariana..."
 modified: 2015-01-16
-tags: [piadine, stracchino, zucchine, melanzane, formaggio, pomodori secchi, vegetariano, vegan]
+tags: [panificati, piadine, vegan]
 image:
   feature: Piadine vegetariane/piadineveg-header.jpg
 comments: true

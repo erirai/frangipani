@@ -3,7 +3,7 @@ layout: post
 title: Marmellata di Gocce d'Oro
 description: "Una marmellata dal nome bellissimo..."
 modified: 2014-08-04
-tags: [marmellata, gocce d'oro, prugne, vaniglia, cannella]
+tags: [marmellata, prugne, conserve]
 image:
   feature: Marmellata di gocce d'oro/marmellatagocceoro-header.jpg
 comments: true

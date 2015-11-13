@@ -3,7 +3,7 @@ layout: post
 title: Torta morbida alla Nutella
 description: "Una di quelle fantastiche torte morbidissime e gustosissime!"
 modified: 2014-08-18
-tags: [torta, nutella, morbida, philadelphia]
+tags: [dolci, torta, nutella, philadelphia]
 image:
   feature: Torta morbida alla Nutella/tortamorbidanutella-header.jpg
 comments: true

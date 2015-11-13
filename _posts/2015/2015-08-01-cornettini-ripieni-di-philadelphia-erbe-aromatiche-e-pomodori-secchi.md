@@ -3,7 +3,7 @@ layout: post
 title: Cornettini ripieni di Philadelphia, Erbe Aromatiche e Pomodori Secchi
 description: "Un aperitivo pronto in un attimo e supergustoso!"
 modified: 2015-08-01
-tags: [cornettini, pasta sfoglia, Philadelphia, erbe aromatische, pomodori secchi, aperitivo, vegetariano]
+tags: [pasta sfoglia, philadelphia, erbe aromatiche, pomodori secchi, aperitivo]
 image:
   feature: Cornettini ripieni di philadelphia erbe aromatiche e pomodori secchi/cornettiniphiladelphiaerbepomodorisecchi-header.jpg
 comments: true

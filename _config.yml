@@ -11,22 +11,22 @@ owner:
   bio:            "Giovane moglie, mamma e casalinga con una passione speciale per la cucina senza carne."
   email:          #you@email.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        
-  facebook:       
+  twitter:
+  facebook:
   github:         erirai
-  stackexchange:  
-  linkedin:       
+  stackexchange:
+  linkedin:
   instagram:      erica_raiano
-  flickr:         
-  tumblr:         
+  flickr:
+  tumblr:
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:   
+  google_plus:
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:   UA-42950201-2
-google_verify:      
+google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:         
+bing_verify:
 
 # Links to include in top navigation
 # For external links add external: true

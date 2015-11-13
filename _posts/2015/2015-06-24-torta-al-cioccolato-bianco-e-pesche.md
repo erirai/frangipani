@@ -3,7 +3,7 @@ layout: post
 title: Torta al Cioccolato Bianco e Pesche
 description: "Un modo per usare le pesche sciroppate..."
 modified: 2015-06-24
-tags: [torta, dolce, cioccolato bianco, pesche]
+tags: [torta, dolci, cioccolato bianco, pesche]
 image:
   feature: Torta al cioccolato bianco e pesche/tortacioccolatobiancopesche-header.jpg
 comments: true

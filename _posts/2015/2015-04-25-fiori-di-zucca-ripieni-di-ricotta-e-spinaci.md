@@ -3,7 +3,7 @@ layout: post
 title: Fiori di Zucca ripieni di Ricotta e Spinaci
 description: "Anche se cotti al forno sono buonissimi..."
 modified: 2015-04-25
-tags: [fiori di zucca, ricotta, spinaci, aperitivo, vegetariano]
+tags: [fiori di zucca, ricotta, spinaci, aperitivo]
 image:
   feature: Fiori di zucca ripieni di ricotta e spinaci/fioridizuccaricottaspinaci-header.jpg
 comments: true

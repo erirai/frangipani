@@ -3,7 +3,7 @@ layout: post
 title: Gnocchetti Sardi con Ricotta, Spinaci e Zucchine
 description: "Un piatto perfetto per la Primavera..."
 modified: 2015-04-25
-tags: [zucchine, ricotta, spinaci, pasta, gnocchetti sardi, vegetariano]
+tags: [zucchine, ricotta, spinaci, pasta, primi]
 image:
   feature: Gnocchetti sardi con ricotta spinaci e zucchine/gnocchettisardiricottaspinacizucchine-header.jpg
 comments: true

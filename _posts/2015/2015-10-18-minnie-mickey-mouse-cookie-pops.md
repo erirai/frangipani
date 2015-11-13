@@ -3,7 +3,7 @@ layout: post
 title: Minnie & Mickey Mouse Cookie Pops
 description: "Una simpatica merenda per i bimbi... e non solo!"
 modified: 2015-10-18
-tags: [cookie pops, biscotti, dolci, dolci per bimbi, vegan]
+tags: [biscotti, vegan]
 image:
   feature: minnie mickey mouse cookie pops/mmmousecookiepops-header.jpg
 comments: true

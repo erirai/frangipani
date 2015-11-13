@@ -3,7 +3,7 @@ layout: post
 title: Zucchine ripiene di Farro e Taleggio
 description: "Un piatto completo sanissimo e gustosissimo!"
 modified: 2015-02-23
-tags: [zucchine rotonde, zucchine, farro, taleggio, vegetariano]
+tags: [piatti unici, zucchine, farro]
 image:
   feature: Zucchine ripiene di farro e taleggio/zucchinefarrotaleggio-header.jpg
 comments: true

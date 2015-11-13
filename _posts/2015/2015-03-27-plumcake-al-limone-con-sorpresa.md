@@ -3,7 +3,7 @@ layout: post
 title: Plumcake al Limone con Sorpresa
 description: "Un dolce velocissimo, per ogni occasione e con una bella sorpresa!"
 modified: 2015-03-27
-tags: [Plumcake, Plumcake con sorpresa, limone, lamponi, pasqua, primavera, vegan]
+tags: [dolci, torta, limone, lamponi, pasqua, vegan]
 image:
   feature: Plumcake al limone con sorpresa/plumcakelimonesorpresa-header.jpg
 comments: true

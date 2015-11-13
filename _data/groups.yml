@@ -1,0 +1,42 @@
+Colazione:
+  - colazione 
+Aperitivi:
+  - aperitivo
+Antipasti:
+  - antipasti
+Primi Piatti:
+  - primi
+Piatti Unici:
+  - piatto unico 
+Panificati:
+  - panificati
+"Torte salate, Muffin salati...":
+  - torta salata
+  - muffin salati
+Biscotti:
+  - biscotti
+Torte:
+  - torta
+"Crostate, Tartes...":
+  - crostata  
+  - tarte 
+  - crumble
+"Muffin, Cupcakes, Cake Pops...":
+  - muffin 
+  - cupcakes 
+  - cake pops
+  - whoopies 
+"Dolci al cucchiaio, gelati...":
+  - dolce al cucchiaio
+  - gelato
+  - sorbetto
+"Piccola Pasticceria":
+  - macarons
+  - cioccolatini
+  - torrone 
+Conserve:
+  - conserve
+Vegan:
+  - vegan
+"Attuale: Natale"
+  - natale 

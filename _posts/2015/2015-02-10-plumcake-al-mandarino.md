@@ -3,7 +3,7 @@ layout: post
 title: Plumcake al Mandarino
 description: "Un Plumcake con un fantastico aroma al mandarino..."
 modified: 2015-02-10
-tags: [dolci, plumcake, mandarino]
+tags: [dolci, torta, mandarino]
 image:
   feature: Plumcake al mandarino/plumcakemandarino-header.jpg
 comments: true

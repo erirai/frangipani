@@ -3,7 +3,7 @@ layout: post
 title: Insalata di Asparagi e Fragole
 description: "Un antipastino perfetto per la Primavera e un po' diverso dal solito..."
 modified: 2015-04-05
-tags: [insalata, antipasto, asparagi, fragole, olio di pistacchi, vegan]
+tags: [antipasti, asparagi, fragole, vegan]
 image:
   feature: Insalata di asparagi e fragole/insalataasparagifragole-header.jpg
 comments: true

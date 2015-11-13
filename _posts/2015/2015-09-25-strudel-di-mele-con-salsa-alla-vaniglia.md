@@ -3,7 +3,7 @@ layout: post
 title: Strudel di Mele con Salsa alla Vaniglia
 description: "Un Classico per iniziare l'autunno..."
 modified: 2015-09-25
-tags: [strudel, mele, autunno, dolce, salsa alla vaniglia, vaniglia, vegan]
+tags: [strudel, mele, dolci, vaniglia, vegan]
 image:
   feature: Strudel di mele con salsa alla vaniglia/strudelmelesalsavaniglia-header.jpg
 comments: true

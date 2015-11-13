@@ -3,7 +3,7 @@ layout: post
 title: Crumble di Arance e Lamponi
 description: "Caldo, buonissimo e si fa in 5 minuti..."
 modified: 2015-02-21
-tags: [crumble, arance, pasta frolla, lamponi, mandorle, dolce al cucchiaio, vegan]
+tags: [dolci, crumble, arance, lamponi, vegan]
 image:
   feature: Crumble di arance e lamponi/crumblearancelamponi-header.jpg
 comments: true

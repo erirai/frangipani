@@ -3,7 +3,7 @@ layout: post
 title: Mailänderli
 description: "Biscotti di Natale semplicissimi, con un tocco di limone"
 modified: 2013-12-05
-tags: [natale, dolci, biscotti]
+tags: [natale, biscotti]
 image:
   feature: mailanderli-header.jpg
 comments: true

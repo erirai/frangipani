@@ -3,7 +3,7 @@ layout: post
 title: Torta Baffo (vegan)
 description: "Una torta tutta da leccarsi i baffi..."
 modified: 2014-11-13
-tags: [Torta al cioccolato, cioccolato, baffi, mustache, compleanno, vegan]
+tags: [dolci, cioccolato, vegan]
 image:
   feature: Torta Baffo/tortabaffo-header.jpg
 comments: true

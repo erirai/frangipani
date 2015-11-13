@@ -3,7 +3,7 @@ layout: post
 title: Chiacchiere
 description: "Delle buonissime frittelline da fare per carnevale"
 modified: 2014-02-28
-tags: [dolci, frittelline, carnevale]
+tags: [dolci, carnevale]
 image:
   feature: chiacchiere-header.jpg
 comments: true

@@ -3,7 +3,7 @@ layout: post
 title: Latte Condensato Vegan
 description: "Un altro modo per zuccherare il gelato e non solo..."
 modified: 2015-07-31
-tags: [latte condensato, latte vegetale, panna vegetale, zucchero, vegan]
+tags: [conserve, vegan]
 image:
   feature: Latte condensato vegan/lattecondensatovegan-header.jpg
 comments: true

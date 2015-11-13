@@ -3,7 +3,7 @@ layout: post
 title: Penne alla Erica
 description: "Un sughetto con un'ingrediente segreto..."
 modified: 2014-06-04
-tags: [pasta, primo, pomodori, fragole, fragoline, peperoni, agrodolce, vegan]
+tags: [pasta, primi, fragole, vegan]
 image:
   feature: penneerica-header.jpg
 comments: true

@@ -3,7 +3,7 @@ layout: post
 title: Quiche con porro e salmone
 description: "Per chi deve preparare qualcosina velocemente..."
 modified: 2013-12-10
-tags: [quiche, torta salata, salmone, porro]
+tags: [aperitivo, quiche, torta salata, salmone, porro]
 image:
   feature: quicheporrosalmone-header.jpg
 comments: true

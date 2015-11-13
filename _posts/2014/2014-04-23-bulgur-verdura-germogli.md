@@ -3,7 +3,7 @@ layout: post
 title: Bulgur con verdura e germogli
 description: "Un piatto unico sanissimo..."
 modified: 2014-04-23
-tags: [bulgur, curcuma, peperoni, zucchine, carote, piselli, pannocchiette, germogli]
+tags: [bulgur, piatti unici, vegan]
 image:
   feature: bulgurverduragermogli-header.jpg
 comments: true

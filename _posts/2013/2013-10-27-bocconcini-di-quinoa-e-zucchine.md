@@ -3,7 +3,7 @@ layout: post
 title: Bocconcini di quinoa e zucchine
 description: "Un aperitivo velocissimo e sanissimo"
 modified: 2013-10-27
-tags: [quinoa, aperitivo, spizzichini, zucchine]
+tags: [quinoa, aperitivo, zucchine]
 image:
   feature: bocconciniquinoa-header.jpg
   credit: Niedereschbach

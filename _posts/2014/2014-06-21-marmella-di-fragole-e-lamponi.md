@@ -3,7 +3,7 @@ layout: post
 title: Marmellata di fragole e lamponi
 description: "La marmellata più buona in assoluto!"
 modified: 2014-06-21
-tags: [marmellata, vaniglia, lamponi, fragole]
+tags: [conserve, marmellata, lamponi, fragole]
 image:
   feature: fragolelamponi-header.jpg
 comments: true

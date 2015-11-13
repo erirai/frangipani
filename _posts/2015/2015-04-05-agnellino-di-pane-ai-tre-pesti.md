@@ -3,7 +3,7 @@ layout: post
 title: Agnellino di Pane ai tre Pesti
 description: "Del buon Pane farcito da portare ad una scampagnata..."
 modified: 2015-04-05
-tags: [pane, pasta di pane, pane farcito, pesto, basilico, pinoli, pomodori secchi, aglio orsino, pasqua]
+tags: [panificati, pasta lievita, pesto, pasqua]
 image:
   feature: Agnellino di pane ai tre pesti/agnellinopanepesti-header.jpg
 comments: true

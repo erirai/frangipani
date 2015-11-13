@@ -3,7 +3,7 @@ layout: post
 title: Sale alle Erbe
 description: "Sale, con un profumo meraviglioso alle Erbe!"
 modified: 2015-07-12
-tags: [sale, erbe, sale aromatizzato, basilico, prezzemolo, rosmarino, timo, origano, menta, melissa, salvia, alloro, vegan]
+tags: [sale, conserve, erbe aromatiche, vegan]
 image:
   feature: Sale alle erbe/saleerbe-header.jpg
 comments: true

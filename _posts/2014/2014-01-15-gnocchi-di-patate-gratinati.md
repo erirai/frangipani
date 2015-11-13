@@ -3,7 +3,7 @@ layout: post
 title: Gnocchi di patate gratinati
 description: "Una golosissima alternativa alla pasta..."
 modified: 2014-01-15
-tags: [gnocchi, patate, sugo, primo]
+tags: [gnocchi, patate, sugo, primi]
 image:
   feature: gnocchipatate-header.jpg
 comments: true

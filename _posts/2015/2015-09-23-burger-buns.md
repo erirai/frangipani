@@ -3,7 +3,7 @@ layout: post
 title: Burger Buns
 description: "Hamburger? Solo con il panino giusto!"
 modified: 2015-09-23
-tags: [hamburger, panino, panino al latte, pane, lievitati, vegan]
+tags: [burger, pasta lievita, panificati, vegan]
 image:
   feature: Burger buns/burgerbuns-header.jpg
 comments: true

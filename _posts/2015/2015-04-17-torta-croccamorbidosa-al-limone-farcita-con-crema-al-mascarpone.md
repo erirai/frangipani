@@ -3,7 +3,7 @@ layout: post
 title: Torta Croccamorbidosa al Limone farcita con Crema al Mascarpone
 description: "Croccante, morbida e cremosa... c'è tutto!"
 modified: 2015-04-17
-tags: [torta al limone, torta farcita, crumble, limone, mascarpone, crema al mascarpone]
+tags: [torta, dolci, limone, mascarpone]
 image:
   feature: Torta croccamorbidosa al limone farcita con crema al mascarpone/tortacroccamorbidosalimonecremamascarpone-header.jpg
 comments: true

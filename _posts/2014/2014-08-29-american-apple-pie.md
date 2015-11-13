@@ -3,7 +3,7 @@ layout: post
 title: American Apple Pie (vegan)
 description: "La classica Apple Pie, come nei cartoni animati..."
 modified: 2013-10-29
-tags: [apple pie, torta di mele, mele, pasta frolla, torta, vegan]
+tags: [dolci, mele, pasta frolla, torta, vegan]
 image:
   feature: American Apple Pie/amapplepie-header.jpg
 comments: true

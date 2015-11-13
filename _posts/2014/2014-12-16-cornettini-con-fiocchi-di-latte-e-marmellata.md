@@ -3,7 +3,7 @@ layout: post
 title: Cornettini con fiocchi di latte e marmellata
 description: "Dei biscotti un po' diversi ma buonissimi!"
 modified: 2014-12-16
-tags: [biscotti, fiocchi di latte, marmellata, cornettini, natale]
+tags: [biscotti, fiocchi di latte, natale]
 image:
   feature: Cornettini con fiocchi di latte e marmellata/cornettinifiocchidilattemarmellata-header.jpg
 comments: true

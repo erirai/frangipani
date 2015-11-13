@@ -3,7 +3,7 @@ layout: post
 title: Ciambella ai frutti di bosco (vegan)
 description: "Una buonissima ciambella dai gusti estivi!"
 modified: 2014-07-25
-tags: [ciambella, torta, frutti di bosco, ribes, more, lamponi, fragole, mirtilli, vegan]
+tags: [dolci, torta, ribes, more, lamponi, fragole, mirtilli, vegan]
 image:
   feature: Ciambella ai frutti di bosco/ciambellafruttidibosco-header.jpg
 comments: true

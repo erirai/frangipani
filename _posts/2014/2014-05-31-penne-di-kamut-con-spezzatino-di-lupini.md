@@ -3,7 +3,7 @@ layout: post
 title: Penne di kamut con spezzatino di lupini
 description: "Un'altro modo per gustare i lupini..."
 modified: 2014-05-31
-tags: [pasta, kamut, lupini, pomodori, porro, vegan]
+tags: [primi, pasta, kamut, lupini, vegan]
 image:
   feature: pennekamutconspezzatinolupini-header.jpg
 comments: true

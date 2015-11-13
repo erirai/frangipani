@@ -3,7 +3,7 @@ layout: post
 title: Polpette di Pane
 description: "Una validissima alternativa alle polpette di macinato!"
 modified: 2015-05-28
-tags: [polpette, polpette vegetariane, pane, vegetariano]
+tags: [polpette]
 image:
   feature: Polpette di pane/polpettepane-header.jpg
 comments: true

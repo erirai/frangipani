@@ -3,7 +3,7 @@ layout: post
 title: Fiori di zucca ripieni di mozzarella
 description: "Un modo velocissimo per fare dei gustosissimi fiori di zucca"
 modified: 2014-03-19
-tags: [fiori di zucca, mozzarella, sardine, pastella]
+tags: [fiori di zucca, mozzarella, aperitivo]
 image:
   feature: fiorizuccamozzarella-header.jpg
   credit: Petr Kratochvil

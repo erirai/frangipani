@@ -3,7 +3,7 @@ layout: post
 title: Muffin salati con zucchine e asiago
 description: "Ottimi da portare ad una scampagnata"
 modified: 2014-07-01
-tags: [muffin, muffin salati, zucchine, asiago, formaggio, picnic, vegetariano]
+tags: [muffin, zucchine, aperitivo]
 image:
   feature: Muffin salati con zucchine e asiago/muffinsalatizucchineasiago-header.jpg
 comments: true

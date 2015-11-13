@@ -3,7 +3,7 @@ layout: post
 title: Frollini all'Arancia
 description: "Friabili ma morbidi con un buonissimo gusto all'arancia..."
 modified: 2014-12-04
-tags: [pasta frolla montata, sac à poche, arancia, biscotti, natale]
+tags: [pasta frolla, arance, biscotti, natale]
 image:
   feature: Frollini all'arancia/frolliniarancia-header.jpg
 comments: true

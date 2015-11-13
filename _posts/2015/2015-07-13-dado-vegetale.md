@@ -3,7 +3,7 @@ layout: post
 title: Dado Vegetale
 description: "Perché fatto in casa è sempre più buono!"
 modified: 2015-07-12
-tags: [dado vegetale, pomodori, carote, sedano, cipolle, erbette, brodo vegetale, vegan]
+tags: [conserve, sale, vegan]
 image:
   feature: Dado vegetale/dadovegetale-header.jpg
 comments: true

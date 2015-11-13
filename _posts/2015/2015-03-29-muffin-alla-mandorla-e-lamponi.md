@@ -3,7 +3,7 @@ layout: post
 title: Muffin alla Mandorla e Lamponi
 description: "Semplicemente gustosissimi!"
 modified: 2015-03-29
-tags: [muffin, lamponi, mandorle, vegan]
+tags: [dolci, muffin, lamponi, mandorle, vegan]
 image:
   feature: Muffin alla mandorla e lamponi/muffinmandorlalamponi-header.jpg
 comments: true

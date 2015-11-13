@@ -3,7 +3,7 @@ layout: post
 title: Torroncini al Cioccolato
 description: "Il torrone come sicuramente piacerà a tutti!"
 modified: 2014-10-18
-tags: [cioccolato, cioccolato fondente, cioccolato bianco, nutella, crema di nocciole, nocciole, torrone, natale]
+tags: [cioccolato, nutella, nocciole, natale]
 image:
   feature: Torroncini al Cioccolato/torroncinicioccolato-header.jpg
 comments: true

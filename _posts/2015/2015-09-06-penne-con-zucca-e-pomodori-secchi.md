@@ -3,7 +3,7 @@ layout: post
 title: Penne con Zucca e Pomodori Secchi
 description: "Ecco la Zucca, la regina indiscussa dell'autunno!"
 modified: 2015-09-06
-tags: [zucca, pomodori secchi, pasta, primo piatto, vegan]
+tags: [zucca, pomodori secchi, pasta, primi, vegan]
 image:
   feature: Penne con zucca e pomodori secchi/pennezuccapomodorisecchi-header.jpg
 comments: true

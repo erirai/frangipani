@@ -3,7 +3,7 @@ layout: post
 title: Scorzette d'Arancia candite
 description: "Una di quelle cose che non può mancare sulle nostre tavole natalizie..."
 modified: 2014-12-16
-tags: [scorze d'arancia candite, arance, zucchero, natale, vegan]
+tags: [conserve, arance, natale, vegan]
 image:
   feature: Scorze d'arancia candite/scorzearanciacandite-header.jpg
 comments: true

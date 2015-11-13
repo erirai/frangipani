@@ -3,7 +3,7 @@ layout: post
 title: Bisquit farcito con Mousse al Cioccolato Bianco e Lamponi
 description: "Una torta che va bene per ogni occasione!"
 modified: 2015-01-13
-tags: [bisquit, cioccolato bianco, lamponi, mousse al cioccolato, panna vegetale, vegan]
+tags: [dolci, cioccolato bianco, lamponi, torta, vegan]
 image:
   feature: Bisquit farcito con mousse al cioccolato bianco e lamponi/bisquitfarcitomoussecioccolatobiancolamponi-header.jpg
 comments: true

@@ -3,7 +3,7 @@ layout: post
 title: Gugl more e Philadelphia
 description: "Piccolissimi dolcetti estivi semplicemente adorabili!"
 modified: 2014-07-18
-tags: [dolcetti, gugl, gugelhupf, more, philadelphia]
+tags: [dolci, more, philadelphia]
 image:
   feature: Gugl more e Philadelphia/guglmorephiladelphia-header.jpg
 comments: true
