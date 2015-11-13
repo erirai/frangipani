@@ -3,7 +3,7 @@ layout: post
 title: Polpette di Patate alla Siciliana
 description: "Una cena rustica per la vigilia di Natale..."
 modified: 2014-12-24
-tags: [piatti unici, patate, polpette, vegan]
+tags: [piatto unico, patate, polpette, vegan]
 image:
   feature: Polpette di patate alla siciliana/polpettepatate-header.jpg
 comments: true

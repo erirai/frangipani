@@ -3,7 +3,7 @@ layout: post
 title: Tuorta da Nusch (Torta di Noci Grigionese)
 description: "Un guscio di pasta frolla con un cuore di caramello e noci..."
 modified: 2015-02-27
-tags: [dolci, noci, pasta frolla, vegan]
+tags: [dolci, noci, pasta frolla, tarte, vegan]
 image:
   feature: Tuorta da nusch/tuortadanusch-header.jpg
 comments: true

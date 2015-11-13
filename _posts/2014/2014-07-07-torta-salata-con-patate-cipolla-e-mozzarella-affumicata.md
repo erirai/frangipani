@@ -3,7 +3,7 @@ layout: post
 title: Torta salata con patate, cipolla e mozzarella affumicata
 description: "Una torta salata sfiziosa e saziante!"
 modified: 2014-07-07
-tags: [aperitivo, torta salata, pasta sfoglia, patate, cipolle, mozzarella]
+tags: [torta salata, pasta sfoglia, patate, cipolle, mozzarella]
 image:
   feature: Torta salata con patate cipolla e mozzarella affumicata/tortasalatapatatecipollamozzarellaaffumicata-header.jpg
 comments: true

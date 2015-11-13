@@ -3,7 +3,7 @@ layout: post
 title: Sale alle Erbe
 description: "Sale, con un profumo meraviglioso alle Erbe!"
 modified: 2015-07-12
-tags: [sale, conserve, erbe aromatiche, vegan]
+tags: [sale, conserve, erbe aromatiche]
 image:
   feature: Sale alle erbe/saleerbe-header.jpg
 comments: true

@@ -3,7 +3,7 @@ layout: post
 title: Whoopie-Pies ai ribes farciti con panna e Quark
 description: "Un Sandwich fruttoso con una fantastica crema!"
 modified: 2014-06-30
-tags: [dolci, ribes]
+tags: [dolci, ribes, whoopies]
 image:
   feature: Whoopie-Pies ai ribes farciti con panna e Quark/whoopiepiesribespannaquark-header.jpg
 comments: true

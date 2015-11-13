@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Crespelle ripiene di funghi e besciamella (vegan)
+title: Crespelle ripiene di funghi e besciamella
 description: "Dei cannelloni un po' diversi..."
 modified: 2014-07-14
-tags: [piatti unici, crespelle, funghi, besciamella, vegan]
+tags: [piatto unico, crespelle, funghi, besciamella, vegan]
 image:
   feature: Crespelle ripiene di funghi e besciamella/crespellefunghibesciamella-header.jpg
 comments: true

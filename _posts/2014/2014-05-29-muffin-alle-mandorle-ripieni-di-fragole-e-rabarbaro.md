@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Muffin alle mandorle ripieni di fragole e rabarbaro (vegan)
+title: Muffin alle mandorle ripieni di fragole e rabarbaro
 description: "Dei semplicissimi muffin con una golosissima sorpresa..."
 modified: 2014-05-29
 tags: [dolci, muffin, mandorle, fragole, rabarbaro, vegan]

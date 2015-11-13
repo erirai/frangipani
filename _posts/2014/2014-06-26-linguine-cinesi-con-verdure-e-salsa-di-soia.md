@@ -3,7 +3,7 @@ layout: post
 title: Linguine cinesi con verdure e salsa di soia
 description: "Oggi si mangia cinese..."
 modified: 2014-06-26
-tags: [pasta, primi, vegan]
+tags: [pasta, piatto unico, vegan]
 image:
   feature: Linguine cinesi con verdure e salsa di soia/linguinecinesiverduresoia-header.jpg
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cupcakes limone e ribes (vegan)
+title: Cupcakes limone e ribes
 description: "Dei Cupcakes freschissimi, perfetti per l'estate"
 modified: 2014-07-04
 tags: [dolci, cupcakes, muffin, limone, ribes, vegan]

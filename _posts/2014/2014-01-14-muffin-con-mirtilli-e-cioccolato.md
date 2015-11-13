@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Muffin con mirtilli e cioccolato (vegan)
+title: Muffin con mirtilli e cioccolato
 description: "Muffin buonissimi, velocissimi e privi d'ingredienti animali..."
 modified: 2014-01-14
 tags: [muffin, mirtilli, cioccolato, vegan, dolci]

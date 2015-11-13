@@ -3,7 +3,7 @@ layout: post
 title: Stelle Filanti
 description: "Fresche, buone e non fritte!"
 modified: 2015-02-13
-tags: [dolci, limone, carnevale]
+tags: [dolci, limone, carnevale, frittelline]
 image:
   feature: Stelle filanti/stellefilanti-header.jpg
 comments: true

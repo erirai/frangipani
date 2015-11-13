@@ -3,7 +3,7 @@ layout: post
 title: Polpette di broccoli con cuore di mozzarella
 description: "Delle polpettine molto gustose con un cuore filante..."
 modified: 2014-07-18
-tags: [polpette, broccoli, mozzarella, aperitivo]
+tags: [polpette, broccoli, mozzarella, secondi]
 image:
   feature: Polpette di broccoli con cuore di mozzarella/polpettebroccolimozzarella-header.jpg
   credit: Lode Van de Velde

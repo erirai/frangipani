@@ -3,7 +3,7 @@ layout: post
 title: Burger di Melanzane e Pommes Frites
 description: "Chi ha mai detto che i Veggie-Burger non sono buoni?!"
 modified: 2015-09-23
-tags: [piatti unici, burger, melanzane, patate, vegan]
+tags: [piatto unico, burger, melanzane, patate, vegan]
 image:
   feature: Burger di melanzane con pommes frites/burgermelanzanepommes-header.jpg
 comments: true

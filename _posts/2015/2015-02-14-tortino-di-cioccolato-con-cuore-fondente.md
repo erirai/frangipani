@@ -3,7 +3,7 @@ layout: post
 title: Tortino di Cioccolato con Cuore fondente
 description: "Uno dei classici più buoni al mondo!"
 modified: 2015-02-14
-tags: [dolci, cioccolato]
+tags: [dolci, cioccolato, torta]
 image:
   feature: Tortino di cioccolato con cuore fondente/tortinocioccolatocuorefondente-header.jpg
 comments: true

@@ -3,7 +3,7 @@ layout: post
 title: Torta Salata con Patate, Cipolle e Carote Glassate
 description: "Boom! Un'esplosione di gusti!"
 modified: 2015-05-25
-tags: [torta salata, patate, carote, cipolle, aperitivo, pasta brisé]
+tags: [torta salata, patate, carote, cipolle, pasta brisé]
 image:
   feature: Torta salata con patate cipolle e carote glassate/tortasalatapatatecipollecaroteglassate-header.jpg
 comments: true

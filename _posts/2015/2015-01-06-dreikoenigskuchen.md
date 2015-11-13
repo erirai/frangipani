@@ -3,7 +3,7 @@ layout: post
 title: Dreikönigskuchen
 description: "Chi sarà oggi il Re o la Regina?"
 modified: 2015-01-06
-tags: [panificati, pasta lievita, vegan]
+tags: [panificati, pasta lievita, natale, vegan]
 image:
   feature: Dreikoenigskuchen/dreikoenigskuchen-header.jpg
 comments: true

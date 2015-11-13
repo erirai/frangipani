@@ -3,7 +3,7 @@ layout: post
 title: Torta Salata Halloweeniana
 description: "Una torta salata dai colori halloweeniani..."
 modified: 2015-10-28
-tags: [torta salata, patate, zucca, pasta brisé, halloween, aperitivo]
+tags: [torta salata, patate, zucca, pasta brisé, halloween]
 image:
   feature: torta salata halloweeniana/tortasalatahalloween-header.jpg
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Brioches ripiene (vegan)
+title: Brioches ripiene
 description: "Delle Brioches perfette per colazione o merenda!"
 modified: 2014-08-01
 tags: [brioche, nutella, marmellata, colazione, vegan]

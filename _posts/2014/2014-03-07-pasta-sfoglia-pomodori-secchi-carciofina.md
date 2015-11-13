@@ -3,7 +3,7 @@ layout: post
 title: Pasta sfoglia ripiena di pomodori secchi e carciofina
 description: "Uno stuzzichino velocissimo e gustosissimo!"
 modified: 2014-03-07
-tags: [aperitivo, pomodori secchi, carciofi, pasta sfoglia]
+tags: [torta salata, pomodori secchi, carciofi, pasta sfoglia]
 image:
   feature: pastasfogliapomodoricarciofina-header.jpg
 comments: true

@@ -3,7 +3,7 @@ layout: post
 title: Rotoli di verza ripieni di risotto
 description: "Un modo per far mangiare la verza a tutti!"
 modified: 2014-03-10
-tags: [piatti unici, riso, verza]
+tags: [piatto unico, riso, verza]
 image:
   feature: rotoliverzariso-header.jpg
   credit: George Hodan

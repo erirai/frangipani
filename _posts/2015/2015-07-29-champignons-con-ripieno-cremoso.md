@@ -3,7 +3,7 @@ layout: post
 title: Champignons con Ripieno Cremoso
 description: "Un ottimo contorno per una grigliata vegetariana..."
 modified: 2015-07-29
-tags: [funghi, erbe aromatiche, pomodori secchi, philadelphia, aperitivo]
+tags: [funghi, erbe aromatiche, pomodori secchi, philadelphia, secondi]
 image:
   feature: Champignons con ripieno cremoso/champignonsripienocremoso-header.jpg
 comments: true

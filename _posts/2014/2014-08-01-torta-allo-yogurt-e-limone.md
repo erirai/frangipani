@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Torta allo yogurt e limone (vegan)
+title: Torta allo yogurt e limone
 description: "Una torta farcita freschissima e buonissima!"
 modified: 2014-08-01
 tags: [dolci, torta, yogurt, limone, vegan]

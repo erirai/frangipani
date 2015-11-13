@@ -3,7 +3,7 @@ layout: post
 title: Clafoutis di Ciliegie vegan
 description: "Fresco, veloce e pure vegan!"
 modified: 2015-06-05
-tags: [ciliegie, dolci, vegan]
+tags: [ciliegie, dolci, tarte, vegan]
 image:
   feature: Clafoutis di ciliegie/clafoutisciliegie-header.jpg
 comments: true

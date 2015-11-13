@@ -3,7 +3,7 @@ layout: post
 title: Treccia salata ripiena di zucca e patate
 description: "Una torta salata supersfiziosa..."
 modified: 2014-10-31
-tags: [aperitivo, halloween, zucca, patate, pasta sfoglia, vegan]
+tags: [torta salata, halloween, zucca, patate, pasta sfoglia, vegan]
 image:
   feature: Treccia salata ripiena di zucca e patate/trecciasalatazuccapatate-header.jpg
 comments: true

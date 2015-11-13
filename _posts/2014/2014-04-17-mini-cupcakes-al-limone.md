@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mini Cupcakes al limone (vegan)
+title: Mini Cupcakes al limone
 description: "Piccolissimi dolcetti al limone uno tira l'altro..."
 modified: 2014-04-17
 tags: [muffin, cupcakes, limone, vegan, dolci]

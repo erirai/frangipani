@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Baci di Dama al Cioccolato (vegan)
+title: Baci di Dama al Cioccolato
 description: "Del cioccolato abbracciato da due biscotti al cioccolato..."
 modified: 2014-12-04
 tags: [biscotti, cioccolato, mandorle, vegan, natale]

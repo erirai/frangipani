@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Crostata salata con zucchine, patate e pomodori (vegan)
+title: Crostata salata con zucchine, patate e pomodori
 description: "Fresca, veloce e semplicemente buonissima!"
 modified: 2014-07-25
-tags: [aperitivo, torta salata, zucchine, patate, pomodori, pasta sfoglia, vegan]
+tags: [torta salata, zucchine, patate, pomodori, pasta sfoglia, vegan]
 image:
   feature: Crostata salata con zucchine patate e pomodori/crostatasalatazucchinepatatepomodori-header.jpg
 comments: true

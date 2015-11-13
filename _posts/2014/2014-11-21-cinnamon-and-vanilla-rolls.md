@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Cinnamon and Vanilla Rolls (vegan)
+title: Cinnamon and Vanilla Rolls
 description: "Iniziamo con i dolci di natale..."
 modified: 2014-11-21
-tags: [dolci, pasta lievita, cannella, vaniglia, natale, vegan]
+tags: [panificati, dolci, pasta lievita, cannella, vaniglia, natale, vegan]
 image:
   feature: Cinnamon and vanilla rolls/cinnamonvanillarolls-header.jpg
 comments: true

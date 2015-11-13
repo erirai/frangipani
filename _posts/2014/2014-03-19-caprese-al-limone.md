@@ -3,7 +3,7 @@ layout: post
 title: Caprese al Limone
 description: "Un'alternativa alla solita caprese al cioccolato"
 modified: 2014-03-19
-tags: [limone, cioccolato bianco, dolci]
+tags: [limone, cioccolato bianco, dolci, torta]
 image:
   feature: capreselimone-header.jpg
   credit: Petr Kratochvil

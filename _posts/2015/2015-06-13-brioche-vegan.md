@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Brioche vegan
+title: Brioches
 description: "Soffici e gustose... a colazione Brioche!"
 modified: 2015-06-05
 tags: [brioche, colazione, vegan]

@@ -1,3 +1,5 @@
+"Attuale: Natale":
+  - natale 
 Colazione:
   - colazione 
 Aperitivi:
@@ -6,6 +8,8 @@ Antipasti:
   - antipasti
 "Primi Piatti":
   - primi
+"Secondi Piatti":
+  - secondi 
 "Piatti Unici":
   - piatto unico 
 Panificati:
@@ -21,6 +25,7 @@ Torte:
   - crostata  
   - tarte 
   - crumble
+  - strudel
 "Muffin, Cupcakes, Cake Pops...":
   - muffin 
   - cupcakes 
@@ -33,10 +38,11 @@ Torte:
 "Piccola Pasticceria":
   - macarons
   - cioccolatini
-  - torrone 
+  - torrone
+  - frittelline
+  - financiers 
 Conserve:
   - conserve
 Vegan:
   - vegan
-"Attuale: Natale":
-  - natale 
+

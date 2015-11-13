@@ -3,7 +3,7 @@ layout: post
 title: Muffin salati a tutte Zucchine
 description: "Perfetti per sfruttare a tutto campo le zucchine..."
 modified: 2015-06-29
-tags: [muffin, zucchine, fiori di zucca, aperitivo]
+tags: [muffin salati, zucchine, fiori di zucca, aperitivo]
 image:
   feature: Muffin salati a tutte zucchine/muffinsalatiattzucchine-header.jpg
 comments: true

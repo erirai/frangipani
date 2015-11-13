@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Polpette di melanzane (vegan)
+title: Polpette di melanzane
 description: "Un'ottima alternativa alle solite polpette di carne!"
 modified: 2014-06-18
-tags: [melanzane, polpette, aperitivo, vegan]
+tags: [melanzane, polpette, secondi, vegan]
 image:
   feature: polpettemelanzane-header.jpg
   credit: Free Picture Website

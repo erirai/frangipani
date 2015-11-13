@@ -3,7 +3,7 @@ layout: post
 title: Panino Pita con Köfte e Salsa Tahin
 description: "Un buonissimo panino con delle polpette vegan!"
 modified: 2015-02-05
-tags: [piatti unici, pita, polpette, melanzane, lenticchie, sesamo, vegan]
+tags: [piatto unico, pita, polpette, melanzane, lenticchie, sesamo, vegan]
 image:
   feature: Panino pita con koefte e salsa tahin/pitakoeftetahin-header.jpg
 comments: true

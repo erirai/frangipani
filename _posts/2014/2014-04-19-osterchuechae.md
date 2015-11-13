@@ -3,7 +3,7 @@ layout: post
 title: Osterchuechä (Torta di Pasqua)
 description: "L'alternativa svizzera alla nostra fantastica Pastiera Napoletana..."
 modified: 2014-04-19
-tags: [pasqua, dolci, semolino, pasta frolla]
+tags: [pasqua, dolci, semolino, pasta frolla, tarte]
 image:
   feature: osterchuechae-header.jpg
 comments: true

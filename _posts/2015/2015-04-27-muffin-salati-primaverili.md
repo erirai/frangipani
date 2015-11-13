@@ -3,7 +3,7 @@ layout: post
 title: Muffin salati Primaverili
 description: "Sfiziosi, gustosi e vegani!"
 modified: 2015-04-27
-tags: [muffin, zucchine, asparagi, melanzane, aperitivo, vegan]
+tags: [muffin salati, zucchine, asparagi, melanzane, aperitivo, vegan]
 image:
   feature: Muffin salati primaverili/muffinsalatiprimaverili-header.jpg
 comments: true

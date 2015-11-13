@@ -3,7 +3,7 @@ layout: post
 title: Mostarda d'Uva
 description: "Una delle tante specialità siciliane..."
 modified: 2014-10-17
-tags: [dolci, semolino, mandorle, uva, vegan]
+tags: [dolce al cucchiaio, dolci, semolino, mandorle, uva, vegan]
 image:
   feature: Mostarda di Uva/mostardauva-header.jpg
 comments: true

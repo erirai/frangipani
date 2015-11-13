@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Quiche con verdure e Tofu rosso (vegan)
+title: Quiche con verdure e Tofu rosso
 description: "Una torta salata perfetta per l'estate, anche per un picnic..."
 modified: 2014-06-05
-tags: [quiche, torta salata, tofu, vegan, aperitivo]
+tags: [quiche, torta salata, tofu, vegan]
 image:
   feature: quicheverduretofu-header.jpg
 comments: true

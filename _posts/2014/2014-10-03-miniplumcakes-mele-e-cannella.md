@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Mini-Plumcakes Mele e Cannella (vegan)
+title: Mini-Plumcakes Mele e Cannella
 description: "Un dolce perfetto per iniziare l'autunno..."
 modified: 2014-10-03
-tags: [dolci, mele, vegan]
+tags: [dolci, mele, muffin, vegan]
 image:
   feature: Miniplumcakes mele e cannella/minipcmelecannella-header.jpg
 comments: true

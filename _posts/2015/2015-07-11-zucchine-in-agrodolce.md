@@ -3,7 +3,7 @@ layout: post
 title: Zucchine in Agrodolce
 description: "Gustosissime col pane o come contorno..."
 modified: 2015-07-11
-tags: [zucchine, conserve, vegan]
+tags: [zucchine, conserve]
 image:
   feature: Zucchine in agrodolce/zucchineagrodolce-header.jpg
 comments: true

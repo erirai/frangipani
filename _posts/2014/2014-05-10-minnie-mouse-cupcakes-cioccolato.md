@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Minnie Mouse Cupcakes al cioccolato (vegan)
+title: Minnie Mouse Cupcakes al cioccolato
 description: "Perfetti per il Compleanno di una femminuccia..."
 modified: 2014-05-10
 tags: [dolci, cupcakes, cioccolato, muffin, vegan]

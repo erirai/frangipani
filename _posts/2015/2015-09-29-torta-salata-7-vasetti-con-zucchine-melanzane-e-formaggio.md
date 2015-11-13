@@ -3,7 +3,7 @@ layout: post
 title: Torta Salata 7 Vasetti con Zucchine, Melanzane e Formaggio
 description: "Una di quelle ricette salvacena..."
 modified: 2015-09-29
-tags: [torta salata, yogurt, zucchine, melanzane, aperitivo]
+tags: [torta salata, yogurt, zucchine, melanzane]
 image:
   feature: Torta salata 7 vasetti con zucchine melanzane e formaggio/tortasalata7vzucchinemelanzaneformaggio-header.jpg
 comments: true
