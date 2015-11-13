@@ -3,7 +3,7 @@ layout: post
 title: Sfoglia di mele con crema di vaniglia
 description: "La sfoglia di mele più buona in assoluto!"
 modified: 2013-11-10
-tags: [mele, crema pasticcera, vaniglia, dolci]
+tags: [mele, crema pasticcera, vaniglia, dolci, crostata]
 image:
   feature: cdmccdv-header.jpg
   credit: Rasbak

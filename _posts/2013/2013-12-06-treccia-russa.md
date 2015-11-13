@@ -3,7 +3,7 @@ layout: post
 title: Treccia Russa
 description: "Per chi ama le noccioline..."
 modified: 2013-12-06
-tags: [nocciole, dolci, natale]
+tags: [nocciole, dolci, natale, pasta lievita, panificati]
 image:
   feature: trecciarussa-header.jpg
 comments: true

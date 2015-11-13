@@ -4,9 +4,9 @@ Aperitivi:
   - aperitivo
 Antipasti:
   - antipasti
-Primi Piatti:
+"Primi Piatti":
   - primi
-Piatti Unici:
+"Piatti Unici":
   - piatto unico 
 Panificati:
   - panificati
@@ -26,7 +26,7 @@ Torte:
   - cupcakes 
   - cake pops
   - whoopies 
-"Dolci al cucchiaio, gelati...":
+"Dolci al cucchiaio, Gelati...":
   - dolce al cucchiaio
   - gelato
   - sorbetto
@@ -38,5 +38,5 @@ Conserve:
   - conserve
 Vegan:
   - vegan
-"Attuale: Natale"
+"Attuale: Natale":
   - natale 
