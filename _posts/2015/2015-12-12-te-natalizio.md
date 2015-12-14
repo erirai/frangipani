@@ -3,7 +3,7 @@ layout: post
 title: Té Natalizio
 description: "Un buonissimo té da regalare ai vostri cari..."
 modified: 2015-12-12
-tags: [té, natale, regali DIY]
+tags: [té, natale]
 image:
   feature: te natalizio/tenatalizio-header.jpg
 comments: true
