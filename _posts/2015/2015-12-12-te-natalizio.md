@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Té Natalizio
+title: "Té Natalizio"
 description: "Un buonissimo té da regalare ai vostri cari..."
 modified: 2015-12-12
 tags: [té, natale]
