@@ -87,7 +87,7 @@ Finalmente anche io ce l'ho fatta a studiarmi un po' il fantastico sito di iFood
   </font> Preparazione
 </h3>
 
-Mettete in una ciotola capiente l'olio di semi, lo zucchero di canna, il sale e il puré di mandorle (lo trovate nei negozi bio), mescolate bene facendo scioglire bene il puré di mandorle. Poi aggiungete il lievito, la vaniglia ed il latte vegetale e mescolate ancora. Poi poco alla volta aggiungete la farina e la fecola di mais setacciate. Amalgamate bene il tutto facendo attenzione a non creare grumi. Poi aggiungete una pera precedentemente sbucciata e tagliata a pezzettini e date un'ultima mescolata. Versate l'impasto in una forma da Plumcake da 18cm imburrata ed infarinata.
+Mettete in una ciotola capiente l'olio di semi, lo zucchero di canna, il sale e il puré di mandorle (lo trovate nei negozi bio), mescolate bene facendo sciogliere bene il puré di mandorle. Poi aggiungete il lievito, la vaniglia ed il latte vegetale e mescolate ancora. Poi poco alla volta aggiungete la farina e la fecola di mais setacciate. Amalgamate bene il tutto facendo attenzione a non creare grumi. Poi aggiungete una pera precedentemente sbucciata e tagliata a pezzettini e date un'ultima mescolata. Versate l'impasto in una forma da Plumcake da 18cm imburrata ed infarinata.
 ![frangipani © Erica]({{ site.baseurl }}/images/torta di pere alla cannella con frutti di bosco autunnali/tortaperecannellafdb-impasto.jpg)
 {: .pull-right}
 Adesso pelate le altra due pere, togliete il torsolo e tagliatele a fettine. Adagiate le fettine di pera sulla torta e finite con una spolverata di cannella.
