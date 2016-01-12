@@ -8,8 +8,9 @@ Antipasti:
   - antipasti
 "Primi Piatti":
   - primi
-"Secondi Piatti":
-  - secondi 
+"Secondi Piatti e Contorni":
+  - secondi
+  - contorno 
 "Piatti Unici":
   - piatto unico 
 Panificati:
