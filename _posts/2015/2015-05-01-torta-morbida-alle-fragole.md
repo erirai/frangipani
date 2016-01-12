@@ -3,7 +3,7 @@ layout: post
 title: Torta morbida alle Fragole
 description: "Un'idea per la Festa della Mamma..."
 modified: 2015-05-01
-tags: [fragole, torta, dolci]
+tags: [San Valentino, fragole, torta, dolci]
 image:
   feature: Torta morbida alle fragole/tortamorbidafragole-header.jpg
 comments: true

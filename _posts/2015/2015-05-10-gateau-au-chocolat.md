@@ -3,7 +3,7 @@ layout: post
 title: Gâteau au Chocolat
 description: "Un classico perfetto per un copleanno o per qualsiasi altra occasione..."
 modified: 2015-05-10
-tags: [torta, cioccolato, dolci, vegan]
+tags: [San Valentino, torta, cioccolato, dolci, vegan]
 image:
   feature: Gateau au chocolat/gateauauchocolat-header.jpg
 comments: true

@@ -3,7 +3,7 @@ layout: post
 title: Sorbetto di fragole e lamponi
 description: "Il sorbetto perfetto per iniziare l'estate!"
 modified: 2014-06-21
-tags: [dolci, sorbetto, lamponi, fragole]
+tags: [San Valentino, dolci, sorbetto, lamponi, fragole]
 image:
   feature: fragolelamponi-header.jpg
 comments: true

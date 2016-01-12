@@ -3,7 +3,7 @@ layout: post
 title: "Torta Praliné"
 description: "Cioccolato, cioccolato e ancora cioccolato..."
 modified: 2015-11-20
-tags: [torta, cioccolato, vegan]
+tags: [San Valentino, torta, cioccolato, vegan]
 image:
   feature: torta praline/tortapraline-header.jpg
 comments: true

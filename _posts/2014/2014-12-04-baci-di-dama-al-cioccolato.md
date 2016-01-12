@@ -3,7 +3,7 @@ layout: post
 title: Baci di Dama al Cioccolato
 description: "Del cioccolato abbracciato da due biscotti al cioccolato..."
 modified: 2014-12-04
-tags: [biscotti, cioccolato, mandorle, vegan, natale]
+tags: [San Valentino, biscotti, cioccolato, mandorle, vegan, natale]
 image:
   feature: Baci di dama al cioccolato/bacidamacioccolato-header.jpg
 comments: true

@@ -3,7 +3,7 @@ layout: post
 title: Torta Croccamorbidosa al Cioccolato
 description: "Sopra croccante, sotto morbidosa..."
 modified: 2015-04-11
-tags: [torta, dolci, cioccolato, vegan]
+tags: [San Valentino, torta, dolci, cioccolato, vegan]
 image:
   feature: Torta croccamorbidosa al cioccolato/tortacroccamorbidosacioccolato-header.jpg
 comments: true

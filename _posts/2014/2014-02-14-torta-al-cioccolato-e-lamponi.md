@@ -3,7 +3,7 @@ layout: post
 title: Torta al cioccolato e lamponi
 description: "Un bel dolce da fare per San Valentino... e non solo!"
 modified: 2014-02-14
-tags: [dolci, cioccolato, lamponi, torta, vegan]
+tags: [San Valentino, dolci, cioccolato, lamponi, torta, vegan]
 image:
   feature: tortacioccolatolamponi-header.jpg
 comments: true

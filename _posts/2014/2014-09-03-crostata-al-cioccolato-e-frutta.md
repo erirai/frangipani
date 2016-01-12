@@ -3,7 +3,7 @@ layout: post
 title: Crostata al Cioccolato con frutta
 description: "Una crostata supercioccolatosa con un tocco di freschezza!"
 modified: 2014-09-03
-tags: [crostata, cioccolato, pasta frolla, dolci]
+tags: [San Valentino, crostata, cioccolato, pasta frolla, dolci]
 image:
   feature: Crostata al cioccolato e frutta/crostatacioccolatofrutta-header.jpg
 comments: true

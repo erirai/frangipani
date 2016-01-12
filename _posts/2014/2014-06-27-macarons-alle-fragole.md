@@ -3,7 +3,7 @@ layout: post
 title: Macarons alle fragole
 description: "Fantastici dolcetti per tutte le stagioni, iniziamo con l'estate!"
 modified: 2014-06-27
-tags: [dolci, macarons, fragole]
+tags: [San Valentino, dolci, macarons, fragole]
 image:
   feature: Macarons alle fragole/macaronsfragole-header.jpg
 comments: true
