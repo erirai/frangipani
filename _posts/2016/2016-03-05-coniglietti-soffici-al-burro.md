@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Coniglietti Soffici"
+title: "Coniglietti Soffici al Burro"
 description: "Per una soffice colazione di Pasqua!"
 modified: 2016-03-05
 tags: [pasqua, pasta lievita, colazione, vegan]
