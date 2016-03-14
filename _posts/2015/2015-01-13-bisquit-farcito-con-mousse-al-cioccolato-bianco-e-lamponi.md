@@ -47,6 +47,10 @@ Eh si, oggi mia mamma festeggia il suo primo mezzo secolo... Per non far fare al
         <td>sale</td>
       </tr>
       <tr>
+        <td>180ml</td>
+        <td>olio di semi</td>
+      </tr>
+      <tr>
         <td>200ml</td>
         <td>latte vegetale</td>
       </tr>
