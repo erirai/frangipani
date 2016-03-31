@@ -27,6 +27,7 @@ Dato che abbiamo raccolto un bel po' di fragole e lamponi, mia sorella ha pensat
       <tr>
         <td>succo di limone</td>
       </tr>
+      <tr>
         <td>zucchero di canna</td>        
       </tr>
     </tbody>
